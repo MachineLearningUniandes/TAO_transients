@@ -1,0 +1,462 @@
+SIMPLE  =                    T / file does conform to FITS standard             BITPIX  =                   16 / number of bits per data pixel                  NAXIS   =                    0 / number of data axes                            EXTEND  =                    T / FITS dataset may contain extensions            COMMENT   FITS (Flexible Image Transport System) format is defined in 'AstronomyCOMMENT   and Astrophysics', volume 376, page 359; bibcode: 2001A&A...376..359H END                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             XTENSION= 'BINTABLE'           / binary table extension                         BITPIX  =                    8 / 8-bit bytes                                    NAXIS   =                    2 / 2-dimensional binary table                     NAXIS1  =                   39 / width of table in bytes                        NAXIS2  =                   12 / number of rows in table                        PCOUNT  =                    0 / size of special data area                      GCOUNT  =                    1 / one data group (required keyword)              TFIELDS =                    7 / number of fields in each row                   TTYPE1  = 'HDU_Ext '           / label for field   1                            TFORM1  = 'K       '           / data format of field: 8-byte INTEGER           TTYPE2  = 'Set_Number'         / label for field   2                            TFORM2  = '2A      '           / data format of field: ASCII Character          TTYPE3  = 'Date    '           / label for field   3                            TFORM3  = '7A      '           / data format of field: ASCII Character          TTYPE4  = 'MJD     '           / label for field   4                            TFORM4  = 'D       '           / data format of field: 8-byte DOUBLE            TTYPE5  = 'Field_ID'           / label for field   5                            TFORM5  = '6A      '           / data format of field: ASCII Character          TTYPE6  = 'Obs_In_Seq'         / label for field   6                            TFORM6  = '4A      '           / data format of field: ASCII Character          TTYPE7  = 'Cutout  '           / label for field   7                            TFORM7  = '4A      '           / data format of field: ASCII Character          CRTS_ID = 'CSS150429:100757+691446'                                             HIERARCH RA_(J2000) = 151.98629                                                 HIERARCH DEC_(J2000) = 69.24623                                                 N_IMAGES=                   12                                                  UT_DATE =          20150429.17                                                  MAG     =                12.98                                                  HIERARCH CSS_IMAGES = 1504291690214116397                                       SDSS    = 'yes     '                                                            OTHERS  =                11639                                                  FOLLOWED= 'no      '                                                            LAST    = '2016-03-16'                                                          LC      =                11639                                                  FC      = 'yes     '                                                            CLASS   = 'HPM LHS_2222'                                                        END                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    0109FEB03@êÊ&Š›ÏÕN6902100041219       0109MAR25@êÐjb#á‡N6902100011117       0109MAR25@êÐjw…r›N6902100021117       0109MAR25@êÐjŒûüeN6902100031117       0110APR05@êÿh5çBšN6902100011217       0110APR05@êÿhRç-¡N6902100021217       0110APR05@êÿhp&ÉN6902100031117       	0110APR05@êÿhŒûüeN6902100041217       
+0110MAY19@ëæn¬†N6902100011117       0110MAY19@ëæF N6902100021117       0110MAY19@ëæ¯¢ðZN6902100031117       0110MAY19@ëæÐR“KN6902100041117                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            XTENSION= 'IMAGE   '           / IMAGE extension                                BITPIX  =                   16 / number of bits per data pixel                  NAXIS   =                    2 / number of data axes                            NAXIS1  =                   64 / length of data axis 1                          NAXIS2  =                   64 / length of data axis 2                          PCOUNT  =                    0 / required keyword; must = 0                     GCOUNT  =                    1 / required keyword; must = 1                     BZERO   =                32768 / offset data range to that of unsigned short    BSCALE  =                    1 / default scaling factor                         CRTS_ID = 'CSS150429:100757+691446'                                             HIERARCH RA_(J2000) = 151.98629                                                 HIERARCH DEC_(J2000) = 69.24623                                                 N_IMAGES=                   12                                                  UT_DATE =          20150429.17                                                  MAG     =                12.98                                                  HIERARCH CSS_IMAGES = 1504291690214116397                                       SDSS    = 'yes     '                                                            OTHERS  =                11639                                                  FOLLOWED= 'no      '                                                            LAST    = '2016-03-16'                                                          LC      =                11639                                                  FC      = 'yes     '                                                            CLASS   = 'HPM LHS_2222'                                                        END                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             Š Š\Š/ŠŠCŠŠŠ*Š Š ŠŠŠ/Š/Š*‰ÚŠŠ‰óŠŠ/ŠŠFŠŠ
+ŠFŠ2Š
+ŠŠŠ+Š+ŠŠ5ŠŠŠ!Š!‰ùŠ5‰ùŠ!Š?ŠŠŠŠ'Š'Š;Š'Š;ŠŠ1‰á‰ÿŠcŠŠ'Š^Š"Š,Š‰äŠ Š>Š*ŠŠŠM‰ýŠHŠ ŠŠ*Š/ŠCŠ‰ýŠ*ŠŠŠ ŠŠ‰ýŠ%Š2ŠFŠFŠZŠŠŠFŠ2Š5Š!ŠŠIŠŠ+ŠŠ?Š!Š!Š5Š!ŠŠ?Š+Š?Š'ŠŠŠ	ŠŠŠ	Š1ŠŠ1ŠŠŠ,Š,ŠŠŠŠHŠ>Š*ŠŠŠ%Š%ŠHŠ Š*Š>ŠŠŠ9Š%ŠŠŠ ‰ä‰ßŠ/Š%Š%‰öŠ2Š2‰öŠ Š ‰ö‰â‰ùŠ]ŠIŠŠ+Š+‰ï‰ïŠ!Š!Š‰ùŠ+ŠŠ?ŠŠŠ'Š	Š‰×Š'Š	Š	Š	ŠEŠEŠŠŠ,ŠŠ,Š Š4ŠŠŠ2ŠFŠ ŠŠ*Š*ŠŠ Š ŠŠŠ*ŠŠCŠŠŠ>Š>ŠHŠŠ-ŠAŠ7ŠŠŠFŠPŠ ŠŠŠŠŠŠ0ŠŠŠŠŠ‰þŠŠŠŠ+ŠHŠ4ŠŠŠŠŠ/‰ó‰ÿŠ‰ÿŠ'ŠŠ'Š	Š	ŠŠŠFŠŠFŠ2Š(Š<Š>Š>Š Š4Š ŠŠŠŠŠŠ/ŠCŠŠ>Š‰øŠŠUŠ7Š7Š
+Š
+ŠŠ<ŠXŠŠŠDŠŠŠŠŠ0ŠŠ&Š:Š+Š+ŠŠ+ŠŠ Š>Š>ŠŠ/ŠŠŠ;Š'Š'Š'Š'ŠŠ1Š1ŠCŠŠŠFŠ(ŠŠ<ŠŠHŠŠŠŠŠ*Š*Š>Š%ŠŠŠŠ*Š*Š*Š>ŠŠ#ŠŠ#ŠdŠ(Š
+ŠŠŠ0‰ôŠŠ0Š0ŠŠŠŠ0ŠŠ&ŠŠŠ!Š5Š4Š4ŠŠŠ%ŠMŠŠ‰õŠ	ŠYŠ	ŠŠŠ'ŠŠŠŠFŠŠPŠ‰ì‰ìŠ ŠŠŠ>Š>Š>Š>Š‰ýŠ9ŠŠ/Š>ŠŠŠRŠ7Š#ŠŠ#ŠPŠŠŠ2Š0ŠŠŠŠŠŠŠ0ŠŠŠŠ&ŠIŠIŠ5Š!Š4Š4‰øŠ ŠŠŠ‰é‰õŠ	ŠŠŠ‰õŠ'‰ëŠŠ/ŠŠŠ<Š(Š<ŠŠŠŠ9Š%Š9Š%‰ÕŠŠŠ%Š/Š/Š Š\ŠŠŠ#ŠŠ-ŠAŠ<ŠŠ2ŠŠ?ŠŠ+Š+Š0ŠDŠ&Š&‰ïŠŠ+Š+ŠŠŠ!ŠŠ*Š*ŠHŠ ŠŠŠ*Š>ŠŠ6ŠŠJŠŠ'Š1‰õŠ%Š%ŠKŠ#Š<ŠPŠ<Š<ŠŠ/Š%ŠŠ‰ý‰ýŠŠŠ%ŠWŠŠŠ ŠŠŠŠ#Š-ŠŠ<ŠŠFŠ2Š+Š+ŠŠ‰ôŠ0Š:ŠŠSŠ?Š·ŠŠ{Š?Š5Š!Š*Š*Š4ŠŠ*Š*Š*ŠŠ"‰úŠ"Š‰ÿŠŠ	ŠŠ9Š9Š7ŠKŠ(Š(ŠŠFŠ%Š‰óŠCŠ%Š%Š%ŠŠŠ9‰ýŠŠ*ŠŠ*‰îŠŠ‰ç‰û‰ìŠŠ
+Š2ŠIŠŠ!Š5Š&ŠNŠ&Š‰ùŠIŠ£Š·Š?Š+Š‰ïŠ4Š4Š ŠŠŠŠŠ‰ú‰æŠ,ŠŠ	Š	Š;ŠŠŠ%Š#ŠŠ(Š(Š2Š2Š9Š%ŠŠ/Š9Š9Š%Š9‰ýŠ%Š9Š%ŠŠŠŠŠŠŠKŠ7Š<ŠŠFŠFŠŠ!‰ùŠ5Š:Š‰þŠ:ŠI‰ùŠ?ŠS‰ïŠŠŠ?‰øŠHŠŠ ŠŠŠ ‰øŠ"ŠŠŠ,Š1Š1‰ÿŠ'Š‰ýŠ$Š8ŠŠGŠŠ)ŠŠŠ,ŠŠŠŠŠŠŠ)ŠŠ=ŠBŠ.Š8ŠLŠ&ŠŠŠ0Š?Š+ŠSŠŠ‰ñŠŠŠ‰çŠAŠ-‰þŠ:ŠŠ0Š!ŠIŠŠŠŠŠŠŠŠŠ0ŠŠŠ0ŠŠ0Š!‰ùŠ!ŠŠ‰æ‰üŠŠŠŠ=ŠŠŠŠŠ,‰ðŠŠ@ŠŠ)Š=ŠŠ)Š.ŠŠ$‰èŠŠ&ŠŠŠ?Š+ŠSŠŠAŠŠŠŠŠ7‰ñŠ-‰þŠŠ0ŠDŠŠŠŠŠ+ŠSŠŠ+ŠNŠ&Š0‰ô‰ôŠŠŠŠ5Š5ŠŠ!Š"‰úŠ.ŠŠQŠ)Š3ŠŠ"Š"ŠŠ"ŠŠŠ"ŠŠŠŠŠ3ŠŠ.ŠBŠB‰þŠNŠ0Š‰ùŠIŠ!Š!ŠŠŠŠŠAŠŠŠ‰þŠNŠŠDŠŠ!ŠIŠI‰ïŠSŠ5Š!ŠŠ&‰ôŠŠ:ŠŠŠŠ+Š?Š?ŠŠ,ŠŠŠBŠŠŠŠ3Š"Š"Š^Š"Š,Š@ŠJŠ6Š)Š)Š‰÷ŠVŠŠ.Š.Š&ŠNŠXŠŠŠŠŠŠ-Š-ŠŠ-ŠŠŠ-ŠŠ:Š:ŠŠŠIŠŠ‰åŠŠ+‰ùŠ5ŠŠ&Š0ŠŠ&‰þ‰ôŠŠ?Š+Š+Š+ŠŠŠŠ)‰÷Š3ŠŠG‰ðŠ@Š@Š@ŠŠ,‰úŠJŠ.Š.‰èŠ`ŠŠŠŠŠ&ŠNŠŠŠ?Š?ŠSŠ?ŠŠ-ŠAŠAŠ(ŠŠ(Š(‰þŠ:‰þŠ:Š&Š:Š:Š&Š0Š0Š0Š0Š!‰ùŠ5Š!Š‰àŠŠ:ŠŠŠ+Š+ŠŠ'Š)ŠŠŠ3ŠŠ3ŠŠ@ŠŠŠ,Š,Š"ŠJŠŠŠŠŠŠŠŠŠ&ŠNŠŠ0ŠŠŠgŠ+ŠŠAŠŠAŠ ŠŠPŠPŠNŠ‰þŠŠNŠ:ŠNŠ:ŠŠDŠŠŠ!Š!Š‰ù‰ôŠ0Š:ŠŠ+‰ïŠ+Š+Š;Š'Š)Š=Š)Š)ŠŠŠŠTŠ"Š6ŠŠ‰úŠ"ŠŠŠ$Š$Š3ŠŠŠ3Š0ŠŠ0ŠŠ!ŠIŠ+Š?ŠKŠK‰çŠ#ŠŠŠ(Š(Š0ŠDŠ&Š&‰ôŠ0ŠŠ:ŠŠŠ&Š&Š!Š!Š!Š5Š&Š:‰þŠ&ŠŠ+ŠŠŠEŠ1Š=ŠŠŠ)Š3Š3ŠŠ@Š6‰ú‰ðŠ‰úŠ"ŠŠBŠ8Š8ŠGŠŠŠŠŠ‰ôŠŠ!Š!Š?Š+Š7ŠŠŠ#ŠF‰öŠ<‰ìŠŠDŠŠŠ0ŠŠ&‰þŠŠ0Š:ŠŠ5Š5Š!Š5ŠŠ&Š&Š&‰ïŠ?ŠŠŠ	‰õŠ"Š"ŠEŠŠ;ŠŠ1Š1Š1ŠE‰ðŠ,Š,Š@ŠŠ?Š5Š!Š+Š+Š+ŠSŠ(‰ìŠ
+Š2ŠAŠAŠ_Š#ŠŠ
+‰öŠ2Š-ŠAŠŠŠŠ(Š
+ŠŠŠdŠ(ŠŠŠ‰÷‰÷Š)ŠŠ)Š)Š+Š+Š‰ùŠ0‰àŠŠŠTŠ@Š6Š6Š1Š1‰ÿŠ'ŠEŠEŠ	ŠŠ@Š,ŠŠ,ŠŠ?‰ùŠŠ+Š+Š+Š+ŠŠ Š2Š
+ŠŠUŠ#ŠŠ2ŠŠ
+ŠŠŠŠŠŠ Š‰âŠŠPŠ(ŠŠ(Š)Š)Š3Š3Š)Š=Š=‰íŠ?‰ïŠ5Š!ŠŠDŠŠŠŠ@ŠŠ6Š'Š'ŠŠ'Š'‰ÿŠcŠ;‰úŠ"Š@Š@ŠŠ‰ùŠ!Š5Š!‰ùŠ!Š(ŠŠŠ
+Š#Š#Š-Š-ŠFŠŠ‰âŠAŠAŠŠ-ŠŠŠŠŠ<ŠŠŠZŠQŠŠ3ŠŠ)ŠQŠŠŠ?‰ïŠŠ?‰þŠŠ0ŠŠŠŠ"Š"‰ëŠŠ'Š;ŠOŠ'Š;ŠŠ"Š"Š@ŠŠŠŠ5Š]Š5Š!Š5Š5Š(Š<ŠFŠ2Š#Š#ŠAŠŠF‰öŠŠ
+Š‰ÝŠŠAŠŠ<‰öŠŠŠ<Š2ŠŠŠ=ŠŠŠŠ‰ÙŠ)Š+ŠŠŠ+Š‰þŠŠŠŠ@Š'ŠOŠ"Š6Š"Š6ŠŠŠ,Š,ŠŠŠŠ,Š+Š+ŠŠ5Š!ŠŠ+Š+Š2‰öŠ2Š
+Š#ŠŠ-‰ñŠ#Š#Š7Š7ŠŠŠ(Š<ŠŠŠ Š<ŠŠ(Š‰ØŠŠ)ŠQŠŠ3ŠŠ3ŠŠŠŠŠ+ŠŠŠ‰þŠ'ŠŠ;ŠŠŠ"Š"Š6ŠŠŠ,Š,ŠŠŠ,‰ðŠŠ+Š]Š5Š!Š5Š?Š?‰öŠ2Š2Š2Š7ŠKŠŠAŠ7ŠŠ7Š7Š2Š2Š<Š(Š(Š(ŠŠ(Š(Š<‰ì‰ØŠ=ŠŠŠŠŠ3Š3ŠŠŠ?Š?Š+ŠŠDŠ&Š‰ëŠOŠ1Š	Š,Š‰úŠ6Š"Š6ŠTŠ‰ÜŠT‰ðŠŠ5ŠIŠ!Š5Š!Š5ŠŠSŠFŠ
+Š<ŠŠ7ŠKŠ-ŠUŠ_ŠKŠŠŠFŠ2ŠŠFŠ
+Š
+Š<Š(Š2Š
+‰öŠŠ)ŠŠŠŠ3ŠŠŠ=Š!Š!ŠŠSŠDŠŠ&Š&Š‰ÿŠŠEŠŠŠ"Š6Š"Š6Š@Š,ŠŠŠŠŠ5‰ùŠ5Š!ŠI‰åŠ?Š+ŠŠ2Š(Š(Š7ŠsŠ¥ŠUŠsŠ7Š_Š7ŠFŠ
+ŠFŠFŠŠŠ<ŠPŠŠŠŠFŠŠ‰íŠŠŠŠ)Š‰ù‰ùŠŠ+ŠŠDŠ&‰þŠ'Š‰ëŠ;ŠŠ"Š,Š,ŠOŠ'Š1Š1Š6Š"Š@Š,ŠŠŠŠŠ3ŠŠŠŠBŠjŠ.ŠjŠ8ŠœŠìŠØŠåŠ©ŠŠYŠEŠYŠEŠŠ‰ýŠŠŠ9Š%Š‰óŠŠ,Š,Š,Š,Š@ŠŠ"Š)Š)ŠŠ)Š$Š`ŠŠŠ9‰ýŠŠŠJŠŠ‰ðŠ'ŠOŠŠŠ"ŠŠ,ŠŠŠŠBŠŠŠGŠG‰÷ŠBŠBŠVŠºŠØ‹<Œ@ŒÌŒ9‹­Š½ŠmŠEŠ1Š1Š	Š‰ÕŠŠŠ%Š9ŠŠCŠŠ‰ðŠ‰ðŠŠ6Š"ŠŠ)ŠŠQŠŠ$ŠŠŠ‰ýŠ1Š1Š@ŠŠ@Š@ŠŠ‰ÿŠ;ŠŠ6ŠŠ,Š8ŠŠ.ŠBŠŠQŠGŠ3ŠBŠ.Š¦‹
+Œ@~‘®‘ÅŽ¹‹qŠŠOŠ;Š'ŠOŠ/ŠŠMŠ9‰ýŠ%Š/ŠCŠ,ŠŠ,Š,ŠŠ^Š6ŠŠŠ)Š)Š)Š$ŠŠŠŠŠ9Š1Š1Š@ŠŠ‰ðŠŠEŠ‰ÿŠ"Š"Š,Š@Š$Š$ŠŠ.Š=Š=Š3ŠGŠjŠVŠ~‹Z(–ê¤ª¦)•5ŒŠ½Š‹ŠOŠ'ŠOŠCŠ/ŠŠMŠ%‰ý‰óŠŠŠŠ@ŠŠrŠJŠŠŠŠŠQŠ)ŠŠ$ŠŠŠŠ9Š6Š"Š	ŠE‰ÿŠŠŠ,ŠŠ6Š6Š"ŠŠŠQŠQŠ)ŠQŠ)Š=ŠeŠyŠƒŠ[ŠÓ‹s:’²¬fæ†ès¦û1‹­ŠÛŠ;ŠŠEŠWŠWŠWŠCŠŠ%ŠuŠ%Š6Š"Š,Š,Š"Š6Š6ŠŠ=Š‰÷ŠŠŠ)ŠŠŠ%Š9Š6Š"Š1‰õŠ'Š;ŠŠŠJŠ"ŠŠ"ŠŠ,Š)Š)ŠŠ=ŠyŠ=ŠŠ)ŠGŠ—Š¿‹‡&’î³
+ç²ê?§×Y‹­‹ŠÇŠmŠYŠŠ/ŠCŠ/Š9Š%Š%ŠM‰úŠŠŠŠ"Š^Š6ŠŠŠŠ3ŠŠŠŠŠŠ%ŠŠŠ@ŠcŠŠ;‰ÿŠŠ"Š"ŠŠŠ"Š6Š"Šo‰÷ŠŠGŠŠGŠGŠ3Š[ŠGŠoŠ¿‹–Ž¶›|¿¨«µ“-Œ%ŠùŠcŠ;Š'‰ÿŠkŠWŠŠŠ‰ßŠ/ŠŠ,ŠŠT‰ðŠŠŠ"Š"Š=ŠŠ)Š)ŠŠŠ‰÷Š/ŠŠ@ŠŠ;Š;Š'Š;ŠŠJŠJŠŠ"Š6Š"Š6Š3Š3ŠG‰÷Š3ŠŠGŠŠ[ŠoŠƒŠ[ŠâŒ"Ž¬‘¸ŒŠåŠYŠOŠ'Š'ŠOŠ/ŠkŠ/ŠŠŠŠ/Š/Š,Š@ŠŠ@Š"‰úŠ"Š"ŠŠŠŠŠŠ)ŠŠŠ‰óŠŠ*Š*Š*Š*Š*Š>ŠŠ*Š*Š4Š ŠŠH‰íŠ=Š)Š)‰èŠ$Š.ŠBŠ.ŠBŠLŠLŠŠÉ‹7‹×‹{‹ŠmŠ1ŠJŠ6Š"ŠŠ%Š%ŠŠ/ŠŠ4ŠRŠ*Š)‰íŠŠŠŠŠŠ‰üŠŠŠ$ŠŠŠŠŠŠ3ŠRŠŠ*ŠŠ>ŠŠŠ*Š>‰îŠHŠ4Š ŠŠ)Š)‰íŠ=Š$ŠŠjŠ.ŠBŠ.ŠŠ`ŠeŠyŠ«ŠÓŠŸŠwŠEŠ1Š"Š6Š6Š"ŠMŠ%Š/ŠŠ4ŠŠŠŠŠ)Š)ŠŠŠ8ŠŠjŠ$Š8Š8Š$ŠŠ.ŠŠ.ŠŠŠŠ*Š*ŠRŠRŠŠŠ*Š‰îŠ4Š4Š4ŠŠ=Š)ŠŠ3ŠŠŠBŠ.Š8ŠLŠ.Š.Š[ŠŠGŠGŠ;Š;Š;Š;ŠrŠ"Š6ŠŠŠŠ%Š%Š Š ŠŠ*Š)Š)ŠŠŠŠŠŠVŠŠ‰ü‰üŠ.Š.Š$‰üŠ3ŠŠŠ*ŠŠRŠ>ŠŠ>ŠRŠ>ŠŠŠ4Š4Š4ŠŠ)ŠŠ3Š.ŠŠŠV‰üŠ8ŠŠŠGŠ3Š[Š3ŠOŠ'ŠOŠ'Š^Š6Š"Š"Š9Š9ŠMŠ%‰ø‰øŠŠŠŠŠ)ŠŠŠBŠ.ŠB‰ò‰òŠ$Š$ŠŠŠ$‰üŠŠŠ Š4Š*Š*ŠHŠHŠRŠ>ŠŠ‰ýŠ9ŠCŠŠ$Š$ŠBŠ~ŠŠ)Š[ŠŠ3Š3Š[Š3Š8ŠLŠ.ŠŠYŠEŠOŠcŠ†ŠJŠ@ŠŠŠŠCŠ/Š%Š%Š9ŠŠŠŠŠ=‰üŠ$Š$‰üŠŠ‰òŠBŠŠŠŠŠŠŠ‰øŠ>Š>ŠŠŠ*Š>Š>Š>ŠŠ%ŠŠŠ$Š$ŠŠŠ=ŠŠŠŠ3ŠŠŠŠ$Š8ŠBŠ.ŠŠ1Š;ŠOŠšŠ^Š,ŠŠŠ/Š/ŠŠŠ9Š%Š%ŠQŠŠ)Š)ŠŠŠ8Š8ŠŠŠŠŠ$‰üŠŠ.ŠŠŠ*ŠŠ4Š ‰äŠ ŠRŠŠfŠ*ŠŠŠŠ%Š$ŠŠ.ŠŠ3ŠGŠ=ŠŠ=Š)ŠŠ3ŠŠŠŠŠEŠ	Š1ŠŠJŠ6ŠhŠŠaŠ9‰ýŠ‰óŠ/ŠŠMŠ3Š3ŠŠŠŠŠ.‰òŠBŠŠŠ$ŠŠ.ŠŠ$Š.ŠŠŠRŠ ŠŠ Š4Š*Š*ŠRŠŠŠŠ9Š%‰üŠ8ŠŠŠGŠŠ)Š)ŠyŠ=ŠŠGŠ`ŠŠŠŠ1ŠEŠEŠ1ŠŠrŠŠŠ%ŠMŠŠMŠŠ/Š%Š9ŠŠŠ3ŠGŠ.Š.ŠŠŠŠŠ8Š$ŠŠŠŠ$‰ÞŠBŠŠŠŠ-ŠAŠŠŠ4Š4Š4ŠŠMŠŠ‰òŠ.Š$‰üŠŠ=ŠŠ=Š)ŠŠGŠŠBŠŠBŠŠ	‰õŠEŠEŠ‰ÿŠ1ŠŠ.ŠŠŠ$ŠŠŠ3Š3Š"Š"‰æŠ‰õŠ1Š1Š1ŠŠ)Š)ŠŠŠŠŠŠŠ1Š(Š(Š-Š-Š-ŠAŠ4Š4Š ŠHŠ9Š%ŠŠ/ŠŠ.ŠŠ8ŠQŠ)Š=Š)Š)Š=Š[Š3ŠBŠB‰òŠBŠEŠ1‰õŠŠ‰ÿŠ1ŠŠŠŠ‰üŠGŠ3ŠŠ3‰ú‰ú‰æŠŠ1ŠŠ1Š	Š=Š‰ÙŠ)Š‰÷ŠŠ)ŠEŠ	ŠŠŠŠŠ‰ûŠH‰øŠ*Š*ŠŠŠŠŠŠVŠ$Š8ŠGŠŠGŠGŠ)ŠQŠŠQŠŠ$ŠLŠŠ1Š	ŠŠŠŠ1‰ÿ‰ÿŠ8Š8Š$Š$Š3ŠŠŠŠ@ŠTŠ,Š,Š‰ÿ‰×ŠŠGŠŠ=Š=Š3Š3ŠŠ3Š	‰õŠŠ<ŠAŠ-‰ÓŠ7Š ŠHŠŠŠ/‰óŠ/ŠŠ.ŠŠ$Š8Š3ŠŠŠŠ)ŠŠ)ŠŠ8Š$Š8ŠLŠ1Š1ŠŠ;Š	ŠŠ'Š'Š$Š$Š$Š$ŠŠŠŠ3Š,ŠŠŠ,Š;‰ÿŠ;ŠOŠŠŠ=Š‰÷‰÷ŠŠ3‰ÍŠ	Š#‰ûŠ#Š7ŠUŠ-Š*Š>Š*Š>Š4Š ŠŠ>Š8Š$Š8Š$ŠGŠGŠŠ)‰ÔŠ`Š8Š8Š8ŠŠ8Š$Š6Š6Š"ŠŠ"Š^ŠŠŠŠŠŠŠŠ3ŠŠŠ"Š"ŠŠŠ'ŠOŠEŠ1Š$ŠŠ‰òŠ=ŠQŠ‰÷ŠŠŠ7Š7Š#ŠŠAŠŠ>Š*ŠŠŠ\Š Š>Š*Š‰üŠŠ$Š‰÷ŠŠŠ8Š$Š$Š$ŠLŠ$Š$Š8Š"Š"ŠŠ"ŠŠ"ŠŠŠŠŠŠGŠŠŠ)Š)ŠŠŠ,ŠŠ;ŠŠ	ŠEŠŠ$Š.‰ÞŠŠ)ŠŠ3Š1Š1Š7Š#‰ûŠŠŠŠŠ4ŠŠ*Š*ŠŠŠ‰ü‰üŠ.ŠBŠ)Š=Š)Š=Š.Š.ŠL‰üŠ8Š8ŠŠBŠŠ,ŠŠ,Š,Š‰úŠ"Š3ŠŠŠŠŠŠGŠŠ,Š@‰úŠ"Š1Š	Š‰×‰èŠ$ŠBŠŠŠŠ)Š)ŠŠ'‰ÓŠŠ7Š#Š7Š_Š Š Š*ŠŠ*ŠŠRŠ>Š$ŠLŠŠjŠ)Š=ŠŠŠŠŠL‰üŠ$Š$ŠŠBŠ,ŠŠŠŠŠ,Š"Š"ŠŠŠ3ŠŠŠŠGŠ3Š,ŠŠŠ6Š	Š1ŠŠ'Š$Š8Š‰òŠŠŠŠ)Š;‰ÿŠ+Š+ŠqŠŠgŠg‰ÐŠ ‰øŠ ŠŠ/Š‰óŠ<Š<Š2ŠŠ
+ŠFŠPŠ<Š-ŠŠŠ#ŠŠPŠFŠ2ŠŠ,ŠŠ"ŠJŠŠJŠ"‰ÿŠ'Š	Š1ŠŠŠ6ŠŠŠŠŠ%Š/ŠCŠCŠ/Š Š Š*Š‰é‰éŠ‰óŠ'ŠŠ+ŠŠ!Š5Š+Š+Š4ŠŠHŠHŠŠŠ/ŠŠdŠŠ2ŠŠŠ
+Š<Š(Š-Š-Š#ŠŠ<Š(ŠŠ2Š,ŠŠŠJŠ"Š6Š"Š"Š'Š'Š	Š	Š,Š,‰æŠŠŠ/ŠŠ%ŠŠŠŠ/ŠŠŠ*ŠŠ%‰ýŠŠ‰ÿŠ;Š?Š?ŠŠ+Š!Š!Š*ŠŠŠŠŠ%Š/Š/Š
+ŠŠ2Š
+Š
+Š
+Š<Š‰ñŠŠ-ŠŠ
+ŠFŠŠŠJŠ"‰úŠJ‰æŠŠ@Š‰õŠ	Š;ŠŠŠ,ŠŠ@Š%ŠŠŠŠŠŠMŠ%ŠŠŠŠŠŠ‰óŠ/Š	Š1Š?ŠŠŠŠ5Š5Š*Š>Š*Š*Š9Š%ŠŠŠ
+Š‰öŠŠ
+Š2Š<Š<ŠAŠ-‰ñŠŠFŠ2ŠŠŠ6Š6ŠrŠ"ŠJŠ"Š@ŠŠ1Š‰ÿŠ'Š,ŠTŠ,Š,Š‰ý‰óŠ/ŠŠŠŠ9ŠRŠŠŠ*ŠŠŠŠŠŠŠNŠ:Š+ŠŠ5Š5Š%ŠŠ%Š%‰ý‰éŠ%Š%ŠŠ ŠŠ(ŠŠ-Š7‰ûŠ#Š7ŠŠŠ<Š(Š(Š<Š@ŠŠ,ŠŠŠ@Š"ŠŠ6ŠŠJ‰úŠEŠ1ŠŠ;Š9‰ýŠMŠ9‰ý‰ýŠŠŠRŠŠ Š4Š9ŠŠŠCŠŠŠ&Š:‰ïŠSŠŠŠ%ŠŠ%Š%Š%ŠŠŠŠ(Š<ŠŠPŠŠŠ#ŠŠ#Š7ŠŠŠ(Š<Š<Š(ŠŠŠ,ŠŠ,Š,Š6Š"Š"Š"Š"‰úŠŠ1‰ÿŠ'Š%Š9Š9Š%ŠaŠŠŠ/Š*ŠŠŠ Š%Š%ŠŠŠ1Š	Š&Š:Š‰ùŠ!Š!‰ý‰ýŠŠ%ŠŠ/Š%ŠŠ Š ŠŠFŠKŠ‰ÝŠ-Š7Š#Š#Š7Š2Š2ŠFŠZŠ6Š^Š,ŠŠ,Š,ŠŠŠŠŠ"ŠŠŠ1ŠŠŠŠM‰ýŠ‰Š±Š%Š/Š/Š*‰î‰øŠ ŠŠŠŠ9ŠŠ	Š‰þŠ!Š5‰ùŠ!‰éŠŠŠ%ŠŠ/ŠŠMŠ Š(ŠFŠFŠ7ŠKŠŠŠ#Š7ŠŠ#Š2ŠZŠ2ŠŠ"Š"Š,Š,ŠŠŠŠ6Š@Š,ŠŠ"ŠEŠ1ŠŠŠŠ%Š%Š9ŠMŠ9‰ßŠ/Š*ŠŠ Š Š%Š%Š9ŠŠŠ	‰úŠ6ŠŠ'ŠŠ;ŠŠ9Š/Š/ŠMŠ%Š%ŠŠ?ŠŠŠIŠŠ&Š‰ôŠ
+Š2‰öŠFŠŠ Š(Š(ŠPŠŠ<Š(Š#ŠŠAŠA‰ñŠŠ‰ûŠ-ŠŠŠ-Š‰àŠ:ŠŠŠ+Š+Š+ŠŠŠ)Š)ŠŠŠ3ŠŠŠ.Š"Š6Š;Š'Š;ŠŠ9Š9ŠCŠCŠ9Ša‰ýŠ9Š‰ïŠŠ!‰ê‰þŠŠ‰öŠŠ2Š
+Š ŠŠ(Š(Š ‰ìŠ<Š(Š#Š7Š-Š-ŠŠŠ#Š7Š-Š-ŠŠ‰àŠDŠ&Š&ŠŠ+Š+Š+ŠŠ3ŠŠŠ3ŠŠŠ3Š.ŠŠJŠ6ŠŠOŠ;ŠŠ/ŠCŠŠŠŠ9‰óŠC‰ùŠ!ŠŠ]Š‰ôŠ:Š&ŠŠŠŠFŠŠŠ
+Š
+Š2‰öŠ(Š<Š-Š-‰ûŠŠŠAŠ7ŠŠAŠŠ#ŠŠ&ŠŠŠŠ!ŠŠ!Š5ŠŠ)ŠŠ)ŠGŠŠ3‰÷ŠŠŠ6Š"Š'ŠcŠcŠ;ŠCŠ/Š%Š%Š%‰ÕŠ/Š/Š5Š5Š!Š!ŠŠDŠ:Š&Š(Š Š
+Š
+Š2Š2Š2Š2Š
+ŠŠ<Š(ŠŠŠ#ŠŠŠAŠŠŠŠAŠ7Š#Š&Š‰ôŠ0Š5Š!Š‰ùŠ=ŠŠŠ=Š3ŠGŠŠ3Š8Š‰õŠŠŠ,Š,ŠŠCŠŠŠ%Š9Š9Š%Š‰ôŠ0ŠŠŠIŠ5Š5Š!‰öŠŠ(ŠPŠŠ
+ŠŠ<ŠŠ<ŠPŠ(Š(Š(Š(ŠŠŠŠ#Š#Š<Š Š2ŠFŠŠ‰þŠŠ0Š‰þŠŠ)Š)ŠŠŠŠ)ŠŠŠ‰ò                                                                                                                                                                                                                                                                                                                                                                                                                                                                XTENSION= 'IMAGE   '           / IMAGE extension                                BITPIX  =                   16 / number of bits per data pixel                  NAXIS   =                    2 / number of data axes                            NAXIS1  =                   64 / length of data axis 1                          NAXIS2  =                   64 / length of data axis 2                          PCOUNT  =                    0 / required keyword; must = 0                     GCOUNT  =                    1 / required keyword; must = 1                     BZERO   =                32768 / offset data range to that of unsigned short    BSCALE  =                    1 / default scaling factor                         CRTS_ID = 'CSS150429:100757+691446'                                             HIERARCH RA_(J2000) = 151.98629                                                 HIERARCH DEC_(J2000) = 69.24623                                                 N_IMAGES=                   12                                                  UT_DATE =          20150429.17                                                  MAG     =                12.98                                                  HIERARCH CSS_IMAGES = 1504291690214116397                                       SDSS    = 'yes     '                                                            OTHERS  =                11639                                                  FOLLOWED= 'no      '                                                            LAST    = '2016-03-16'                                                          LC      =                11639                                                  FC      = 'yes     '                                                            CLASS   = 'HPM LHS_2222'                                                        END                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             „ƒü„ƒòƒòƒäƒäƒøƒø„ƒîƒî„„ƒîƒä„„ƒøƒäƒäƒêƒÖƒàƒàƒùƒåƒÛ„ƒñƒÝƒÝ„ƒûƒçƒçƒç„„ƒÏ„ƒòƒÞ„„ƒüƒèƒÔƒüƒ÷ƒ÷ƒÙƒÅƒúƒæƒæƒæ„ƒúƒúƒúƒÏƒã„ƒíƒÔƒèƒò„ƒäƒøƒî„ƒÐƒäƒøƒÐƒî„ƒøƒøƒø„ƒäƒä„ƒôƒê„ƒùƒùƒÛ„ƒñƒñƒñƒñƒçƒçƒÝƒñ„ƒÙ„ƒ÷ƒèƒèƒòƒÞƒèƒèƒÞƒÞƒãƒ÷ƒãƒãƒðƒðƒæƒúƒæƒÒƒð„ƒãƒ÷ƒ÷ƒíƒüƒèƒòƒòƒäƒø„ƒîƒøƒäƒäƒäƒÚƒîƒÐƒøƒäƒø„ƒä„ƒôƒþƒþƒùƒùƒÛ„ƒñƒñƒñƒñƒçƒçƒñƒÝƒíƒí„ƒ÷„ƒè„ƒòƒèƒèƒÞ„ƒ÷„„„„„ƒúƒæƒæƒúƒÜƒðƒ÷ƒãƒ÷ƒùƒôƒôƒþƒþƒîƒîƒîƒîƒäƒäƒîƒîƒîƒîƒøƒø„„ƒäƒøƒûƒç„ƒû„„ ƒØ„ ƒõƒáƒëƒë„„ƒÜƒðƒùƒùƒùƒÑƒï„„ƒù„ƒïƒåƒùƒùƒùƒù„ƒá„	ƒõƒõƒõƒáƒõƒáƒòƒÞƒèƒù„„ƒþƒþ„„ƒÚ„ƒäƒäƒîƒîƒÚ„ƒäƒäƒîƒîƒäƒøƒÓƒçƒûƒçƒì„ ƒìƒìƒÍ„	ƒëƒëƒðƒðƒðƒÜƒùƒùƒåƒå„ƒïƒùƒå„ƒïƒåƒùƒå„ƒùƒåƒõƒõƒõƒõ„	ƒÍƒõ„	ƒòƒÞƒüƒùƒôƒôƒÖƒê„ƒîƒîƒîƒîƒîƒÐƒä„ƒäƒøƒäƒÚ„ƒäƒøƒÝƒÝƒûƒÓƒöƒö„ƒìƒÿƒÿƒëƒÿƒÜƒÜƒð„ƒùƒùƒïƒïƒï„ƒùƒùƒùƒå„ƒùƒùƒùƒù„ƒõ„	ƒá„	ƒáƒõƒáƒõƒüƒèƒòƒå„„ƒÖƒê„ƒîƒîƒîƒîƒîƒäƒøƒøƒøƒø„„„ƒäƒøƒñƒñƒçƒç„
+„
+„ƒìƒëƒëƒÿƒëƒðƒðƒð„ƒåƒåƒÛ„„ƒïƒùƒùƒùƒåƒåƒùƒå„ƒùƒåƒõƒá„	ƒáƒõƒá„	ƒõ„ƒüƒòƒïƒê„ƒÖƒþƒó„ƒóƒËƒýƒéƒýƒýƒÐƒäƒäƒøƒóƒó„ƒÕ„ „ „
+ƒÎƒö„
+ƒöƒâƒëƒëƒáƒ¹ƒÜƒðƒæƒúƒôƒÌƒþƒêƒþƒþƒô„ƒùƒù„„ƒôƒôƒôƒàƒðƒÈƒðƒÜƒÜƒðƒÈƒðƒÏƒ÷ƒ÷ƒïƒþƒþƒþƒÖƒóƒßƒóƒóƒýƒé„ƒéƒø„ƒÐƒäƒß„ƒéƒýƒØ„ ƒâƒöƒö„
+ƒâƒöƒÿƒ×ƒáƒá„ƒðƒú„„„ƒþ„„„„ƒôƒùƒù„„ƒàƒàƒàƒô„ƒÜ„ƒðƒðƒÜƒðƒðƒ÷ƒ÷ƒã„ƒÖƒêƒàƒôƒó„ƒéƒéƒó„ƒß„„ƒÆƒî„„„ƒéƒé„ ƒìƒöƒöƒâƒâ„ ƒØƒáƒõƒõƒõƒÜƒð„ƒÜƒþƒþ„„D„0„ƒêƒþ„ƒåƒùƒùƒôƒàƒôƒàƒð„ƒúƒæƒæƒúƒúƒúƒÏƒ÷„ƒïƒþƒêƒôƒàƒóƒßƒéƒéƒó„ƒóƒóƒÚƒÆƒî„ƒËƒó„ƒéƒì„ „
+„
+ƒÎƒö„ „ ƒõ„	ƒõƒõƒð„„„ƒê„„„„„ƒÖƒêƒùƒù„„ƒô„ƒô„„ƒðƒúƒæƒú„ƒÒƒÒ„ƒãƒ÷ƒØƒö„
+ƒâƒâƒæ„ƒúƒúƒ×ƒëƒëƒ×ƒëƒ×„	ƒõƒëƒÿƒáƒáƒùƒå„ƒÛƒåƒùƒåƒå„ƒóƒËƒßƒÚ„ƒÚ„„„ƒÛ„ƒàƒàƒêƒþ„ƒØƒöƒöƒöƒöƒìƒìƒëƒëƒÍƒõƒëƒëƒëƒëƒÜƒðƒú„ ƒâƒÎƒâƒâƒúƒÒƒúƒúƒÿƒëƒÿƒëƒÿƒëƒõƒáƒëƒ×„	ƒáƒùƒåƒï„„ƒùƒùƒù„ƒó„ƒó„„ƒî„ƒùƒùƒÛ„„ƒàƒþƒê„ ƒìƒöƒö„
+ƒâƒØ„ ƒ×ƒÿƒõƒõƒëƒëƒÿƒÿƒðƒÜƒú„
+ƒì„ „ƒì„ƒæƒÜ„„ƒëƒÿƒë„	ƒõƒõƒáƒõƒõƒÿƒë„ƒï„ƒï„ƒïƒåƒùƒéƒéƒéƒéƒøƒä„„„ƒÛƒåƒùƒÖƒêƒôƒàƒØƒì„
+„
+ƒöƒöƒöƒöƒõ„	ƒõ„	ƒÿƒÿƒÿƒ×„ƒú„ƒöƒìƒØƒìƒìƒæƒæƒÜƒÜƒëƒëƒëƒÿƒõƒáƒáƒõƒõƒõƒÿƒëƒï„„„„ƒïƒùƒå„„ƒéƒéƒøƒä„ƒîƒÛ„ƒùƒåƒþƒê„ƒôƒØƒì„
+„
+ƒâƒâƒöƒöƒáƒõƒõƒá„„ƒëƒëƒúƒæƒðƒÓƒçƒûƒçƒû„ƒæƒúƒæƒæƒúƒú„ƒðƒðƒú„ƒáƒõƒ×ƒëƒþƒþƒþƒþƒï„ƒùƒùƒÚƒîƒîƒîƒýƒéƒóƒßƒïƒïƒï„ƒùƒåƒÛ„„ ƒØ„ „ƒñƒÝƒñƒÝ„ƒÜƒðƒðƒæƒÒ„ƒðƒúƒæƒæ„ƒû„„ƒûƒúƒúƒúƒæ„ƒÒƒúƒæƒðƒðƒæƒúƒõƒáƒëƒÿƒêƒêƒþƒþƒï„ƒå„„ƒî„ƒÚ„%ƒéƒóƒßƒïƒï„ƒïƒÑƒåƒïƒï„ „ ƒØƒìƒñƒÝƒÝƒñ„ƒðƒð„ƒæƒúƒÈ„ƒæƒú„ƒûƒÓƒûƒçƒçƒúƒÒƒÒ„ƒúƒæƒðƒðƒúƒæ„„ƒÿƒëƒëƒëƒôƒôƒôƒôƒÑƒå„ƒï„ƒîƒÐ„ƒÕ„%ƒýƒéƒïƒÛƒïƒï„ƒïƒÛ„ƒö„
+„ ƒØƒÝƒÝƒ¿ƒû„ƒðƒæƒæƒðƒðƒÜƒÜ„ƒð„ƒûƒûƒûƒûƒûƒæƒæƒúƒæƒæƒÒƒðƒðƒæƒúƒðƒðƒëƒ×ƒëƒëƒôƒôƒô„ƒåƒù„ƒïƒÚƒîƒøƒäƒéƒé„ƒÕƒï„„„„ƒïƒïƒïƒöƒâ„ „ ƒñƒñƒçƒûƒðƒðƒæƒæƒÜƒÜƒÜƒÜ„ƒð„ƒÌ„ƒô„ƒôƒí„„„ƒòƒòƒòƒÞƒàƒàƒàƒôƒùƒùƒÛƒÛƒúƒúƒæƒúƒÿƒ×„	ƒõƒäƒäƒÚ„ƒóƒßƒó„ƒùƒùƒå„ƒôƒàƒêƒþƒüƒüƒüƒüƒÙƒíƒíƒÙƒÖƒÖƒàƒôƒàƒô„ƒàƒíƒí„ƒôƒôƒàƒÌƒàƒí„ƒ÷ƒ÷ƒòƒÊƒÞƒÊ„„ƒô„ƒùƒùƒÛ„ƒÒƒúƒ¾ƒúƒëƒë„	ƒõ„ƒäƒî„„ƒó„ƒßƒùƒù„ƒåƒôƒàƒêƒþƒüƒüƒèƒèƒíƒÙƒÙƒíƒêƒêƒôƒàƒôƒàƒôƒô„)„„3ƒôƒê„„ƒàƒíƒíƒí„ƒüƒüƒòƒòƒê„ƒêƒþƒÛ„ƒùƒåƒúƒúƒúƒúƒë„ƒõ„	ƒø„„„ƒóƒßƒóƒóƒùƒåƒùƒåƒàƒôƒÂƒêƒò„„ƒòƒãƒ÷ƒ÷ƒ÷ƒêƒÖ„ƒÌƒô„„ƒêƒã„„ƒôƒêƒêƒàƒàƒíƒí„ƒíƒèƒè„„ƒþƒÖƒêƒþ„„ƒù„ƒúƒúƒæƒæƒÿƒ×ƒáƒõƒäƒø„„ƒóƒßƒóƒó„ƒù„!ƒåƒô„ƒþƒþ„ƒòƒÞƒò„ƒ÷ƒ÷ƒ÷ƒþƒêƒô„ƒôƒàƒÖƒÖƒã„ƒãƒïƒôƒôƒôƒô„ƒí„ƒíƒí„ƒ÷ƒãƒàƒô„ƒôƒêƒþƒêƒþƒ×ƒ×ƒ×ƒÿƒúƒæ„„ƒóƒó„„ƒéƒé„%ƒýƒêƒêƒê„„ƒêƒÖƒÖƒíƒí„„ƒ÷ƒ÷„ƒí„ƒùƒùƒùƒù„ƒïƒÛƒòƒòƒüƒÛƒôƒÌƒàƒà„ƒíƒí„„„ƒ÷„„ƒôƒôƒàƒêƒþƒþƒêƒë„ƒÿƒÿƒæƒú„ƒð„„ƒóƒóƒýƒýƒé„ƒþƒÖ„ƒêƒþƒÖƒê„ƒíƒí„„ƒã„„ƒí„!„ƒùƒùƒùƒåƒÇ„„ƒÞƒèƒùƒþƒþƒôƒôƒ÷ƒ÷ƒí„ƒ÷ƒ÷ƒ÷„ƒà„ƒþƒþƒôƒôƒÌƒàƒëƒÿƒëƒëƒúƒú„ƒú„ƒýƒýƒý„„„„ƒþƒêƒþƒþƒôƒô„ƒô„ƒãƒíƒíƒ÷„ƒí„ƒåƒåƒÛƒÛƒùƒÑƒùƒåƒÔƒèƒèƒùƒêƒêƒôƒôƒãƒãƒíƒÙƒ÷ƒ÷„ƒ÷ƒôƒôƒêƒê„„„ƒôƒëƒ×„ƒëƒúƒú„"„„%„9„„„„„„ƒêƒþƒêƒê„ƒà„ƒàƒ÷ƒ÷„„ƒãƒ÷„ƒíƒåƒåƒïƒïƒùƒùƒåƒùƒüƒèƒü„ƒþƒþƒàƒôƒëƒëƒõƒáƒëƒ×ƒõƒá„„ƒÙ„ƒò„ƒèƒü„„ƒñ„„ „(„F„F„]„]„+„+„„+„!„„„ƒïƒï„ƒÛƒÛ„ƒãƒ÷ƒ÷ƒ÷ƒèƒèƒò„ƒðƒðƒðƒð„ƒúƒú„ƒãƒ÷„ƒþƒþƒþƒàƒô„ƒëƒõƒáƒÿƒëƒõƒá„ƒÙƒí„ƒòƒÞƒüƒèƒûƒû„„„<„d„ª„ú…%„ý„·„g„+„ƒù„ƒï„ƒïƒïƒÛƒÛ„„ƒÏ„ƒÏƒ÷ƒèƒèƒòƒÞƒðƒðƒðƒðƒæƒúƒúƒæƒ÷ƒãƒíƒþƒô„„ƒôƒõ„„	ƒõƒëƒëƒõƒÍƒ÷ƒ÷„ƒíƒèƒüƒüƒüƒûƒû„„„d„ð…J†b‡U‡U†G„Ë„I„!ƒù„„ƒïƒï„„ƒå„ƒå„„ƒ÷„ƒüƒèƒüƒèƒð„„„"ƒæƒæ„ƒÜƒãƒ÷ƒãƒêƒàƒôƒôƒàƒõƒõ„	ƒÍƒÿƒ×ƒá„	ƒã„ƒí„„ƒüƒüƒü„„„„i„È…Ì‡Š"Ž]Žý‰ß…»„…„5„!„ƒï„„ƒïƒÑƒùƒåƒåƒ÷ƒ÷ƒ÷ƒ÷ƒü„ƒèƒüƒÜƒðƒúƒæƒúƒúƒðƒðƒ÷ƒãƒÏƒåƒôƒàƒôƒô„	„	ƒëƒÿƒðƒÜƒÜƒðƒ÷ƒ÷„ƒãƒü„„„„
+„„<„d…†{‰õ“Í¥¥¦ù’	‡U„Ú„N„0„ƒï„„ƒïƒþ„ƒôƒà„ƒèƒüƒü„ƒã„„ƒú„ƒð„ƒÜƒðƒð„ƒòƒòƒò„!ƒôƒàƒôƒôƒõƒõƒëƒÿƒð„ƒÈ„„ƒã„„ƒü„„„„
+„„(„x…†{Œ% %È}Ãá™ÅˆÑ…f„Š„X„0„+„?ƒï„„ƒþƒô„ƒè„ƒèƒèƒ÷ƒ÷„„„ƒú„„ƒð„„ƒð„ƒò„ƒùƒþƒþƒôƒô„	„	ƒõƒáƒúƒæƒúƒú„ƒí„„ƒüƒüƒü„„ „(„(„P„ë†{‹Ë §Æk±ó‘ë‡7„ä„X„:ƒþ„ƒå„„!ƒþ„ƒô„ƒòƒòƒÞƒòƒ÷ƒ÷ƒíƒíƒæƒæƒæƒú„„ƒðƒðƒüƒèƒèƒåƒþƒþƒôƒôƒá„	ƒõ„	ƒúƒæƒúƒúƒíƒí„ƒíƒüƒüƒü„„ „ „ „P„›…³ˆ«’Gœï’ŸˆÇ…k„€„Dƒþ„„ƒåƒåƒùƒêƒÖƒàƒôƒòƒòƒÞƒòƒ÷ƒ÷„ƒÙƒú„"ƒú„ƒðƒðƒðƒðƒÔƒè„ƒòƒ÷ƒãƒãƒã„ƒí„„„ƒíƒÙ„ƒÛƒÛ„ƒï„„ƒôƒô„„ƒÿ„„T„à…Ú‡â‰G‡S…s„ƒ„ƒ÷„„„„ƒ÷ƒ÷ƒÞƒòƒòƒòƒõƒõƒëƒëƒæƒúƒðƒÜ„„ƒôƒàƒô„ƒþƒþƒìƒìƒöƒò„ƒ÷ƒ÷ƒ÷ƒíƒí„ƒÙ„ƒí„ƒíƒÛ„ƒÛƒïƒôƒôƒôƒôƒÿƒÿƒëƒÿ„,„@„†„þ…„Ó„o„G„„ƒí„ƒã„ƒ÷ƒ÷„ƒòƒòƒòƒõƒõƒëƒëƒúƒæƒð„ƒôƒô„ƒôƒàƒôƒêƒêƒìƒìƒâƒòƒíƒÅƒãƒãƒ÷ƒãƒã„ƒ÷ƒ÷„ƒíƒåƒåƒåƒåƒàƒôƒþƒþƒÿ„ƒëƒë„„"„@„T„=„=„)„ƒãƒ÷ƒ÷ƒ÷ƒíƒíƒãƒ÷„ƒòƒòƒòƒëƒëƒëƒÿ„ƒÜƒÜƒðƒôƒôƒôƒôƒôƒôƒôƒÌƒìƒìƒìƒòƒíƒíƒ÷ƒ÷ƒ÷ƒãƒãƒãƒ÷ƒ÷ƒí„ƒùƒùƒÑƒù„ƒôƒê„ƒÿƒëƒÿƒÿ„„"„„„„„„„ƒ÷„„„ƒíƒ÷ƒãƒò„„„ƒëƒëƒÿƒëƒÜ„ƒð„ƒà„ƒô„ƒÌƒôƒôƒô„ ƒØƒìƒüƒèƒèƒÔƒüƒ÷ƒÏƒí„ƒÞƒÞƒÞƒÞƒô„ƒþƒþƒô„ƒôƒàƒõƒõƒÿ„„	ƒáƒõƒá„„„„ƒò„ƒÔƒè„„ƒãƒãƒüƒèƒüƒèƒáƒõƒõƒõƒð„ƒæƒæƒù„ƒïƒï„„„„ƒÓƒûƒçƒüƒèƒèƒüƒü„ƒãƒí„ƒòƒÊƒÞ„ƒàƒôƒþƒþƒàƒô„0ƒôƒõƒõƒÿ„„	„	ƒá„„„„„„„ƒüƒè„„„ƒ÷„ƒüƒüƒèƒáƒõƒõƒõƒÜƒðƒúƒú„ƒùƒïƒïƒïƒïƒÑƒùƒûƒûƒûƒòƒòƒòƒÔƒÔƒí„ƒ÷ƒ÷„ƒÔ„ƒò„ƒàƒôƒôƒþƒþƒêƒêƒõƒáƒÿƒÿƒõ„„	ƒõ„„ƒ÷ƒ÷„„ƒüƒüƒ÷„ƒíƒí„ƒÞƒüƒÔƒëƒëƒÿƒÿƒúƒæƒæƒæ„„ƒùƒÑƒïƒïƒù„ƒçƒçƒÝƒÞ„ƒÞƒüƒüƒÙƒíƒ÷ƒ÷ƒèƒü„ƒòƒôƒôƒôƒÌƒê„ƒþƒþƒáƒõƒÿƒÿƒõƒõƒõƒáƒíƒÙ„„ƒò„ƒèƒè„ƒ÷„ƒíƒÞƒòƒèƒèƒÿƒ×ƒ×ƒÿƒúƒæƒúƒúƒïƒï„„ƒïƒï„ƒùƒûƒû„ƒãƒ÷ƒãƒãƒ÷„ƒþƒþƒþ„„ƒïƒïƒì„ ƒöƒöƒû„ƒñƒñ„ƒòƒÞƒòƒíƒÙ„ƒí„ƒò„„ƒèƒÔƒòƒòƒïƒÛƒï„ƒêƒþƒô„ƒæƒæ„ƒðƒúƒúƒÒƒÒƒàƒà„ƒÌ„„ƒåƒùƒäƒøƒøƒ÷ƒãƒ÷ƒãƒ÷ƒÖ„ƒêƒêƒ½„ƒÛ„„ ƒìƒöƒöƒÓƒçƒñƒñƒÞƒò„ƒòƒí„ƒíƒíƒÞƒòƒòƒòƒü„„ƒÞƒïƒÛ„ƒÛƒþƒê„ƒôƒúƒúƒð„ƒæƒæƒúƒú„ƒôƒô„„ƒïƒùƒåƒäƒøƒäƒãƒí„„ƒã„„ƒþƒêƒåƒùƒÛ„ƒâƒÎƒâƒöƒûƒÓƒñƒñ„„ƒÞ„ƒíƒí„ƒíƒüƒüƒÞ„ƒèƒüƒòƒÞƒïƒÛƒåƒùƒôƒôƒêƒþƒæ„„ƒðƒæ„ƒúƒúƒà„ƒà„ƒïƒï„ƒÛƒøƒøƒîƒ÷„ƒíƒ÷ƒ÷ƒôƒôƒêƒþƒåƒù„„ƒöƒâ„
+ƒöƒûƒû„ƒÝƒòƒòƒò„ƒÙ„„ƒíƒüƒüƒÞ„ƒüƒè„ƒòƒï„ƒùƒåƒôƒôƒêƒÖƒúƒúƒÜƒðƒúƒúƒÒƒúƒô„„ƒôƒï„„„ƒøƒøƒî„„ƒí„„ƒÛƒïƒÛ„„ƒêƒôƒôƒö„
+ƒìƒìƒìƒØƒâ„
+„„ƒòƒÞ„„ƒãƒ÷ƒò„ƒüƒèƒãƒ÷ƒíƒíƒà„ƒàƒôƒê„„ƒàƒëƒÿƒõƒõƒÿƒëƒëƒëƒþƒê„ƒôƒôƒôƒôƒô„„ƒîƒíƒí„)ƒí„ƒïƒÛ„ƒïƒþƒþƒôƒôƒöƒâƒØƒØƒØ„„
+ƒâ„ƒÞƒÞƒòƒíƒí„ƒ÷ƒòƒòƒèƒüƒ÷„ƒíƒíƒôƒôƒô„ƒþƒþƒôƒô„ƒ×ƒáƒáƒëƒÿƒëƒëƒêƒÖƒàƒôƒÌƒôƒôƒôƒîƒîƒîƒ÷ƒíƒÙƒÙƒíƒïƒïƒåƒùƒÖƒêƒô„ƒìƒì„„
+ƒâƒâ„
+ƒâƒüƒèƒè„„)ƒíƒíƒÙƒèƒü„„ƒí„„ƒíƒþƒêƒôƒà„ƒôƒôƒôƒëƒÿƒõƒõƒëƒÿ„	„	ƒôƒô„ƒôƒþƒê„ƒôƒøƒø„ƒ÷ƒí„„ƒíƒÛ„„ƒÑƒþƒêƒôƒàƒìƒìƒâƒöƒöƒöƒâ„
+ƒèƒüƒèƒè„„ƒíƒÙƒèƒüƒòƒò„ƒíƒíƒÙƒêƒþ„ƒôƒô„ƒôƒôƒëƒÿƒõƒÍƒëƒÿ„	ƒáƒà„ƒô„„ƒþƒôƒà„ƒä„ƒÿƒðƒÜƒúƒúƒûƒûƒûƒçƒöƒöƒö„
+ƒùƒùƒÑƒù„ƒï„ƒïƒõƒõƒÿƒëƒõƒáƒõƒáƒò„ƒèƒü„ƒèƒüƒèƒüƒü„ƒòƒÊƒÞƒèƒÀƒÛ„„ƒùƒô„ƒôƒôƒúƒÒƒúƒæƒæƒæƒæ„ƒëƒë„	ƒëƒðƒÜƒúƒúƒûƒûƒçƒûƒöƒöƒöƒâƒùƒùƒåƒåƒÛƒïƒï„ƒõƒõƒÿƒëƒõƒáƒáƒõ„ƒò„ƒÔƒèƒèƒèƒüƒüƒüƒòƒÞƒòƒÞ„„ƒÛƒÛƒåƒùƒàƒô„„ƒúƒúƒúƒæƒÒƒúƒæ„ƒÿƒÿƒáƒëƒæ„"ƒúƒæ„ƒçƒçƒçƒöƒöƒâƒöƒåƒùƒïƒïƒùƒå„ƒåƒÿƒëƒëƒÿƒëƒ×ƒõƒáƒÞƒòƒüƒè„ƒÊƒÔƒüƒÔƒèƒÔƒè„„ƒòƒò„ƒÛƒÛ„ƒþƒêƒêƒÖ„ƒðƒðƒðƒúƒÒƒæƒúƒëƒëƒëƒÿƒú„ƒúƒæƒçƒçƒÓƒûƒâƒâƒöƒâƒùƒåƒïƒïƒåƒùƒùƒùƒëƒÿƒëƒÿƒëƒÿƒõƒá„„ƒèƒüƒòƒÞƒÔƒüƒü„ƒèƒü„ƒòƒòƒòƒïƒïƒÛƒïƒêƒþƒêƒþƒðƒð„„ƒúƒúƒæƒúƒÿƒÿƒëƒÜ„ƒðƒæƒæƒâƒöƒö„ƒûƒû„„ƒê„ƒÖƒþƒêƒêƒêƒêƒëƒÿƒáƒõƒúƒúƒðƒðƒ÷ƒãƒ÷ƒ÷ƒò„ƒÞƒÞƒòƒòƒòƒò„„ƒíƒíƒô„ƒÖƒþƒùƒùƒïƒïƒõ„	ƒõƒõ„ƒÜƒÜ„ƒáƒáƒë„„ƒðƒúƒúƒâƒöƒâƒâƒûƒûƒÝƒÝƒê„ƒêƒêƒêƒêƒþƒþƒëƒÿ„	ƒõƒæ„ƒðƒðƒãƒ÷ƒ÷ƒ÷ƒò„ƒòƒòƒòƒòƒÞ„„„ƒíƒíƒôƒà„ƒêƒå„ƒïƒïƒáƒõ„	ƒáƒðƒðƒÜƒÜƒõƒõƒ×ƒð„„ƒðƒÈƒìƒìƒâƒâƒûƒû„ƒñƒà„ƒÖƒþƒôƒàƒÖƒêƒõƒõƒëƒÿ„„ƒðƒð„„ƒãƒ÷„ƒÞƒüƒèƒü„ƒòƒò„„ƒíƒíƒà„ƒô„„„ƒùƒùƒáƒáƒõƒõƒúƒú„ƒðƒëƒëƒëƒð„„ƒðƒðƒìƒìƒâƒâƒûƒûƒÝƒñƒôƒôƒþƒþƒô„ƒêƒþƒõƒõƒÿƒë„ƒÜƒðƒðƒíƒíƒãƒ÷ƒòƒòƒüƒèƒü„ƒòƒòƒíƒíƒíƒíƒôƒôƒô„„„„„ƒá„	„ƒõ„ƒæƒðƒÜƒëƒëƒëƒÜ„ƒú„ƒæƒþƒþƒêƒêƒôƒàƒô„ƒï„ƒùƒåƒùƒù„„ƒèƒüƒü„„„ƒíƒíƒëƒëƒÍƒõƒëƒÿƒáƒõƒïƒÛƒï„„„ƒï„ƒìƒØƒöƒö„-„ƒñƒñ„ƒëƒëƒÿƒá„	ƒõƒáƒèƒèƒüƒðƒæƒúƒúƒúƒÖƒþƒêƒêƒôƒàƒô„„ƒïƒùƒåƒùƒùƒïƒïƒèƒüƒèƒüƒãƒãƒíƒíƒÿƒ×ƒáƒáƒëƒ×ƒõ„	ƒÛƒï„„ƒïƒïƒï„ƒìƒØƒöƒö„ƒñ„ƒñƒë„ƒÿƒë„	„	ƒáƒÍƒèƒèƒüƒúƒúƒæƒð„ƒàƒàƒêƒþƒôƒôƒþƒêƒï„ƒÛƒïƒïƒï„ƒïƒòƒòƒèƒèƒíƒíƒíƒÙƒÿƒÿƒëƒëƒëƒÿƒõ„	ƒùƒå„ƒù„ƒï„ƒïƒìƒìƒöƒöƒûƒçƒñƒÝƒõƒõƒõƒáƒáƒõƒëƒëƒòƒòƒü„„ƒúƒðƒðƒôƒôƒþƒêƒàƒàƒêƒÖ„ƒï„ƒïƒï„„ƒï„„„ƒè„ƒÙƒÙƒíƒëƒëƒëƒëƒÿ„ƒõƒáƒåƒùƒåƒù„ƒïƒï„ƒØƒØƒâ„
+ƒÓƒçƒñƒÝƒõƒõƒáƒõ„	„ƒÿƒÿƒòƒòƒèƒðƒÜƒÜƒÜ„„ƒÛ„„ƒÛƒÛƒåƒùƒôƒôƒêƒþ„„ƒù„ƒèƒüƒòƒòƒüƒèƒèƒüƒúƒæ„ƒæƒæƒú„"ƒúƒàƒàƒôƒàƒêƒÖƒÖƒþƒñƒñƒñƒÝƒñƒñƒñ„ƒðƒÜ„„ƒõ„	ƒõƒá„ƒÞƒò                                                                                                                                                                                                                                                                                                                                                                                                                                                                XTENSION= 'IMAGE   '           / IMAGE extension                                BITPIX  =                   16 / number of bits per data pixel                  NAXIS   =                    2 / number of data axes                            NAXIS1  =                   64 / length of data axis 1                          NAXIS2  =                   64 / length of data axis 2                          PCOUNT  =                    0 / required keyword; must = 0                     GCOUNT  =                    1 / required keyword; must = 1                     BZERO   =                32768 / offset data range to that of unsigned short    BSCALE  =                    1 / default scaling factor                         CRTS_ID = 'CSS150429:100757+691446'                                             HIERARCH RA_(J2000) = 151.98629                                                 HIERARCH DEC_(J2000) = 69.24623                                                 N_IMAGES=                   12                                                  UT_DATE =          20150429.17                                                  MAG     =                12.98                                                  HIERARCH CSS_IMAGES = 1504291690214116397                                       SDSS    = 'yes     '                                                            OTHERS  =                11639                                                  FOLLOWED= 'no      '                                                            LAST    = '2016-03-16'                                                          LC      =                11639                                                  FC      = 'yes     '                                                            CLASS   = 'HPM LHS_2222'                                                        END                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             „d„P„n„Z„‚„Z„m„Y„Y„Y„T„h„r„6„h„T„r„^„^„r„^„r„o„[„o„[„[„[„e„Q„|„@„J„^„r„J„r„^„d„P„Z„n„P„d„Z„Z„N„b„€„D„S„g„{„g„b„b„l„l„]„]„g„S„]„]„_„_„d„x„Z„n„w„‹„O„O„m„m„Y„Y„Y„m„m„Y„Y„Y„m„„t„t„`„L„j„j„t„t„@„h„^„r„Y„Y„m„Y„n„Z„d„d„s„s„i„i„l„X„b„b„q„]„q„]„]„q„]„]„b„N„D„l„D„D„s„s„d„x„n„‚„w„c„c„c„m„m„m„m„Y„m„Y„m„m„E„m„Y„`„`„ˆ„t„V„V„`„`„T„T„^„r„Y„Y„m„Y„n„‚„d„<„_„_„U„U„X„l„b„b„]„q„]„I„]„q„q„q„b„v„X„X„X„X„}„}„Z„n„d„x„m„Y„Y„Y„E„m„m„m„Y„m„Y„m„c„O„m„E„j„j„`„`„`„`„`„`„h„T„T„h„m„Y„E„„n„n„P„P„U„U„_„K„b„b„b„b„g„S„q„]„q„]„S„S„b„b„N„N„N„b„i„i„Z„n„P„d„Y„E„Y„„m„m„m„m„Y„E„„m„w„‹„Y„Y„j„j„t„t„`„`„t„t„T„@„h„|„Y„m„Y„E„n„n„P„x„i„i„K„_„b„b„b„b„g„S„…„I„q„5„S„{„N„N„N„N„b„N„c„c„^„r„T„T„q„I„q„I„g„{„q„q„_„K„U„i„_„s„_„s„U„i„_„K„K„_„s„s„b„ž„l„X„I„]„S„S„„m„c„c„m„Y„w„w„e„y„Q„e„V„j„L„ˆ„s„s„}„A„P„P„x„P„d„x„w„w„r„^„h„h„]„]„]„…„g„S„]„]„s„_„U„i„_„s„s„_„i„U„_„s„s„‡„K„K„v„b„l„X„…„q„?„g„m„Y„c„c„m„Y„c„c„e„y„e„Q„j„V„ˆ„t„s„K„U„i„P„P„x„x„d„P„c„c„T„|„T„T„q„…„]„q„q„I„g„{„i„U„i„U„s„s„}„i„U„A„_„_„_„_„s„K„D„l„v„b„S„g„g„g„c„‹„„•„m„Y„;„w„ƒ„o„e„=„~„j„j„V„K„7„U„}„‚„F„F„n„P„x„O„O„h„h„h„h„q„]„]„q„I„q„{„g„i„U„i„U„_„_„i„U„i„U„_„7„_„_„s„s„€„X„b„N„g„{„g„g„Ÿ„w„½„©„Y„E„c„w„[„o„e„e„j„V„~„j„_„K„i„i„F„Z„n„n„x„P„r„J„c„c„m„m„]„]„…„]„b„b„v„b„s„s„K„_„s„‡„K„s„d„P„F„Z„U„i„_„_„v„b„N„b„I„q„{„g„r„r„š„š„„m„c„w„y„e„o„[„[„o„=„Q„Z„n„n„Z„s„_„}„A„}„U„^„^„O„w„m„m„]„]„I„q„b„b„b„v„K„s„K„_„s„_„_„_„d„x„Z„n„U„i„s„K„v„b„b„v„]„]„g„S„^„†„r„r„„m„c„w„e„Q„o„[„o„[„Q„e„n„Z„n„Z„K„_„}„i„U„U„r„r„c„c„Y„Y„g„{„q„q„v„b„l„X„}„i„U„i„}„i„_„s„d„d„F„Z„U„‘„U„U„l„€„l„€„S„g„g„g„T„@„r„r„m„„O„c„e„y„o„[„[„o„[„[„Z„Z„n„‚„_„s„K„‡„}„i„J„r„O„O„m„m„{„g„q„I„v„b„X„l„A„}„}„i„U„A„K„_„d„d„n„Z„U„i„U„U„X„D„l„X„S„g„g„g„h„|„r„r„„m„c„O„e„Q„o„[„o„[„o„o„F„n„Z„n„K„_„s„_„i„U„c„O„^„^„h„T„n„F„d„x„i„i„_„_„k„k„W„k„R„R„R„z„b„b„b„N„X„X„b„b„q„]„{„g„q„q„g„{„L„L„ˆ„L„o„o„o„[„e„e„e„Q„~„j„`„`„‚„n„Z„Z„U„U„s„K„g„g„w„‹„^„^„h„T„Z„Z„d„P„i„i„s„s„W„W„k„W„R„R„z„z„b„b„b„v„X„€„v„N„]„q„{„g„I„I„S„g„t„L„`„t„[„[„[„o„Q„Q„y„e„V„j„`„`„Z„n„n„n„i„i„s„K„g„g„‹„c„†„^„^„r„x„P„n„F„i„U„s„s„a„a„W„„f„f„p„\„b„v„v„v„X„l„X„D„S„S„{„?„g„{„{„g„L„t„t„L„Q„Q„G„G„Q„y„o„o„ˆ„`„`„`„Z„n„n„Z„U„i„_„K„]„I„c„c„J„J„^„J„d„d„F„n„i„}„s„›„a„a„C„k„R„R„\„p„Š„v„Š„b„X„D„l„X„{„S„{„g„{„g„g„S„L„L„`„ˆ„Q„Q„G„o„e„e„G„G„`„`„L„t„F„Z„n„Z„U„i„_„s„q„]„O„c„r„^„h„h„‚„Z„F„n„d„P„Z„n„R„z„\„p„W„k„„k„S„S„g„g„b„b„X„X„v„Š„X„D„l„X„€„l„`„L„B„j„o„o„o„o„[„ƒ„e„e„t„t„t„`„Z„Z„F„n„n„Z„P„d„X„X„w„c„r„†„|„|„Z„‚„F„F„x„d„n„Z„f„f„„„p„k„„W„k„?„g„S„S„N„N„l„l„b„N„l„X„€„l„X„l„`„L„V„V„o„o„[„[„o„G„e„e„t„L„t„`„Z„Z„n„F„n„Z„d„x„l„l„Y„„|„„h„h„Z„‚„x„d„d„x„n„Z„f„R„R„z„W„W„k„„]„I„I„]„v„N„€„l„b„b„b„b„v„N„b„v„`„ˆ„j„B„y„e„e„e„[„o„o„o„`„`„`„`„Z„Z„d„d„P„x„Œ„P„b„b„Y„Y„T„h„@„h„Z„Z„<„P„d„P„Z„n„f„z„f„Ž„k„k„k„„q„…„q„]„N„v„€„D„b„b„b„b„b„Š„v„b„`„`„V„V„y„e„e„e„o„[„ƒ„ƒ„`„`„`„`„n„n„x„P„P„x„P„d„:„b„O„‹„T„h„r„J„h„h„^„^„T„T„†„^„\„p„f„z„p„\„\„p„x„d„d„d„A„}„s„_„n„n„x„P„i„i„_„K„S„?„?„?„X„X„b„b„s„s„s„s„_„s„_„K„X„X„X„X„]„q„q„]„^„^„w„c„|„h„^„^„T„T„^„^„h„h„r„r„\„H„R„f„\„p„p„„„d„x„Œ„d„i„U„_„K„Z„Z„d„d„i„i„_„s„{„g„S„S„l„l„v„v„s„K„_„_„_„s„K„_„€„X„l„D„q„…„I„]„š„r„O„c„@„h„T„T„r„^„r„^„6„^„r„^„f„R„f„f„p„p„f„R„n„n„d„d„_„_„_„_„n„Z„d„d„i„U„s„s„S„S„q„q„N„N„l„X„_„K„U„A„i„i„i„i„X„X„N„b„q„q„g„S„^„^„w„c„T„T„h„h„^„r„^„r„^„^„^„r„f„R„z„R„\„\„R„f„n„n„x„x„K„s„_„_„Z„n„P„x„i„}„s„s„g„g„q„q„N„v„X„l„K„_„i„U„U„U„U„U„X„X„v„b„]„]„{„g„r„J„Y„m„Y„„m„m„T„T„J„r„m„Y„m„E„p„p„R„>„p„p„f„f„Z„n„n„Z„n„–„–„–„‡„_„i„i„x„d„F„Z„S„g„{„g„g„S„]„q„F„n„d„P„i„A„i„U„q„]„]„]„b„v„b„N„Y„Y„E„Y„„„Y„Y„h„h„r„r„„m„m„E„\„\„R„f„p„p„R„z„n„Z„n„Z„–„–„ª„ª„¯„‡„i„i„d„x„Z„n„g„S„S„g„S„?„]„I„n„n„P„<„U„U„A„U„q„]„]„…„N„b„b„v„m„m„c„w„Y„Y„E„Y„h„h„h„h„m„m„c„O„H„p„R„z„„„p„p„\„d„d„‚„–„È………„ë„ë„¥„i„x„d„Z„n„]„…„]„]„q„I„S„g„Z„Z„‚„n„}„}„7„s„S„{„]„q„l„X„N„v„w„O„c„w„Y„Y„„E„h„@„h„h„m„m„;„w„\„\„R„R„\„p„\„p„d„Œ„ª„æ…,…†”†¨†…w„¹„}„x„Œ„Z„n„]„]„]„]„…„]„S„g„Z„Z„n„Z„U„}„_„s„S„S„]„I„X„l„b„b„O„w„c„c„J„J„h„T„y„=„y„e„„=„e„)„j„~„j„j„L„L„j„~„^„†„¤…0…ø†è‰@‹è‹Œ‡,…L„À„„„\„p„\„k„W„a„a„R„f„„„p„H„\„f„z„a„a„W„k„b„v„X„X„q„]„]„]„I„I„‹„c„r„J„T„@„y„e„y„e„Q„y„Q„e„~„j„V„V„t„t„j„~„†„†„¤…0†„‰,‘Ä¡Ü›à‹ …Ä„è„„„„„p„„„W„k„u„u„f„z„\„p„˜„\„R„f„a„a„W„k„N„b„X„X„q„]„]„]„q„q„„Y„T„T„|„h„e„e„o„o„G„o„y„e„L„ˆ„`„L„t„ˆ„~„¦„„¸„¸…0†˜‹4 ÎÎZµÐ †È…$„Ô„¬„z„z„u„u„k„„p„p„f„f„>„f„H„p„a„a„a„M„b„b„X„X„q„I„S„g„{„g„m„m„T„T„h„T„=„e„[„[„o„o„Q„e„t„ˆ„t„`„t„`„j„’„„„Ì…†„‹ ¤¶Ïš¥TŒT†x…$„¬„„„Ž„f„u„u„W„k„\„\„>„f„f„f„\„\„M„u„a„u„N„N„l„l„q„q„S„g„g„{„O„c„c„c„c„c„ˆ„`„t„`„G„ƒ„[„o„t„L„`„t„t„t„B„V„m„„©„å…äˆ´‘B™Š†È….„¢„k„k„u„a„p„\„\„p„k„W„W„k„a„a„k„k„f„f„f„R„b„b„v„b„]„]„q„]„]„]„O„c„c„c„c„c„`„`„`„t„[„G„[„o„t„t„t„`„t„L„j„V„Y„m„„½……¨‡.‡¦†P…„¶„¢„„„M„a„p„\„p„\„k„W„W„k„a„a„k„C„R„R„f„z„:„b„b„v„]„]„q„]„]„]„c„c„w„c„c„w„`„`„ˆ„t„Q„Q„y„e„`„t„L„t„’„j„t„L„c„O„w„Ÿ„¤„Ì…&…:„Þ„¢„Ž„f„W„W„k„W„z„R„\„p„W„k„k„k„W„k„a„M„R„R„f„R„X„l„N„b„g„{„I„]„?„g„w„O„O„c„c„O„`„`„`„t„y„y„e„y„`„L„`„`„V„V„t„t„‹„w„O„w„„„®„š„¢„Ž„z„z„k„k„W„k„f„f„p„\„k„W„W„W„„C„u„a„f„f„f„z„X„l„v„b„?„S„]„I„g„g„e„Q„y„„o„[„…„]„g„S„{„g„{„S„e„e„Q„e„B„B„j„~„f„f„f„z„u„u„k„“„„‰„a„u„a„a„k„W„W„„a„a„R„f„Ž„Ž„u„a„k„W„\„\„f„f„^„r„T„|„J„^„|„h„^„^„y„e„e„Q„o„[„…„]„S„g„g„{„g„g„e„e„Q„„V„~„j„V„f„f„f„z„M„u„“„k„u„a„‰„u„u„u„k„„W„W„u„u„f„R„z„z„u„a„k„W„4„\„f„f„r„^„h„h„^„r„T„h„r„r„e„y„Q„y„o„[„S„S„g„g„g„S„]„]„e„Q„[„[„`„`„j„V„z„R„R„z„u„a„u„‰„a„a„“„“„u„a„a„a„a„a„k„k„f„z„f„f„a„M„M„M„\„\„R„z„r„6„h„T„h„h„T„T„r„^„e„y„Q„Q„o„[„g„g„S„S„S„g„q„q„Q„e„[„[„`„`„V„j„f„f„R„R„M„a„u„a„a„a„“„“„a„u„u„u„a„a„k„k„f„z„>„f„M„a„a„‰„H„p„R„R„r„^„h„T„T„|„h„h„^„J„j„j„L„`„V„V„S„S„I„]„l„l„l„l„`„L„`„`„ˆ„t„`„t„a„M„a„u„R„R„„„H„k„k„k„C„k„k„W„W„W„C„W„k„W„„„W„R„z„f„R„C„W„„C„h„T„h„|„J„r„T„h„^„r„~„V„L„`„~„V„g„g„]„q„l„l„X„X„`„t„ˆ„`„œ„`„t„`„a„M„a„u„>„f„\„H„k„k„C„k„W„„k„k„W„k„k„W„W„W„k„k„f„f„R„f„k„„W„k„@„T„|„h„^„^„T„h„^„r„V„V„~„~„L„`„q„I„g„S„l„X„N„b„`„t„L„`„~„V„t„L„W„„W„W„p„p„f„f„a„u„W„k„k„k„k„W„k„k„a„a„a„u„‰„a„p„\„f„f„W„k„k„W„r„^„T„T„h„T„^„^„J„^„j„j„V„V„L„ˆ„]„]„g„S„X„l„N„b„t„`„t„`„j„j„t„t„k„k„W„W„p„p„f„f„a„u„C„W„W„W„k„„k„k„a„a„a„M„a„a„\„p„Ž„f„k„W„W„k„r„^„h„h„h„|„r„r„^„r„J„6„^„†„T„T„N„N„l„l„q„]„g„S„j„~„V„j„e„e„Q„Q„z„f„\„\„‰„a„k„k„i„i„_„_„K„_„s„_„H„p„f„f„\„p„p„p„M„M„k„W„a„a„a„M„\„\„R„>„k„k„M„M„f„f„^„r„r„r„h„@„b„b„X„€„]„I„g„S„j„V„V„j„Q„Q„y„Q„f„R„p„p„a„a„W„W„U„}„s„s„s„_„_„s„\„\„R„R„H„\„p„p„M„u„k„W„M„M„M„a„\„\„R„f„k„k„9„a„f„f„T„@„^„^„|„|„b„:„l„l„g„{„]„q„L„t„j„j„y„e„o„[„\„H„p„\„C„„a„M„K„_„s„K„s„_„U„i„z„R„z„f„z„>„f„f„k„C„a„u„M„M„a„u„p„p„f„R„k„W„M„a„R„f„T„h„^„^„T„T„b„b„l„l„S„g„q„]„`„`„~„V„y„e„G„[„„„p„\„p„W„k„a„M„_„K„K„K„_„s„U„i„R„z„R„f„z„f„z„R„W„W„a„M„u„u„M„a„\„\„f„R„W„k„M„a„R„f„J„^„w„c„Y„m„{„S„g„S„S„g„{„g„o„o„Q„y„y„Q„e„Q„“„C„9„u„W„k„a„M„P„P„Z„n„i„i„U„U„p„\„z„z„u„a„u„a„k„k„k„k„>„f„\„\„W„k„„W„\„p„f„>„u„a„r„^„c„O„E„Y„g„g„g„S„S„g„{„g„o„o„„e„e„e„e„Q„k„C„u„9„W„k„a„M„P„x„‚„F„U„U„}„U„p„\„f„f„a„M„M„a„W„W„C„k„f„f„p„H„W„k„k„k„p„\„>„f„u„a„r„^„O„w„m„E„g„S„]„]„]„]„]„I„[„[„e„e„[„o„e„e„k„k„a„a„k„W„M„a„x„x„Z„Z„_„‡„_„_„\„\„z„f„„k„a„a„a„u„k„k„\„p„\„p„u„a„k„W„„„\„R„R„a„M„r„†„c„c„Y„Y„g„{„]„]„]„]„]„q„o„o„Q„y„ƒ„o„Q„y„/„W„M„u„k„W„u„‰„x„P„n„n„_„_„7„_„\„\„R„f„W„C„a„a„a„M„W„W„\„p„H„„„u„a„k„W„4„\„R„z„M„a„4„p„u„M„u„u„d„P„x„d„Z„Z„d„P„_„K„s„K„U„}„i„A„S„g„g„g„X„l„X„€„<„d„d„d„i„U„s„_„}„i„U„U„_„_„s„s„k„k„k„W„W„k„a„a„N„N„€„X„b„Š„X„€„q„]„„„p„M„u„u„u„P„d„Œ„P„Z„Z„P„d„_„s„_„_„U„}„U„U„{„g„g„g„l„€„X„X„x„P„<„d„i„U„_„s„U„i„U„U„‡„_„_„_„k„k„W„k„„C„a„a„:„b„X„X„b„b„X„X„q„]„R„f„W„C„a„a„n„Z„n„Z„d„P„x„d„s„‡„_„‡„_„K„_„s„S„?„g„g„l„l„l„X„n„F„P„x„A„i„_„_„_„K„_„_„U„U„K„s„k„k„M„a„W„W„u„u„b„:„l„D„v„b„l„l„]„q„f„R„k„„a„a„n„Z„Z„n„d„P„x„d„K„_„K„s„_„K„_„s„g„S„S„{„l„l„X„l„Z„Z„<„d„i„A„_„_„_„s„_„_„U„U„‡„_„„„‰„u„k„C„a„a„v„N„D„l„b„N„D„D„q„]„f„z„M„a„„k„s„_„A„i„d„P„P„d„Z„F„d„d„i„U„s„K„g„S„]„]„X„l„X„X„n„F„<„x„A„U„K„_„n„n„n„n„n„Z„n„‚„W„k„‰„„Ž„R„p„\„l„X„b„b„q„]„g„g„X„X„R„f„M„a„k„W„s„‡„U„U„P„d„P„d„F„Z„P„x„}„i„_„_„g„{„q„q„l„X„€„X„n„n„P„d„i„}„K„_„Z„Z„n„n„n„Z„n„‚„W„k„u„a„f„R„„„p„l„X„b„b„I„…„g„g„l„l„\„p„k„„a„a„s„_„_„_„Œ„d„Z„F„<„d„Œ„d„K„_„i„i„S„S„g„{„b„N„l„X„Z„Z„x„Œ„U„i„i„A„n„Z„Z„Z„d„x„‚„Z„W„k„a„a„\„p„p„p„l„X„N„N„S„g„S„S„l„l„\„p„W„k„a„‰„s„_„K„s„d„d„Z„n„x„P„d„d„s„_„i„i„{„S„„S„N„b„l„€„Z„‚„P„d„U„i„}„}„‚„n„n„n„x„d„n„n„W„k„M„M„p„\„H„H„€„l„N„v„S„g„g„g„l„l„W„k„p„\„z„R„h„h„|„h„O„w„O„O„Y„„Y„Y„O„c„O„w„x„P„n„Z„x„d„x„P„_„s„i„U„U„i„U„U„Y„Y„Y„Y„|„h„J„J„C„k„u„u„u„9„W„C„l„l„b„N„q„I„g„S„Q„e„k„W„p„\„z„R„T„,„T„h„c„c„c„c„m„m„m„E„O„;„c„c„d„<„„Z„P„d„d„d„_„K„‘„U„i„U„i„i„E„m„E„m„T„h„r„J„W„„9„a„M„a„„k„l„l„b„v„]„]„g„S„y„=„k„W„p„\„R„f„T„h„@„h„c„w„c„O„c„O„w„O„O„c„E„m„d„d„Z„n„Z„n„<„x„A„i„i„A„7„_„_„s„m„„O„w„r„^„h„h„u„M„C„W„a„u„C„C„b„b„v„b„]„]„g„g„y„Q                                                                                                                                                                                                                                                                                                                                                                                                                                                                XTENSION= 'IMAGE   '           / IMAGE extension                                BITPIX  =                   16 / number of bits per data pixel                  NAXIS   =                    2 / number of data axes                            NAXIS1  =                   64 / length of data axis 1                          NAXIS2  =                   64 / length of data axis 2                          PCOUNT  =                    0 / required keyword; must = 0                     GCOUNT  =                    1 / required keyword; must = 1                     BZERO   =                32768 / offset data range to that of unsigned short    BSCALE  =                    1 / default scaling factor                         CRTS_ID = 'CSS150429:100757+691446'                                             HIERARCH RA_(J2000) = 151.98629                                                 HIERARCH DEC_(J2000) = 69.24623                                                 N_IMAGES=                   12                                                  UT_DATE =          20150429.17                                                  MAG     =                12.98                                                  HIERARCH CSS_IMAGES = 1504291690214116397                                       SDSS    = 'yes     '                                                            OTHERS  =                11639                                                  FOLLOWED= 'no      '                                                            LAST    = '2016-03-16'                                                          LC      =                11639                                                  FC      = 'yes     '                                                            CLASS   = 'HPM LHS_2222'                                                        END                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             „ü…$…………*…„ø„ø„ø…„õ„õ„ÿ…'„õ…	„ÿ„ÿ…………„÷„÷……„ù………„å…!…!…!…„ö„ì… „ç……„ñ………… … ……
+…
+……#…„û„ì„ì…
+…„ø… ……*„ó…„ü…„ø„ø……„ø… …… …	…	„ÿ„ÿ„õ…	…'„ÿ„í…„÷…………„÷…„ù……„ù…„ù…!„ö„ö… ……„ç„ñ…„Ø„Ø… „ì… „ì…
+…
+„û……„û… … …
+„ö………„î…„í……„î…„î………………	…	„ÿ„ÿ„ë„ÿ„ÿ……„÷………………„þ„þ…„þ…&„þ…„þ„û……„ñ„û„ç„û…#„û……#„û…„ñ„ñ…-… … …
+…
+„ö„ö„â………%…„ý„ø…………*…„î…„Ú………„õ„õ………„ÿ„ÿ„ë………„÷…………„þ„þ…„þ„þ…&„þ…„û„ç…„ñ…„û„û…#„û………„ñ……„ñ… … …2…
+…
+…
+…
+„ö„ý……%………………*………„ø„ø…„î„ÿ„ÿ…	„õ…„á…	…	…………„÷…„ã„÷„ô……„þ…„ê„þ„þ…„û„û„û„û…#…-………„û„û………………„ì… …
+„â…
+…
+…………………„Ù„î………… „ø………'„ÿ…	„õ…	……	…	…………G„÷………„ô„ô…„þ„þ„þ……„û………„û…#…„ñ„Ý„ñ………#„û……… … „ì… „ö„ö…„ö……„ó…… …„ü„ü…………„é……„ý„ð…„ú…"„ú„ú„ú…„í………„í……„ã…„÷………………„ù……„ï…„ê………+„ï…„ù„þ…&„þ„ê…„ö„ö„ö…
+…
+„ì……„î„ø…„î…„ü„ü…………………„ý…„ð„ú…"„ú„ú…„ú……)„÷………„÷……„÷…………„í„í…„ù…„ï…………0………„ù……„þ……
+…
+…
+…
+„ö„ö„ì…………… „î…„Þ……„ø…„î„ó„ó…„ó„æ„ú………„ú…„ú„÷………„Ù…)……………„í…„í……………!…!…&……N…:………!…!„ê…„þ„þ…(…… …(…
+„ö„ö……„ø………„è……… ……„î„ó……„ó„ú………„ú„æ…"„æ………………„÷„÷„í………………„÷……………&…:…:…&……………&„þ………… … … ……
+…
+…
+…„ø…………………………………………"……………	„á…………„í…„ã„ã……………„í………„ù„ï…+………………+…„å…&„þ„ô„à… ……
+…„û…„Ó„û„ý………………)„í„î…*„î……„ä…„î…„ú„æ…„õ……	…	…„÷…………„÷„÷„÷…„ã………………!………„Û………+…+…………:……………(„ö…
+……#……„ý…„é„é……„í…)„î………… „ø…„ø„æ„ú……,„ÿ……	…	…………………………………………„å……„ï……!„ù……„ù„ï„ï…0……„þ„ö…… … …„ç……„ý…„ý„ý………………*„î„î„ø„ø…„ø„ú„æ……„ÿ……	…	„÷„÷………„Ù…………………………„ù…!…………!…!…„ù………„ô…„þ……
+…
+… … „û„û……„é„ý……………„÷„à…„þ„þ……„ê……………„ú…„ú…"„ê„ê„þ…&„ï…………„ö„ö…
+… …(… … „ß…„ý„ý… ……………„ø… … ……… „û…„û„û……„ñ…„å……………„÷„÷……„ê………„ê„ê„ú„ú……„ú…„æ„æ„þ…&„þ…&„ï……+……
+„â„â…… … …………………„ø…*………*…„ä„ø…„ø…„û…„û„û…………-„ù…!…………………„ô………„ô„þ……„ú……„ð………„ô…„þ…………!„ù…………
+…… ……(……„é„ý……„ø……*………„ø„ø……„ñ„ñ„û…#„û…#……-……………„í……„à„ô„þ„þ……„ê„þ……"…"„ú…„Ü…„ð……„þ……………„ì„ì…
+……(……… …………%…„î„ä„ø…*……„î… „ø……„Ý………………………5„ï…+…„ü„ü„ü……„ï……„à………'„ÿ…'………	…	„õ…+……………„ï………#………
+……(…„ý……%„ý……………„î…4…… „ø„ø„ø„û…#…„Ó…„ñ……………„ù…!…„ü„ü…„ï……„à„ô„ô„ô…'„ÿ…„ÿ…	……	„õ…………„ï………„û„ç…#…#……
+… ………%…………„î………… „ø„ä…„ø… ……„û…„ñ…………„ï…„ù……$…„ò…………„ê……0……	……	…	……'„á„õ…!…………!………5……„û…„â…
+…
+…………/……………*„ø… ……………„Ð…„ñ„ñ……„ñ„û…#………!…!……8…„ò…………„þ„þ……„õ…	…	…	…„ÿ…	„Í…„ù…………!„å…………„û…„ö……
+……„ó…„ø… „î……………„Ú…„ø………„ñ………-„û…#……………+……….………„ð„ÿ„ÿ„ÿ„ÿ………………*……„É„ñ…„ç… …… …(„ð…„ú„ú……„ÿ……„ó……„ó……„ó…(… „ö„ö…
+…
+„ì……„ç………
+…
+…
+…
+„þ„þ„à…………………„ð………„ÿ„ÿ………„ó…„î……„ñ…„û„û…… ……………"…"…„ë„ÿ………/…%„ý……„ó…… … „ö„ö…
+…
+„ì…„û„û………
+…
+…
+…
+„þ„þ„ô……„ü„ü„ü…………"„ÿ………	„ý…%……„ø„ø……„ñ…-„û„ç„ö…
+„ö„ö……„ð…,„ÿ………„ó………………9„ý„ö…… ………… … …„û……„ö…
+…
+…
+…………&…!„ü„ü…$……„ú„æ……'„õ…	…%„ý„ó…„ä…………………#…„â……„ð…,……,…'……………„ý…%………%……
+…
+… …… … „ì………#……„ö…
+…2…
+………&„ê„ù………„õ…	„ÿ„ÿ……………/……„ý…… ……„û…„ç…„ñ……-………,…@…T…6……"…„î…… …4…„ó…„ý…-……„ñ…
+„ö… … „ì„ì…
+„ö„ì…(……„ù…!…„ï……………	…„ë……………………„ý… …………#…„û„û…………-…T…h…|…h…r…J……"…>…„ø……„ó…„ý„ñ…„ñ………
+……„ì……
+„ö…… … … „ù„ù………„í……„ë…„ÿ„ÿ„ú……„ú………„ó……„î……………#…-……7…_…¸…Ì†D†…Ì……T…,…………„ý„ý…………………
+…
+…(……
+„ö„ì… „ö„ö… … …„ù……„ô………„ë……'„ÿ…"…6„æ„ú„ó„ó„ó………„î…*„û„û……#……-…s…Ã†0‡ˆ8ˆ°‡è†…T…,… … ………%„ý………………-…„ö„ì… „ö…
+…(……2…
+…(… „ù……+…„ô…„ú……„÷„í„í…„ã…„÷….…„Þ…….………… …… „ø………k†‡‰Ž3‘ßŒ¼†ô… …d…%………„ý„ý„ó…„ñ…„û„ç……………………„ø„ø…*……„ÿ……„õ……„ú„÷„ã…„í„ã…„÷…„ò………„ò….……… …… „ø…/…/…k†‡·kŸï®³–¼ˆ¬…ð…d…9…%……………………„û……………… … ……4„ø„ø……„ÿ…„á…	…	………„÷„÷…„÷„÷„÷……„ò…………8…$…….…4……H… …%…9…†ˆ%Y°ã¹˜j‰V†…d…9…9…%…%…9„é…%…9„û……„ñ„ñ…-………… … …„ä„ø…„ø…	……„ë…„ú…„Ü…………3„÷„÷„÷………………„ü…„ò… … … … …9…%…k…»‡™£›¡CŒî†ê… …<…9……%…%„ý„ý……%……#………………… …„ø„ä…„ø„ø„ä„õ„á„ÿ„ÿ…„ÿ…„õ„ü„ü……………$…$………„÷…………… … „ø… …9„ý…/…†6ˆ‹®Š‚‡5…¹…U…A„ý……………„é…%…
+„ö…„Ø………………%„ý…„ø……„î………"…„Ü„ÿ„õ………„ò……„ò„ü„ü……„÷……………„ø„ø„ø… ……%…/…W…n…ú†r†6…¥…A……-„ý…………„ó…„ý…
+……(……„ñ…#„û„ý……„ý… „ä„î„Ú……„ú„æ…„á„ÿ„ÿ…$„ü……„ü…„ü…$……„÷…….…„ü……„ø…„î…„ý……%…P…P…Z…Z…K…#„û„û…%………„ó…„ý„é……………„ç…#…„ó………… … ……„ú…„æ„ú„ú„õ„ë…„ü„ü…„ò…8„ü„ü…$…………………„ü… ………„ý…9„ý…9……………K…#…#„û…„ý„ý„ý…………%……„ì„ì………„û…………„ø„ø…*„î„ú…„ú„æ……„é„ý……„õ…	…	…	…„á………„ü…„í„÷„÷„ì………„û„û…#…#……
+…(…(… …… …(……… …„ö…
+…
+…„÷„÷………„ò…„ò„ó„ß„ó„ó„ó„ó……„í………„÷…„é„ý………	„õ…	„á„õ…	……„ü………=„÷„÷…„ì… … …#„û…#„û…
+……<……… ………F…… „ì…
+……
+„ö……„í………………………„ß……„ß…………„ã…„ý…„á…	„ÿ„ÿ…	…„õ…	……„ü„ü…„í„í…… … …
+…………………
+…
+…
+……(…
+…2…2…
+…(…„ì………
+…)…)„÷„÷„ò„ò……„ó………„ó………„í……„÷„÷…„ý……	…	…………	…	„õ………………………………
+…………„ö…
+„ö…„ì… …
+…
+…
+…
+… ……„ì……
+……„÷„÷„ò„ò…„ò……„ó…„ó…„ó…„í………………„ý…„ú………„õ„õ………„ò….………………………„ì„ì… „û……„û„â…
+„ì…… „ì„Ø………7„ç„û……„è„ü…………„ß…„ó……… …4„ø„í„í……)…„ý„é„ý„ú„æ„ð„ð…	…	…	„á„ü…$…„ò…„Þ…………-……………(„ì„û…„û……
+„â… … …… „ì… …„ç…„û…….„ü………„÷………„ó……„ø…… ……„Ù……„ý………………„ë……	…	„ü„ü………$………„û…#…„û……(„ì………„ñ……… …(„ì……
+…… „û„û……………„ò…)…………%„ý…„ó… ……*…„÷…„÷„ã……„ó„ó„Ü„ð……,„ÿ…'…1…	„ü„ü„ò……„ü„ò……#„û„û„ç„ì… … … ……„ñ…… …… „ì……
+…… ……„ñ„ñ………………………%„ý…„ó…… ………„÷………………„è…„ü…„Ù……„ã…„ì… … …„û………………
+„û„û…„û……„ó…„ø…„î…„ý„ý„ß„ó………„î„õ„õ…„ÿ„õ…„õ…… …„ö…
+„ö……
+„ö„ú………„æ…0„ê„ê………$…………„÷…„ì„ì……„û……… … ……
+„ç……„û……„ó„ß„ä… ……………„ó„Ú„î………	…	„ë„ÿ„õ„õ…	…	…… …
+…„ö„ö…
+……"……„ð…„þ„þ……„ü…$………„÷……… …
+…
+……„ñ……… …
+„ö„ç„û………%……„ó………*……„ý…„ý„ø…„ø„ä„ÿ…„ë„ÿ„á…	„õ…	……… …„ö…
+„ì…„ú„ú…„ð„ð„ê„ê„þ…„ü…„ü…„í……3… ……
+…
+…-…„ñ…… ……
+„ö„ç„û………„ý„ó„ó……„î……%„é…„ý…„ø…„ø…„ÿ…'……	„á„á…… … …… „ö„â… … …"„ú…„ð…………„÷„÷…………„í…… ………………„û…„ñ………„Ý„ñ………*……*…„ý………… …… „ß……„ó……	…	„õ……„ú„æ„ö„ö…(… …
+„ö„ö„ö„õ„á…„ë„õ„ù………………)…„í……„ì… „ì„ì……„ç„û…„ñ…„ñ…………………„î…%………… ……„ø„ß…………	„õ…	………,…„ú…
+…
+… …(„ö…
+„ö……	„õ„ë……	…………„Ù…)………………
+…„ö…
+………„û„ñ„ñ…………„ñ„ñ……„î………………„Ú……„ý„ý„ý………'…'„ÿ„ú……„ú… … „ö…
+… „ì… … „õ„õ„ÿ…„õ…+„ï………………………„ö„â„ö…
+……„ç„û…„ñ„ñ…„ñ„Ý………„î„î…„ý„ý„ó…„î………„ý…%…„ý„ÿ„ë…„ë…"„æ…„ú……„â„ö„ì… „ì„ì…	…	…„ÿ„á……„ü„ô…„ô…„ù…………
+…
+… ………„ö„ö…„ú„ú……„ë…	…	……„ú…"…„ð…„ú„ý„ý„é„ý…„ý…„é………„ú…	…	„õ„õ…!„ù„å……„ù…!…!……„ó…………„ü…„à…„ô…„ù„ù„ù…
+„â„ì…(… … ……„æ…"…"…„ÿ„ÿ…	…	……,„æ……„ð…"………„é„ý„ý…„ý„ý…„ð„ú……	…	„õ…………5„å…„ù…„å…„ó„ó…„ó„è………„þ…„þ…………„ì… …… …
+…
+…………„ð„ð„õ…	…	……„ð…,…„ú…"…„ð……„ó„ó……„ý„ý…………„õ…	……	…5…„ù„ù„ù…„ù„å…„ý…„ó……„ü„ü…„þ„þ……………… ……… „ö„ö„ö………………	„õ„õ…	…,…„ð…„ú„ú……………„ó……„ý„ý„ð…„ú„ú„õ…	…1……!„ù„ù„ù…„ù„ù…„ý…………………„þ„þ…„ô„þ…&„ê……„û„û„ç…„û………"„ú…„ú„ÿ…„ÿ„ÿ„ð…„ð…………„ð„Á…„ó…„ø„ø„ä…„ú„ú„ð……„ë…	…1…„þ………„þ…&„þ„ø…………„ò….…„þ„þ…„à…&…&…&„þ„Ó……„û…„û„ñ…-………„ú„ë„ÿ…'„ÿ……„ð………„Ü„ð………„ó„ø„ø„ø„ø„æ…………'„ÿ„õ……„þ……„þ„ê„þ…&„ø„ä„î…„ß….……„þ„þ…„ê……………#„û„ñ„Ý„ñ………„ð………„õ„õ…………„ð„ð…„ú…………„ó………„ø…„ú………„á„õ„õ…1„ô……………„ê„þ…„ä„î…*„ó…………&„þ„þ…&……………………„ñ„ñ„ñ……„ð„ú„ú„õ„õ……„ð………„ú……"„Ò„ó„ß„ó……„ä…„ø……"…,…„á„õ…	„õ„à„ô„þ„þ…„ô……&… „ø………„÷…………………*…„ø…„þ…„þ„þ…0„ô……………………„è…„ñ……-„ñ………„ñ…………„ù„å……„û…#……„ñ…„ç…„ß……„é……„ø……„é…„ß…„÷……………„ß……„ø„ä„þ………„ô…„ô„ô………………„ü„ü……-„ñ……„ç……………„Û…5„ù„ï………„û…#„Ý…„û„û„ß…„ý…%… „ø„ø………………                                                                                                                                                                                                                                                                                                                                                                                                                                                                XTENSION= 'IMAGE   '           / IMAGE extension                                BITPIX  =                   16 / number of bits per data pixel                  NAXIS   =                    2 / number of data axes                            NAXIS1  =                   64 / length of data axis 1                          NAXIS2  =                   64 / length of data axis 2                          PCOUNT  =                    0 / required keyword; must = 0                     GCOUNT  =                    1 / required keyword; must = 1                     BZERO   =                32768 / offset data range to that of unsigned short    BSCALE  =                    1 / default scaling factor                         CRTS_ID = 'CSS150429:100757+691446'                                             HIERARCH RA_(J2000) = 151.98629                                                 HIERARCH DEC_(J2000) = 69.24623                                                 N_IMAGES=                   12                                                  UT_DATE =          20150429.17                                                  MAG     =                12.98                                                  HIERARCH CSS_IMAGES = 1504291690214116397                                       SDSS    = 'yes     '                                                            OTHERS  =                11639                                                  FOLLOWED= 'no      '                                                            LAST    = '2016-03-16'                                                          LC      =                11639                                                  FC      = 'yes     '                                                            CLASS   = 'HPM LHS_2222'                                                        END                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             …W…%…M…E…E…O…O…T…h…J…J…a…9…%…9…C…C…9…M….…V…L…`…=…Q…[…G…:…N…D…D…X…X…X…0….…V…j…B…Q…=…3…G…2…Z…<…d…Z…Z…P…<…Z…F…Z…2…F…2…d…P…_…K…7…K…7…C…M…%…Y…Y…c…;…T…@…J…J…%…u…M…9…C…C…9…%….…V…L…8…=…Q…G…[…N…:…X…X…D…D…X…0…B…B…V….…Q…=…o…[…Z…2…<…d…n…F…P…d…2…F…2…Z…2…F…(…d…7…K…_…K…K…M…M…%…T…h…@…T…c…;…E…m…a…%…M…a…M…M…9…M…G…3…)…=…V…V…V…j…+…?…]…]…?…S…g…?…`…8…B…B…L…L…L…`…F…Z…n…Z…<…<…F…Z…Z…Z…Z…Z…P…(…P…P…<…P…F…F…d…M…M…M…,…@…T…@…;…;…E…E…u…a…9…M…a…9…M…9…3…G…=…Q…B…B….…B…?…S…5…]…S…g…g…?…`…8…V…V…8…8…`…L…F…Z…F…Z…d…d…F…2…Z…Z…F…F…<…<…P…P…P…<…2…Z…<…C…C…W…@…,…J…^…Y…Y…O…O…M…9…/…W…M…M…9…M…3…G…Q…=…`…8…B…V…S…S…?…?…!…I…?…?…L…$…L…L…j…B…$…L…Z…Z…n…F…Z……F…F…d…P…<…<…2…F…P…d…P…P…‚…F…P…C…/…C…@…T…^…J…1…1…;…c…a…%……C…9…9…a…M……3…Q…=…8…8…V…j…?…?…S…S…5…]…?…?…$…L…8…`…j…B…8…`…F…F…F…n…F…Z…2…2…P…<…<…d…2…F…<…P……<…F…2…<…C…M…%…Y…1…O…O…T…@…,…h…Y…1…E…1…E…E…Y…E…N…N…X…D…X…D…b…N…j…j….…V…G…[…G…G…3…G…=…e…B…V…`…8…P…P…2…Z…Z…F…Z…2…-…i…_…_…K…_…U…A…\…H…f…*…R…W…M…M…Y…Y…O…O…@…T…h…T…E…E…E…1…Y…Y…E…Y…b…b…X…D…X…D…v…:…B…j…j…j…[…G…[…[…G…[…Q…y…V…’…L…L…<…<…F…F…F…Z…Z…2…A…U…K…K…7…K…U…A…p…4…f…z…f…M…W…C…c…O…O…;…T…,…6…^…O…;…E…E…O…O…1…E…&…:…:…:…X…l…N…:…8…8….…V…e…Q…=…=…[…G…o…o…V…º…ö…~…F…2…‚…2…F…F…2…F…7…_…K…_…A…U…_…_…4…H…R…>…R…M…C…W…'…c…c…O…@…@…6…^…O…;……E…O…'…Y…E…:…&…v…N…X…D…b…N…L…L…B…j…Q…e…Q…Q…[…G…[…[…B…¦…~…V…F…Z…n…F…Z…2…Z…n…7…7…K…7…U…A…7…7…H…4…>…R…R…k…a…M…;…'…w…O…T…T…^…"…T…@…T…T…O…c…1…E…5…5…?…S…g…?…S…S…G…3…[…3…)…e…Q…Q…y…e…[…G…L…L…L…t…F…Z…P…<…P…d…Z…‚…2…F…P…P…F…F…Z…Z…\…\…H…\…>…C…‰…M…O…;…'…O…T…,…^…"…@…T…@…@…O…;…E…Y…I…I…+…g…?…g…S…S…3…G…G…G…Q…=…e…e…=…)…3…G…`…`…t…L…Z…F…<…P…d…P…F…F…Z…F…P…(…Z…2…F…F…p…p…\…H…R…9…C…/…;……O…;…^…^…@…T…T…@…T…h…E…E…O…'…]…]…S…?…]…I…q…I…Q…e…G…G…[…[…G…3…3…G…y…)…`…8…L…`……F…Z…Z…d…(…Z…Z…2…2…(…<…P…<…P…<…f…R…f…R…f…M…C…W…c…c…O…;…J…J…@…T…h…,…@…,…Y…Y…c…;…!…I…S…g…I…]…I…I…=…Q…G…G…3…[…[…o…G…[…y…)…8…8…L…8…F…F…Z…Z…P…<…Z…Z…F…F…<…P…d…P…P…<…R……z…>…R…N…l…0…N…:…N…:…?…?…]…I…=…=…G…G…Q…Q…Q…=…=…Q…Q…=…V…B….…B…`…`…L…8…L…L…V…B…m…1…;…O…T…@…6…J…H…H…H…4…4…H…\…\…\…\…H…H…C…/…9…M…O…O…O…c…T…:…X………N…N…b…S…+…I…]…Q…Q…[…3…=…=…=…Q…Q…=…Q…e…V…B…V…B…L…L…L…8…L…L…B….…E…1…;…O…T…@…^…J…\…4…4…H…H…4…p…H…\…4…p…H…W…C…9…M…O…O…;…O…T…X…N…:…D…X…D…D…?…?…]…I…=…Q…=…Q…o…3…[…[…o…[…e…y….…j…B…V…L…$…L…8…`…t…L…`…O…;…'…'…^…6…T…,…f…R…>…R…R…R…4… …R…*…z…R…C…/…9…9…Y…1…Y…Y…T…0…:…N…D…0…D…D…?…g…]…!…=…Q…Q…=…[…G…[…3…G…ƒ…Q…=…V…B…V…j…L…L…L…8…8…L…L…8…;…O…;…;…J…J…T…T…R…>…>…R…R…R…H…4…R…R…f…>…C…/…M…u…1…Y…Y…Y…T…X…N…b…X…0…b…N…]…q…{…+…[…G…G…3…L…L…L…8…L…$…V…B…B…j…V…V……e…G…[…L…L…8…`…'…O…E…E…1…E…O…O…4…\…H…4…H…H…>…R…>…>…\…H…M…M…9…M…w…O…E…E…c…D…b…N…X…X…N…:…I…]…?…?…G…[…[…G…8…8…`…L…`…`…V…B…V…V….…V…Q…Q…G…[…`…`…L…L…O…O…E…E…E…1…c…c…\…\…H…\…H…H…>…R…f…>…H…4…M…M…M…9…c…c…Y…Y…w…Š…D…D…b…:…0…D…5…!…]…]…G…3…G…[…`…8…L…L…V…B…L…L…L…`…B…B…y…Q…e…Q…B…B…8…L…E…E…;…O…O…O…1…E…*…R…f…R…H…H…H…\…4…H…>…>…W…C…M…a…m…Y…Y…m…w…b…0…X…&…N…X…D…I…]…I…I…[…G…[…G…$…L…L…L…B…V…L…L…L…8…B…B…Q…Q…Q…=…V…V…8…L…E…E…O…;…;…;…E…1…>…>…R…f…\…\…\…H…H…\…R…R……C…9…M…m…1…Y…E…c…P…Z…Z…F…Z…Z…F…A…U…-…U…j….…B…V…B…B…B…V…I…I…+…S…S…?…+…?…b…N…:…b…g…g…]…]…J…^…T…T…6…^…@…@…C…C…k…W…R…>…f…*…/…k…/…W…\…H…\…H…r…6…T…T…@…P…n…F…2…F…F…2…A…U…U…U…B….…V…B…B…B…V…B…5…]…S…S…+…?…+…?…b…N…b…b…g…g…I…I…^…J…T…T…6…6…T…T…C…k…C…W…>…R…*…>…W…C…C…C…H…4…\…H…^…J…@…h…T…n…d…<…P…d…d…<…U…A…A…U…L…8…B….…V…B…8…L…I…I…S…?…?…S…]…5…N…b…X…l…{…g…]…I…J…J…T…T…J…^…T…T…a…M…u…a…R…R…H…\…C…C…W…k…H…\…H…H…T…@…J…6…J…F…<…d…P…<…d…<…A…U…A…U…L…`…B…V…B…V…8…L…5…]…?…S…S…?…]…]…:…N…l…X…g…S………q…^…^…@…h…^…J…T…,…9…M…M…9…R…R… …\…W…W…C…W…H…4…\…\…@…T…6…r…6…K…K…K…_……K…K…F…F…2…Z…o…G…=…Q…B….….…V…S…?…]…]…b…b…b…b…X…X…€…€…g…{…I…q…Y…Y…1…Y…c…O…E…E…>…>…R…>…>…R…H…4…/…W…C…W…/…C…9…M…w…;…Y…E…O…K…K…K…K…K…K…K…Z…Z…F…F…[…3…Q…=…B…V…B…j…S…g…]…]…v…v…v…N…€…€…€…¨…{…g…]…]…m…m…Y…Y…c…O…m…E…f…f…>…R…R…>…4…H…C…C…C…/…W…C…M…9…'…c…E…Y…c…U…K…7…A…U…s…#…Z…2…2…Z…Q…Q…Q…=…t…8…8…L…+…S…I…q…N…b…Š…Š…¼…ø†>†R…ý…­…{…{…Y…m…E…Y…Y…1…'…O…\…H…>…>…R…R…R…>…M…%…M…a…C…/…M…M…O…;…Y…1…Y…A…K…_…i…U…_…7…Z…Z…2…Z…Q…Q…=…Q…`…L…`…L…g…?…I…I…b…v…²†z†è‡t‰r‰6‡…ý………m…Y…Y…E…E…m…O…O……H…R…R…z…*…R…>…M…u…9…M…/…k…a…a…c…O…Y…Y…Y…Z…P…<…:…b…N…:…S…g…?…g…W…C…a…M…/…/…M…M…Y…Y…m…m…†…r…Ö†Ú‰‚’›f f‡…Û…c…—…o…[…3…L…L…V…V…V…j…j…B…G…[…=…Q…B…j…B…V…G…3…G…G…n…2…d…(……n…<…P…b…b…:…N…?…S…+…S…k…W…M…a…W…W…M…M…Y…………š…Ö†&‡zŠ®–ÞÜ¶ç~¨Y‰U†S…Û…ƒ…ƒ…[…[…L…L…B…j…B…V…V…V…[…G…=…Q…B…B…V…’…G…3…[…3…Z…F…P…d…F…<…d…d…X…D…X…D…?…?…g…?…k…C…a…a…a…a…k…k…Y…Y…•……†…Â†X‡„‹b˜úäêæ¶›íˆÉ†g…Ç…µ…e…[…ƒ…t…L…V…V…V…V…B…j…G…[…=…=…~…V…8…8…G…3…=…=…F…Z…d…x…P…<…d…d…D…0…l…X…?…?…?…?…k…C…a…9…9…9…W……m…E…Y…E…^…r…Ì†¨‰‚¤:—V‰¹†]…³…‹…e…e…G…G…`…`…V…V…B…j….….…3…G…=…=…V…V…L…$……[…Q…Q…F…2…P…<…<…n…P…x…g…?…S…?…g…?…]…I…W…C…9…M…R…*…R…>……Y…;…O…6…r…††Ëˆ3‰iˆ†I…½…Ÿ…O…`…L…V…V…L…`…$…$…)…e…[…3….….…L…L…[…o…Q…=…V…V…B…V…K…_…K…7…A…Z…P…P…S…S…S…g…?…?…I…5…W…C…M…a…>…>…f…R…E…m…O…c…r…†…|…¤…³†+†!†…•…Y…O…O…`…L…V…V…8…L…L…L…=…Q…ƒ…3…B…B…L…t…3…G…y…e…B…B…B…V…K…7…K…7…A…Z…F…F…I…5…]…]…?…?…S…S…a…9…M…a…R…R…\…\…Y…E……Y…6…^…h…h…m…•…•…•…w…c……m…t…8…L…8…B…j…B…B…Q…e…e…=…V…B…L…`…3…ƒ…G…[…V…B…B…B…K…K…U…U…A…Z…F…F…5…I…I…I…+…S…S…S…9…a„ý…9…R…R…H…H…1…E…Y…1…^…^…@…h…Y…Y…m…m…w…c…Y…E…`…$…`…L…V…V…V….…=…Q…Q…)…B…V…L…`…[…[…G…[…B….…V….…s…K…A…A…A…I…?…S…]…]…?…g…:…b…D…l…Z…2…Z…Z…A…A…U…U…_…K…_…K…U…A…U…U…O…c…c…c…r…r…6…J…;…O…m…1…^…J…T…@…l…X……D…?…S…+…S…G…G…G…3…L…8……B…R…R…f…f… …]…?…+…]…]…?…?…:…b…D…l…n…n…Z…2…A…A…A…i…K…7…s…_…i…U…A…A…O…c…;…c…J…r…†…r…c…O…Y…E…J…^…T…h…X…D…0…X…?…+…?…?…G…G…[…G…L…8……B…R…R…>…f…H…5…S…S…?…?…]…5…D…D…X…D…d…P…F…Z…K…_…_…K…A…U…i…A…K…K…-…U…O…O…Y…Y…T…T…†…^…Y…E…1…E…T…h…@…T…D…0…N…:…I…5…?…?…G…[…=…e…8…8…$…`…R…R…f…R…H…!…S…S…S…S…]…5…X…X…X…l…d…P…2…n…#…_…7…K…U…i…U…U…7…7…U…U…w…O…m…E…h…h…^…^…m……Y…m…@…T…T…h…D…X…N…b…]…I…S…S…[…G…Q…Q…8…8…`…L…>…>…>…R…H…D…:…:…X…D…0…X…S…g…?…?…U…A…A…A…n…F…F…Z…_…7…_…K…F…Z…d…<…Y…Y…Y…E…;…w…E…E…O…w…E…Y…O…O…O…;…S…?…S…S…g…g…+…?…j…j…L…`…o…G…=…Q…>…>…\…\…4…X…N…&…l…X…l…D…S…g…+…S…-…A…A…A…F…F…F…Z…K…K…7…K…F…Z…P…P…Y…Y…E…Y…O…;…Y…Y…O…O…Y…E…O…O…O…c…S…g…S…S…?…?…S…?…V….…L…`…3…[…e…Q…f…f…H…H…p…b…v…N…D…l…N…b…I…]…?…?…K…K…K…K…F…2…n…n…7…7…7…_…d…<…Z…F…E…1…Y……Y…E…1…1…O…c…O…;…O…O…O…O…I…I…]…5…5…]…g…S…V…j…L…$…Q…=…Q…Q…\…H…*…R…R…b…b…:…l…l…N…b…]…I……?…K…K…K…K…Z…F…F…F…K…K…7…7…d…<…n…2…1…E…Y…E…Y…E…E…E…O…;…;…O…c…;…O…O…]…]…5…5…!…I…?…S…B…V…L…L…=…Q…=…=…\…H…f…f…R…J…6…J…j…V…j…B…G…3…)…Q…T…T…@…@…Y…E…Y…m……>…f…*…R…>…4…H…e…=…e…=…[…G…)…Q…I…]…?…S…0…X…N…N…j…B…L…L…e…=…y…=…R…*…R…>…R…R…H…\…E…Y…Y…E…6…6…J…6…V…j…B…j…[…o…=…=…@…@…@…@…Y…E…E…1…R…R…R…>…R…f…H…\…Q…Q…=…=…G…[…=…=…]…I…+…?…0…0…b…b…B…B…8…8…Q…)…Q…e…>…f…>…*…>…>…H…4……Y…1…E…J…T…J…6…ˆ…L….…B…Q…Q…=…=…J…J…^…J…O…c…Y…Y…\…4…\…\…H…H…f…f…=…e…Q…Q…[…[…G…[…!…I…]…I…N…N…D…D…B…B…$…`…G…G…[…o…\…H…f…R…f…f…R…>…c……O…O…^…T…J…^…`…L…B…V…)…Q…Q…Q…^…6…J…^…;…O…1…Y…H…H…H…H…\…\…R…R…=…=…=…e…G……G…3…5…]…I…]…N…N…X…€…j…B…ˆ…L…3…ƒ…G…3…4…H…R…>…>…>…f…R…O…O…;…;…J…w…O…c…L…`…V…B…[…3…G…3…T…T…h…@…@…@…6…6…>…R…\…H…H…H…f…>…=…Q…Q…)…=…=…[…G…X…0…0…D…5…I…I…]…L…L…B…B…Q…Q…=…)…u…M…W…W…>…*…R…R…T…T…T…@…Y…O…;…O…L…8…~…B…G…G…G…3…@…@…@…@…@…h…6…^…*…>…\…H…4…\…R…R…=…Q…Q…Q…Q…Q…G…[…0…X…D…X…I…5…I…]…8…`…B…B…y…Q…Q…=…M…M…/…W…R…>…R…R…,…T…@…T…1…E…;…'…L…8…L…8…G…3…=…Q…6…J…T…,…6…J…h…T…>…R…R…R…R…*…H…4…[…G…G…G…3…[…G…[…D…0…N…N…]…I…S…S…j….…L…L…Q…)…Q…=…C…/…C…C…R…f…>…R…J…^……6…Y…E…c…O…$…8…8…L…[……Q…=…J…6…,…T…^…J…@…T…R…>…>…>…>…f…4…H…[…o…G…G…o…G…o…[…D…0…b…:…5…!…g…?…B…~…L…L…=…=…=…Q…C…/…C…C…f…R…*…f…^…J…6…6……O…E…1…N…N…N…b…D…D…l…l…h…@…@…@…T…@…T…@…J…J…,…@…E…Y…c…c…=…Q…=…Q…[…3…[…3…L…L…`…8…e…Q…[……D…l…l…l…b…:…X…0…1…E…E…1…;…O…;…O…4…H…\…p…\…O…Y……N…N…&…:…X…X…X…0…@…@…@…@…T…@…T…@…J…J…@…T…1…E…;…c…Q…e…Q…=…3…[…3…3…L…L…L…t…Q…e…[…G…D…D…D…D…&…v…l…l…Y…E…m…Y…O…c…O…;…4… …4…H…H…E…Y…E…N…N…X…D…N…:…b…:…J…6…T…@…@…@…T…@…^…J…,…@…E…Y…m…m…G…G…=…=…e…=…=…Q…j…V…L…L…[…[…)…Q…X……N…N…b…N…Š…Š…c…O…'…O…O…;…m…E…R…*…\…H…>…m…E…Y…:…:…X…D…N…:…b…:…6…J…T…@…@…@…T…h…^…J…h…T…Y…E…Y…Y…[…[…Q…Q…Q…Q…Q…=…V…B…L…L…G…G…=…=…l…X…:…:…N…b…ž…v…c…O…;…;…;…w…1…1…R…R…\…H…>…T…J…J…X…l…N…N…I…I…I…I…T…T…@…@…Y…Y…c…;…J…6…J…J…E…E…m…Y…V…B…L…L…3…G…Q…e…e…=…o…3…V…B….…V…D…D…X…l…5…q…{…g…m…E…Y…Y…m…Y…;…'…R…f…R…>…H…T…J…J…0…D…:…b…5…5…5…]…T…,…T…T…E…E…;…c…^…J…J…J…Y…Y…E…1…B…V…`…8…[…G…Q…=…=…e…G…[…B…V…j…B…l……X…D…I…5…S…g…E…E…Y…1…E…1…c…O…>…R…*…>…\…J…@…T……D…X…X…?…g…+…S…^…6…T…T…;…'…E……J…J…J…J…O…;…O…O…V…B…V…V…[…G…e…Q…e…e…e…=…B…B…V…B…N…N…b…N…I…]…?…S…O…O…Y…E…Y…E…c…O…H…H…>…>…>…6…h…T…D…D…D…D…S…+…?…?…^…6…@…@…O…;…E…E…6…^…J…J…;…O…'…O….…j…B…B…[…G…e…Q…Q…)…Q…Q…V…V…V…B…N…N…:…N…5…I…?…+…c…;…Y…E……E…O…;…H…H…f…>…R…H…R…R…<…d…Z…2…<…x…Z…Z…U…U…U…A…-…U…U…U…#…K…A…A…<…P…P…<…>…R…f…R…M…%…M…M…Y…Y…O…O…@…@…h…T…R…f…\…H…H…H…H…H…H…H…*…>…>…R…>…f…U…A…_…_…-…H…*…R…<…<…Z…Z…d…x…2…Z…A…A…A…U…i…i…i…A…_…7…U…U…P…<…<…P…R…>…f…R…M…M…M…M…Y…1…;…c…T…T…@…T…R…>…p…4…\…4…\…\…\…4…>…R…R…>…R…R…U…A…7…_…A                                                                                                                                                                                                                                                                                                                                                                                                                                                                XTENSION= 'IMAGE   '           / IMAGE extension                                BITPIX  =                   16 / number of bits per data pixel                  NAXIS   =                    2 / number of data axes                            NAXIS1  =                   64 / length of data axis 1                          NAXIS2  =                   64 / length of data axis 2                          PCOUNT  =                    0 / required keyword; must = 0                     GCOUNT  =                    1 / required keyword; must = 1                     BZERO   =                32768 / offset data range to that of unsigned short    BSCALE  =                    1 / default scaling factor                         CRTS_ID = 'CSS150429:100757+691446'                                             HIERARCH RA_(J2000) = 151.98629                                                 HIERARCH DEC_(J2000) = 69.24623                                                 N_IMAGES=                   12                                                  UT_DATE =          20150429.17                                                  MAG     =                12.98                                                  HIERARCH CSS_IMAGES = 1504291690214116397                                       SDSS    = 'yes     '                                                            OTHERS  =                11639                                                  FOLLOWED= 'no      '                                                            LAST    = '2016-03-16'                                                          LC      =                11639                                                  FC      = 'yes     '                                                            CLASS   = 'HPM LHS_2222'                                                        END                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             ……………*………,…,………6„ú……………
+……(……*…*…………………………,„ú…"…"………"………'……'„ÿ…#……#…#…(…… …(……#………2…F…(…(……5……„ø… …*…………………6…6…"………………
+… ………*……*…/……%…%………,…………"……6…"……,„ÿ……'…'…#…„ç……(……(…(…#……A…„ö…
+…………5………,…………„ò………………)…………%…… … …………$…8……„÷………………1………1…/………… ……………„ø… …%…„ý…9…(………<…………7…3……)…;……,……,………….……)………/…„é…%…… „ø…4………$………3…3……@……,……1……	……………/…„ø………*…… … „ý…„ý……… ……………#…#…………	……@…,…………$…8……)…………/…/…/…………*„ü…$….………3………………@…1………'„ý„é…/…/…… …>…………… ………%………(…………A……-„í…)…)…………,……….…$…………………………>……*……8………„÷…„í…………………1……'…„ý………… ……*…*…… ……………%……(…2…2…A…………)………„æ…"………………….……B……/………C…„ó…/………$……„÷………3……'…;…'…;…'…;……*…*……… …4… … …………*………%…%…
+…
+……………#…………………"…,…,…8…„ò….…„ò….….…………/……………$…8…………„÷……'……„ÿ……'…'…'…*…*………4… ……4„î……*……………9……………#…#…#…7…3………	……………$…$……$…………………/……………………$„ü…)……„÷………………'……'…*……*…>…À…\……… … …*……%…%„ý…%……… ……#…#…7…………3…1…,…„ð…………$…8………….…/…/………………………$„ü……„÷……'…'…'…'…„ÿ…„ÿ……*……f…¬…H……*… „ø…*……„é„ý…%…„ö…… ………#…#…………$……G„÷…G………$…$„ò…………………………%……………………………„ø……………„õ…	……1…;……	……
+……(…(…-……-…A„û…#…-……………#…………8…………G„ò…………….….………………………%………*…*…*………………… …/„ß„ý„ý……	……	…………	…
+……(…(……-……-……7……-…A………#………….……)……….…….….………$…… ……„ä……%……%……… … …4… …………… „ø……/………'…'„õ…………'…'……2…2…2……-…-……-……-………„û………2…F……)…)…„í……….…………$……… … „ø„ý……%……………„ø…4……*… … ……4…/…C…%„ý…„ë…	…1……………
+……„ö………………………………#…2……
+……………$………………„ò……4„ø… ………*…4…4…… ………„ó………„ý…%…%…4…………	…………	…1……………
+…2…
+…
+…2……<………„û…#……„ö…2………………$……)…)…….….….……… …… …*…… …H…… ……………/…/…%……%…%……………	„õ…'…'………………………………
+… …(… …(……………
+………$……8………)…=…3……….……$… ………………… ………>…*……„ý…%„ý„ý…„ó… …„ø… …'…'…1…	……'…'……2……
+…
+…(… …
+…… ……………………(………$„ü„ü…$…$…)…………….…„ü… ……*……4……… „ø… ………/…„é……9……/……… ……………	…1……'…'………
+…„ö………2……… ………#„û………(……2…D………„ô………………0……… … … ……*………………%…%……… … …1…	……	……;…	………*…4… …%……„é…6…"…6…"………1…	…„ó…………*……*…:…&…:……&…&…D„ô……………„ô……… … „ø………*…*…*………%…%………4……	…	…1…„ÿ…'……	……… ……%…9……9……"„ú…………„õ…/………………………&…:…0……„ô………………………… … …… …… … …………/…/… …4…*…*………'„ÿ„ÿ……………*…*………/………6………„õ…	…1……%…„ý„ý……… … ………b………………0……&…&…&…&…………… …… …… ……………… ………*…	…1………'……	…1…………*…………/…"…"……,……	„õ…	„ý……M…%……„ø„ø……0…&…+……………:…:„ô………&„þ…:… „ø… …4…*…*…4…4……%…/…… … ……*…………'…"…"……"……………„ø…………'…	………;…	…1……4…*…*…9…%……………………„ê…………………&…„þ………… ………4…4…„ý……… … …*……………'…"…"…"…6…/…/„ý„ý„ø…………„×…	…„ÿ„ÿ…E…… „ø……*…%……%…%……+……+………&…„à……&……&………………*…*…… …4……C…………… …*…*…'……1…	…"…6…,…@…………… …4………	…1…	……'…'…	…	…„î………………/…!…5……+…&…&…&…………:„þ…&……………„î…… …4…4……/„ó…/…„ø…4…*…*…'…………"…6…,………/……… …4…*…………	……'…'…………*……*……………!…………$…$………1…	„ÿ……,……„ú……)…3……………)… …<…(…(…-…-…#…7…5…5…+…+…!…5…„ï…„þ…&„þ………………………M…%…………,…,…„ÿ……	…	………$„÷…$…$………	…	…'…;…,……6…"„í…)„÷……3…G………(…<…(…(………7…K…I…I…+…+…!…5………„þ…„ê…+…+…5…5……………9……9…9……………'……1…1……„ü…)„ü…$….….………1………"……@……………)…………(………2…-…A…U…i……g………]…g…?…5…!…0…0……0…………+…/…„é……9…%……………,…,……'„ÿ……„ü…„í……………'…'„õ…	„ú…6…,…………)……)……………(…2…F…A…¥…á…õ†Ï†÷†±…é…{…S…I………0……0…!„ù……+…/…/„ý„ý…%……………………'……'………$……)…3…„÷…………"……;……'…;…3…………$……….…7……#…7…Z†"‡€ˆ¬‹ÞÆ ‡8…¼…X…X………&„ô…0…+………5………/……*…*…*…>……J……………,……=………)…3………3…,…„ú………;……'…………„ü…8„ò….…#…K…#…7…‚†Jˆ\p£NØn¯Ø‹p†H…”…X…D…&…:……0…+………5…………………*……6„ú………,…@…@…,……=……)……3………,……………„ÿ……G…3………B……$…8…A…U…i…i…¾†ê‰L¾ç
+Ðl‡…Ú…¨…l…N…:…X…0…5…5…5……/……9…9…*……*…*………………,…,……………=……………,……6……'„ÿ…'………„÷…….……8…L…-…A…-…U…–†"ˆ¬ ­îÏš—Œˆ´†…Š……0…N…:…0…0…!…I…!„ù……/…………………,……,…,…………,……„÷…%„ý„ý……………"…"…"………………1…	…1…	…E…	………$…8…G…¿‡1‰ÅŽ»ˆ9†1…d…<…<…(…&……:…&…:…:…&…… … … … … … ………$………$…………„÷………%„ý…%…%„ý…………6…"…„ð…„ÿ…'………E……E…	….….…$…8…G…o…É†U†Ç†³…á…‘…<…<…(……&……&…:…&…&…„þ……4… … …4…„ø… …$…8…$……3…3…„÷………)…%………%„ý………"……,……"…6…'…„õ…1………1…	…$…….….…)…Q…e…¡…‡…‡…s…#…(……2…2………D……0„ô……&……… … „î…*…>…………$…$…………)…………%…/……„é………„ú…,………"…'………	……………$……………=…=…Q…s…K…7…7……(…
+…2…&„þ……………&……>………4…………………………)………3……=……… …*…„ÿ…;…;………„ÿ…'„ÿ„ÿ…	…	……6…"……$………$…$…$…B….…#…K…7…7…(…<…2…
+…&…&…&………………*………„ø… …………3……3………)……………… ………*…'…………;……'…'…'…'„õ…………6…"…8…$……$……8…….…#…K…K…#…P…<…2…2„ê……&…:……0…D…0…*…>……>… … ……………3„÷………………………… ………	………………'……	…1……	………,……$……….….……….…#…7…7…#…2…Z…2…
+………&…:……………H……… … … …… ………)……Q……………)………„ø…………	…;„ë…………'…„õ…1………,……,…$…8…………….….…7…#…7…#…………………&……0…0…0………H… …4…4……4… …3……)………)…„í……)„í…#…………#………………(…(…………… …9……9…9…/…/…%…%…%…9…/…/… ………>………%……3…………$…$…„è…<…(…
+……#…#…-………„õ…1…"…"…………5…!…#„û…#……#…(…(…(… … ……(………… ……%…%„ý…%……/………9…%……… ………*……/…%…………)…„ü…$…$…$……(„ö…2…7…………1…1……	…"…"………5……!………#……… … …2………
+……(…„î…>……/…/…9…%…………%…„é………4… ……*…%………/……3…)…)………………(… …………-……	…	………"…6………!„ù…I…„û………-…(… ……2……
+……(…*…*………/………%………%……%…%………4… …*……%…9……C……3……)……„ò…… ……(…„ñ…-………E……………"………!…!……7……………(…(………#…………*……4„ø…………………%…%…>……H……4… … „ø………9………)…)…=………)……(………
+………2…2…„õ………"…"…6……5………#……………(… …2…2„û………-…*…… …… … „î………/…9…9…*…*… …4… ………4………9……)…=…)…„÷………)……(…
+…………
+…2……………"…"„ú…"…!…!…!……#………-………2…
+………………*……„î…*… … …%„ý…%…… …H…*………………%……%…%………3………………………………………	………………„ù…!…+…A…K……-…………
+…
+……„ñ…-…*…*………*…… … …%…%…%…9……4……*……*…4…4…„ý……9……)…………………<…<…………………	…„ÿ…'……………5………………………„ù…5……„þ„þ…………7„ö……(…(…-………-…
+…
+… …(„÷……3……$…$…$…$……………+…+……„ø…… … ………%……	…………	„õ……'………8……………3…+………!„þ…&………#…#…#„û…
+…
+…………„ñ……„ö… …(…………3…$…$„ü„ü…&…&……………!„ù… ………4…/……%……	…E…………1……'………….…„÷„ã……!……+…………&…&…#…#………
+„ö…2…2…………#………(…(………………„ü…$………&……?…„ù…!…………*…………/…;„ÿ…'…„ÿ………'………….……3………!………………&„þ„û…#……-…2…F…
+…
+……A……#…
+…
+… …(…)…)…………………0…0…:…&………………*………/…C…C……'……'……'…;„ÿ……….……$………=…)……„ù…!…5………………-…… … … …(……(…………#………=…)…………)…3……&…:…………„þ…&…/…/…………/………'…'……;…,…@…"…"„ü………………)………?…!…!…!„ù………………-… …(………<… ………7…#…7………)…………)……„þ……„ô…D……&„þ…/………/……/…………„ÿ…'……,…6…6…$……………=…3…3………!…5……5…+……………-…<……
+…
+……………-…-…-…A…………„í……)……0………&……0…&„þ…9…%…%………/…/…C…	…„õ…1………"………$…$……)…………+…?……!„ù…!…+……#…#……… … …
+…
+…
+…2„ö………A…A…-……=………………)…0……&…………:…:„ý……%…9…k…k…/………1……1………"……8„ü…$…………………'…1…„ÿ……„ÿ…$…$….„Þ…)……)…)„í„í…3…„ü…$…$…$………,…………1…	…)……)……3…………(…(… ……<…d…„ö…………A……(…2…
+„î……„÷………….……'……	……'…'……$„ü…….…………=………3……8……$…$………,…,………………)…)………3…3……………(…<……2…2……-…………(…………………„ü…$……	…	…„ÿ…'…'…'…'„ü…$…$……)…)……)……3…)…)„ò……….…,„ð…,……'…'…	……3„÷…………„í………2…………(„ö……#……K……<…(…
+…
+………*……$……$…8…„õ…„ÿ…………………$……)…)…………„í…….…B….….………,……………	……3………3……)…)……2…2…
+…„Ø…………#…„û……(………………$…$…$…B…………„ú………„ú……………)…)…Q……………………………6………	…	……1…………)…8…….………………#„û………………#…
+…2…(…………„ü…$…$…….…,……"……"…"……"……)……………………………………3…"…"…,…,„õ……	…………„í…$…$…………7……„û…#……„ñ…A…#……2…
+… ……%„ý…/                                                                                                                                                                                                                                                                                                                                                                                                                                                                XTENSION= 'IMAGE   '           / IMAGE extension                                BITPIX  =                   16 / number of bits per data pixel                  NAXIS   =                    2 / number of data axes                            NAXIS1  =                   64 / length of data axis 1                          NAXIS2  =                   64 / length of data axis 2                          PCOUNT  =                    0 / required keyword; must = 0                     GCOUNT  =                    1 / required keyword; must = 1                     BZERO   =                32768 / offset data range to that of unsigned short    BSCALE  =                    1 / default scaling factor                         CRTS_ID = 'CSS150429:100757+691446'                                             HIERARCH RA_(J2000) = 151.98629                                                 HIERARCH DEC_(J2000) = 69.24623                                                 N_IMAGES=                   12                                                  UT_DATE =          20150429.17                                                  MAG     =                12.98                                                  HIERARCH CSS_IMAGES = 1504291690214116397                                       SDSS    = 'yes     '                                                            OTHERS  =                11639                                                  FOLLOWED= 'no      '                                                            LAST    = '2016-03-16'                                                          LC      =                11639                                                  FC      = 'yes     '                                                            CLASS   = 'HPM LHS_2222'                                                        END                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             …G…)…Q…8…L….….…B….…$…$…=…=………0…D…0…0…I…]…+…?……,…6…6…@…,……,…H… …H… … ……4… …E…Y…E…E…'…;…O…;…9…%…C…/…4…H…R…*…9…%…/……C…C…9…9…T…G…)…)…8…$……B……B…8…8…)…)………D……0……!…]……+…T…@…6…6…@…,…,……4……4…4…\…H…4…H…1…E…Y…1……'…'…;…9…%…C…/…H…4…R…*…9…M…/…C…/…/…9…9…T…=…)…=…L…L…8…$…$…L…$…8…G…3…)…)…&…&……0…+……5…5…J…6…6…6…J…"…@……H…4…H…\… …4…>…*……E…;…'…;…;…;…'…C…/…9…9…*…>…R……/…/…/…W…%…%…C…C…T…=…=…)…$…$…L……$…$…8…$………)…)…&…&…D…0…?…+…5…5…6…"…6…6…J…J…@…,…H…… …4…H…4…*…>…E……;…'…'…O…;…O…C……M…%…>…R…R…R……C…/…/…%…%…/…/…T…/…9…9…H…4…4…4…;…c…;…'…,…,…@……9…M…9…M…R…*……4…A…A…-…A…F…2…<…(…,…T…@…@…@…@…6…^…Y…E…O…;…h…@…@…,…:…N…0…D…!…!…?…+…0…0…0……5…5…S……%…C…%…M……H… …H…;…;…O……,…T……@…%…9…M……*…R…4…4…A……U……2…F…<…(…,…T…@…@…,…,…"…"…E…1…;…O…,…,…@…,…:…N…0…D…5…5……+…0…0…0…D…I…!……+…M…M…%…%…>…*…H…H……E…1……6…6…@…,…C…k…9…9…4…4…*…R…#…#…7…#……2…2…2…@…,…J…6…6…J…T…@…1…1…E…1…J…^………&…&…0…D…5…I…5…q…0…0…N…&…5…5…+……C…%…9…9……*… …H……E…1…E…"…"…,…@…/…/…%…%… „ø…*…*…7…7…7…#…2……F……,…@…6…"…J…6…@…,……E…Y…E…6…"…T……:…:…D…0…I…5…!…5……D…&…&…I…I…+………%…W…C…>…*……*…T…,……,……"…@…,…/………C…/…C…9…9…7…7…-…-…(…<…2…Z…6…"…@…@…'…O…'…;…O…³…³…'…1…1…'…;…5…5…5…!…+…?…I…5…D…0…&…:…5…5…5…I…9…9…W…C……R…>…*……@…,…,…J…^…@…,…/…/…/…C…C…/…9……#…#…A…A…P…<…F…F…J…6…T…T…'…'…O…;…O…³…Ÿ…c…1…1…;…'…5…5…!…5……+…!……D…0…&…:…5…5…5…I…%…9…%…9…>…*…*…>…"…6…6…6…6…"…6…J…9…M…/…/…M…9…M…9…-…A…K…7……F…<…<…@…,…@……;…;…'…;…Y…E…O…;…O…;…'…;…I…5…+……?…+………:…:…&…:…+…?…I………9…a…M…*……R……6…J…6…6…^…"…"…6…M…9…C…C…9…%…%……-…A…7…K…F…F…d…<…@………@…'…'…O…;…1…E…'…;…'…;…;…O…5…!…+…?…+…?…+…?…:…:…:…&…?…+…!…5……9…C…/…/…/…%…9…T…,…@…@…J…"…@……M…9…M…9…>…>…H…H…5…5…5…5…0…D…N…&…5…q…?…?…D…D…D…0…I…I…!…5……0……0…F…2………(…(…<…<…C……C…C…*…>…>…*…(…%……/…C……%…9……@…@…@…6…6……,…%…9…%…9…f…>…4…4…I…!…5…5…D…0…b…:…]…I…?……D……0……]…5……I…0…0…X…D……2…2…2…(…(…(… ……C…/…W……*……*…P…9…C……C…W……/…"…6…"…6………,…,…C…/…/…/…R…>…*…>……+…?…+……D…&…N…5…5…5…5…&…N…:…v…5…I…!…!…0……:…N…<…(……(…<…(…<……C……M…9…4…H…H… …2………C…C…/…/…C…J…6…J……,…@…@…@…/…C…W…/……*…R…>…?…S…+…?…D…D…&…&……5…I…!…:…:…&…:…5…!…5…5…D…0…N…:…(…<…<…(…<…P……<…/……%…9… …4… …H…2…………*…*…H… …O…'………'…'……1…C……9…9…%…9…C……N…N…D…X…D…0…D…D…I…!……I…0…0…0…0…?…+…?…+…I…!…I…5…#…7…-…A…2…2…(…(…4…4…R……*…>…*…>…7…>…>…R…R…*…H… …;…;…'…'…;…;…1……C…„ý…%…9…%…/…/…&…&…D…0…0………D…!…!…!…5………0…0…?…S…?……5…5…!…]…7…#……-…F……<…<…H…H…>…*…>…*…>…*…#…>………>…f…>…*…E…1…1……1……'…'…W…/…C……%…9…%…%…0…D…&…:…&…&…D……+…+…5…!…D…0…X…X…!…I…!…!…5…I……?…K…7…#…K…(…<…<…(…>…… …4…4…4…H…H…A…*…>…>…*…R…*…>…E…1…1…E…1……………………9…%…9…9…D…X…&……:…:…D…D…?…?…5…I……0…0…0…5……!…I…I…]…?……#…7…7…7…<…P……(…*…*…4…H…H…H…4…4…‘…?…?…S…&…&…0……<…<…(…d…(…(…(…<…-……A…U…(…(…(…<…#…7…-…A…2…Z…F…Z…f…*…>…R…>……H……<…(…2…
+…P…<…2…F…'…;…E…E…,…,…@……,…,…,…,…1………;…^…+…+…?…&…&……0…<…<…<…(…<…<……(…-…A……-…d…<…<…(…K…7…-…A……F…2…F…R…>…>…*…>…>…H…4…P……F…F…P…<…
+…n…'……E……,…,…,…,…@…@…@……1…E…'…O…r…5…!…5…0…0…:…:……2…(…P…(…<……2…#…#…-…A…2…2…<…<…#…7…_…7…F…F…2…Z……>…*…*……>……>…2…2…2…F…2…2…2…Z…E…E…E……"…6…"…6…,…,…J…6…;…;…'…;……5…5…I…D……&…&…2……(… …(…<…2……7………-…F……<…<…7…#…#…K…F……F…F…f…>…>…>…>…>…>…>…F………2…F……2…2…1…1…E…E…6…"…"…6…,…,…6…"…'…'…;…'……&…0…D…0…D…D…D…-…-…#…#…<…P…F…2…A…A…-…-…F……<…<…A…-…-…A…(…<…2…2…9…M…M…%…/…/…/…/…2…Z…<…(…U……-……J…6…J…"…'…'…………	…1…E…J…J……,…6……0…D………D……-…-…#…#…<…(…F…2…U…-…-…-…2…2…<…<…U…A…U…A…P…<…Z…Z…M…9…M…M…k…C…C…C……F…<…(…A…-…A…-…"…6…6…6…'…'…1…Y…Y…E…E…1…"…J……,…"…0…X…D…:…:…:…:…#…#…7…7…(…(…2…F…#…7…7…#…2…Z…<…(…K…#…#…7…<…<…F…F…W……W…/…W…/…/…/…(…(…(…<…-…-…-…-…@…,…6…6…1…1…'…;……;…1……,…,…,…@…J……0…D………N…&………7…7…(…(…F…2…7…#…K…_………P…<…7…_…_…K…P…x…Z…‚…k…W…W…W…C…C…C…C…<…<…(……i……-…-…@…,…6…6…	…1…;…'……;…1…E…,…,…,…@…6…-…A…-…-…-…7…#……2…<…<…P…<…<…P…4…H…4…\…4…4…>…>…<…d…d…d…}…¹…Í…õ…“…k…a…%…>…R…>…>…/…W…%……4… ……>…1…1…1…1…1………'…J…6…@…,…,…,…@…,…^…U…A…-…A…A…7…K…2……(…(…<…(……(…4…H…H…H…\…\…>…>…<…d… …ð††Ñ‡™‡I†o…§…u…a…>…*……>…C…C…9…%…\… …>…>…1…	…1…1…1……'…;…6…J…T…@…,…T…,…@…"…A…A…-…A…A…A…A…(…<……F…F…2……P…\…4…\…H…>…R…\…\…Z…–…æ‡:‰‹	‘{‘Ë‰…†Q…‰…M…>…R…H…4…9…9…%…… …H…*…*…;…;…O…;…E…1…1…1…6…"…@…,…,……"………-………A…A…-…U…(…<…F…F…2…F…<…(…4…\…H…\…>…R…p…p…n…‚†‡Š‹	˜ÉÑw×”u‡A…Å…‰…R…f…p…4…9…9…M…9…4…4…>…>…;……;…'…1……1…1…6…J…,…@…@…,…6…J…@…2…P… …U…U…#……-…-…U……2…2…<…(…C…C…9…M…R…>…R…f…–…¾†rˆRŒ£¢Gæ­è›Ãˆ;†)…Å……k…M…M…C…/…C…/…W…C…%…%……T…6…6…6…J…,…,…6…"…6…6…;…'…Y…1…;…2…P…(…U…-…#…7…U…-…-…A……F…<…(…C……M…9…f…R…f…R…n…n†‡v‹w™sÍŸÑŠ»†[…±…u…W…k…M…%…C…/…k…W…/……%…M…,…@…6…6…6…J……,…J…^……6…'……E……;…(…<…(…A…-…-……A…-…K…7…(…P……F…/…W…C…W…4…4…\…H…2…n…È†T‡ý‹©Å‰†ƒ…“…a…u……C…9…9…/…C…a…%…/……/…/…@…,…@…,…"…"…,…@…@………@……'…;……E…<…<…(……-………-…A…#…7…P…(…
+…2…/…/…C…/…\…4…4…H…Z…n…Œ…È†††½†…§……a…%…k…/…9……/…C……M…/…C…C…C…@…,…@…,…J…"…@…,…,………,…;…'…'…'…1…!…I…5…:…&…&……A…U…7…#…<…(…(……G…3…=…)…8…L….….…)…Q…G…o…y……¡……b…N…:…&…D…0…0…0…2…Z…(…<…<…<……2…0…0…D…D…5…!…?…+…0…0…:……0…D………4…5…5…!…:…&……N…-…A…7…#…P…<…P…<…3…G…=…)…8…L…B…B…Q…Q…G…G…e…Q…Q…e…b…N…N…:…X…D…0…0…2…2…<…(………F…2…0…0…………!…?…+…X…0…&…N…0…D…D…D…4…!…+……0…0…:…N…U…-…A…-…Z…2……F…3…3…Q…=…8…`…B…B…G…[…[…3…Q…Q…G…[…&…N…D…X…&…N…0…D…2…2…P…(…<…P…F…2…D…D…&…:…+…+…I…!……:……0…0…0…D…0…*…5…+…?…0…0…N……-…-…A…-…2…2…F……G……=…)…$…$…B…B…G…3……G…=…=…G…[…b…:…€…l…&…&……0…F……<…<…(…<…2…………:…&…+…+…!…!…:…………0…0…0…D…>…X…D………0…X…D…#…7…7…K…<…(……<…G……=…=…3……=……B….….…V…)…=…e…Q…D…D…Š…N…0…D…:…:…-…U…7…7…(…(…(…<…&…&…0…0……I…5…I…N…:…0……+…S…5…!…4…0…D…D…D…0…0…D…7…K…#…7…(…<…(…P…G……)…)…3…G…=…=….……B……=…Q…Q…=…D…D…:…N…D…X…:…:…A…A…#…K…(…(…(…<…b…b…D……!……5…!…:…&……X………5…!… …0…0…0…D……N…:……#…-……d…(…2…2…=…=……3…3…3…Q…=…8…8…8…8…Q…)…3…3…b…:…:…N…0…0…:…:…7…7…-…-…2…2…2……&…&…D…X…S…?…+…?…:…&…N…&…?…+…!…!………0…0………:…&…#…7…-……P…<…2…2…)…)…G…3…3…3…=…Q…8…8…$…$…=…=…G…G…:…:…:…N…0…0…&…N…7…………
+…2…F…2……:……0…+……?…+…&…:…:…:……+…5…5……g…5…!…N…:…D……7…K…-…A…<…<…F…2…$…8…L…8…B…V…L…L…B….…$…L„÷…[…=……K…7……7…-…U…-………K……A…7…7…#…7…3…G…3…G…$…$…V……8…$…L…8…$…L…$…L….…+…I…5…:…&…0…0…7…#…-…A…<…<……Z…8…$……L….……8…8….…B…8…8…3…G……=…#…7……7………-…A……#…-……#…#…#…7……3…[…G…L…$……V…$……$…8………$…L….…?…!…I…:…:…&…N…#…#…#…#…<…<……F…$…8…8…L…`…8…$…….…B…L…8……G…=…=…K…7…#…7…#…7…-…A…#…7…#…7…7…#…-…U……)…3………B…B…V…$…L…B….….…B…$…8….…?…5…5…:…:…b…:…K…K…7…_…(…(…2…2…$…8…$…8…8…8…$…8…….…`…$……3…=……#…7…7…K…#…7…-……#…7…#…7…7…#…A…A…=…Q……[…B……….…$…$…V…B…….…$…8….……:…:…0……D…0…2……2……(…(…<…<…=…Q……3…3………G…G…3…3…[…B….……B…#…#…7…#…A…A…#…K…2…F………<…<…(…<….….…8…8……)…)…=…….…8…L…B….…8…$…B…D…:…:……0…0…D…F…2…2…F…<……<…<…)…=……G…G…3…3…[……3…3…3…B….….……K…K…#…7…-…-…7…7……2…Z…2…d…<…<…(…B……$…L…=…)…)…=…B….……$…B…V…8…$….…D…D…D…N…:…:…N…2…2…2……(…<……2…)……)…=…Q……)…)……=…3…G….……B….…-…A…-…-…7…7…A…A…<…<……2…<…<…<…<…8…8…8…$……3…=……8…L…B……8…8…B…V….…0…0…0…:…N…&……Z…2…2……<…P…2……=…)……=…)…=……=……=…3……V…B….…B…-…A…A……7…7…A……<…<……2…<…<…<…<…8……8…L……3…=…=…L…8…B….…8……B….….…0…X……D……:……=…=…3…3….…B….….…/…/…%…9…9…9…C…C……"…6…"…'…;…;…;…H…H…4…\…/…C…%…9…9…%…%…9…%…M…/…/…-…U…K…K…K…7…-…U…H…4…>…>…/…/…/…/…*…0…D…0…0…0…&…N…e…=…3…….…B….….……C…9…%…9…9…/…/…J…^…J…6…;…'…'…'…4…4…\…4……/…9…M…%…9…M……%…%…/…/…-…-…#…#…7…K…U……H…4…R…*…C……C…C…R…0…&…:……0…:…:…3……3…G…V…V…`…8…%…9…/…/…C…/…9…%…6…J……,…;…;…'………*……*…9…%…M…M…9…9…%…%…%…M……/…#…K…7…7…#…7…7…#…R…R…>…R…C…/…9…9…4…0…:…&…0……&…N……3…3…….….…$…$…9…%…/…/…/…C…9…M…J…6…@…,…;…;…'…;…*……>…*…9…%……9…%…%…9…9…%„ý…W…C…#…K…#…K…K…7…#…7…>…>…>…R…/……9…9…4…?…!…5…?…?…I…!….…V…8…$….….…$…8…H… …>…*…4…H…H… …;…;…E…Y…'…;…1…1… …4…*…R…/…C…9…%… … …>…*…*…>…H… …7…#…A……#…#…-…A…C…/…%…%…H…H…R…>…4……I…5…?…?…I…!….…V…8…$….….…L…8… …H…>…*…4… …H… …'…'…Y…E…O……1…1…4… …*…*…/……%…9…4…4…R………*…4…\…7…K……A…7…7…U……/…C…M…M… …H…>…*…H…?…+……!…!…5…]…….….…V….…B…`…$…4…H……R…H… …>…*…'…'…'…;…;…;…'…;…>…>… …4…/…C…M…………4… … … …>…*…A…A…K…#…7…7…7…7…%…9…M…M…*…*… … …*…?…S…S…5…5…!…!….…….….…B….…8…L…4…H……>… …H…*…>…;…;…;…O…;…;…;…O…*…R…4…H…/…C…9…M…>…… …4…H…H…>…*…U…-…7…7…7…_…7…7…%…9…9…9…>……H… …R…+…+…S…?…+„ù…5…:……0……:…:…:…&…*……*…>……>… …\……/……M……*…>…>…W…/…C…C…>…>…R…*…M………M…C……W…C…
+…2…F…F…A…A…K…#…!…I…?…?…0…X…N…:…+…+…+…+…S…?…I…5…&…N…D…0…&…&…&…:…*…>…*…>…*…*…H…4…/……M……*…>…>……/…/…/…/…*…*…>……9…M…M…………/…C…2…2…Z…Z…A…A…_…7…5…5…+…S…D……N…b…+…I…?…+…?…+…+…?…0…D…:…:…D…0…0…0…4…H…4…4…R…R… …H…/…/…M…%…*……>…*……C……%…H… …4…H…/……9…M……C…9…9……<…F…2…_…#…_……S…+…I…5…0…0…0…0…5……?…+…+…?…+…?…0……&…&……0…0…0… …… …H…*…R…4…4…C…C…%…%……R……R…/……9…%… … …4…H…C…/…9…%…C……%„ý…<…<…Z…F…K…_…s…K…?…?…5…!…D…D…€…X…I                                                                                                                                                                                                                                                                                                                                                                                                                                                                XTENSION= 'IMAGE   '           / IMAGE extension                                BITPIX  =                   16 / number of bits per data pixel                  NAXIS   =                    2 / number of data axes                            NAXIS1  =                   64 / length of data axis 1                          NAXIS2  =                   64 / length of data axis 2                          PCOUNT  =                    0 / required keyword; must = 0                     GCOUNT  =                    1 / required keyword; must = 1                     BZERO   =                32768 / offset data range to that of unsigned short    BSCALE  =                    1 / default scaling factor                         CRTS_ID = 'CSS150429:100757+691446'                                             HIERARCH RA_(J2000) = 151.98629                                                 HIERARCH DEC_(J2000) = 69.24623                                                 N_IMAGES=                   12                                                  UT_DATE =          20150429.17                                                  MAG     =                12.98                                                  HIERARCH CSS_IMAGES = 1504291690214116397                                       SDSS    = 'yes     '                                                            OTHERS  =                11639                                                  FOLLOWED= 'no      '                                                            LAST    = '2016-03-16'                                                          LC      =                11639                                                  FC      = 'yes     '                                                            CLASS   = 'HPM LHS_2222'                                                        END                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             …"…6……………,…"…J……,………"……?………!…!…!……+………!„å…!„ù………
+……………A…#…#…
+……<…„ö…2………-……………………………………2…
+………"…"……,……,…"…"…,…………"…6………!…5…!…!………g…+…!…„ù…!……„ö…
+……<………#…#…2…………
+………………A……#…#……-…………<…2…2………………"…6…"……"…"…"……"…………………5…!„ù…5…!…5…+…………………+……2…2…
+……#…7………<……(…(…(…2…„û„û………A……-…A…2……………
+…<…<…9……"………"……"…"…"…"……,……………+„ù……!……!……?……S…+…?………+……
+…
+…2…7…#…#„û……<… …………2……#…#…-……-……………
+…
+…
+……
+…<……%…;……'……,…,…………'…'…1…	…	……N……&„þ……0…D………0„ô…………!…!……
+…2…
+„ì… … ……-……-………-……7…
+…
+…
+…
+……#…#…#…………………<… ……;„ÿ…………………;……;…………1…&……:……0…0………D……0…0…5……!…!……
+…………(…(………-…-……-…-…#…#…2…2………„û…7…………F……………(……1…………"…6……'„ÿ„ÿ……1…1……'………0……&……„þ………………!…!……(……………2…(……#…#…-…-„û…#…#…#…
+………(…-……#………
+…(…<……2……„ý…1…………"………'…'…'……„õ…'………0………:…&…„þ…………:……I……!… …… … …2………(…7…_…i…i…#…#………
+……(……-……#…7……
+…<…(……2…2…2………#…#„û……#………A…„û…#…7…-……………A………2…2…!„ù………0„ô„þ…&…+……!……+……!……8…ˆ…Î……$…$…….…	…1…	…………,……$…$….……….„ò….… ……#…#……#…7…#…-…-…7…#……#…………………2…2………5………5……0…&…&……+…!……+…+……!…$…t…j….…$…$………	…	…1……,…,……………………………4………-……-…#…#……………#…#…-…A…-………#……
+… ………!…………0…&…&…5…5…+…+………5…!…….….……L……$…$…;……'„ÿ…6…"……,….………$….……………#………A………7…-……-………7……-…………#…
+………(…!……………0…:…………+…+…………!…B…………$…8…$…$…'…'…;……"…6……,………$……B….„ü…$…„ì…
+…2……<…(…<… ………
+………#…………7………-„û…#………+………&…:…:…+…+………!……!…5…………………3……@…,……,…'………………3…G…G…………%…(…
+…
+„ì………(……(……
+………#……-…-………„ñ………………+…&……&…&…+……………!……!…….…….…………3………,……'…;……………………………%… … … ……(…………………A…………-…-……-……#……………?…+……0…0…0…!…!……5…!…!…!…!………….………)………6…"…"………'…'…=…)………)…………… ………(……(…(…„ö… …(…………-…-……………#……-…………+………0…0…I…!…!…!………!…!…B…….…B…………)…"„ú……………;……)……………)……)……%…„ý„ý……/…„ø… …………… … ………………… … … …P…(…(…#…#…………………………9„þ……………!…5„ù……„å…!……………
+…
+………-………7…"…%…9„ý„ý………… … …*……„î… „ø……/……/…*…*…4…4……… …(…#…#………*…>…………/…………&…………!…!……………!…5…5…+……
+…2…2…2……-…#„û………/…………………4…*…………………………… … ………
+…(…<…#……7…… … „ø… …9…%………D……0……5…5…+………+…!…!…!…!………………
+„û…#…7……6…………%„ý……9… … …*………>…*…*……/…%…%…… … …4…2…F…(……7…#……………4…4……%……C…0……D…0…5…5…+…+…+…+…5…5…5……!…!…………2…#…#………J……>…… …4…… ………………*…………*…………%………#„û…#…7………#…… … ……………%…9„þ……0……&„þ…0……&…………!……?…„ö……2……
+…………E… …*…*… ……4… ……/…………>……*…*………*……%…C……#…#…#…7……7…#…7… … …*…*……/…9…%……&…………:…0…0……&………5…I…+……
+…2…
+……
+……………4…*…*„ø… …… …………/……*………>…>… …4…C…/…%………A…-…A…#…#………>………4…………/…0………„þ…………&…&………!…!……+… …(…
+……
+…
+…2…………*…*…H… … …4„ó……………*……*…R…*… …4……/……%…………-……7……-……R„ø… …/…/……/…0……………&…0………………!…!………………2…
+…
+……
+…	…?……+…………!………………&……&…,…,…6…"………1……*…*… … …/……M…9………H… …9…%……%„û…#…………-…………G…)……)……)…)…$…$„ü…L…………)…………+„ù…!…!…………&…&„þ……&……,…,…"…6………E…1…*…*… …H…/……9…%…>…*…H… ……M…a…%…K…#…-……………-…………)……)……)…$…$………………=…*…5……!……!…!…5……0……………&…:……………	…1…'………*…*…*…C…C…W…C…4…4… …………%………………-…A…#………………„÷…………………………„ø…I…5…!……!…!……0………………&…………"…"…1…1„ÿ……*……>…>…W……“……\…4…H…4…/……%………-……………K………………„÷…G…„ò…………3…3……… …!……+…0…0………!……!…5…0……„þ…„ú…,……"…"……,…9…M…M…u…˜…è†L†8…Ù…u…C…/…>………4……-…7…7……„û……………3……)……………………………4…!…+………0…&…&……!…5…!…0……„þ……"……,…6…6…@…,…%…a…†‡<‡ÜŠ˜Š¬‡á…í…k………>………A…………-……„û…3……G…………3…3…$…$….……3„÷……… …+…?………&………+…+…+…?…&…&…………"…@…@……,…6…6…C…k…±†Ý‰Ð8¤ì«Ì‡……a…*…*… … ………-……#……„û…………3………3……………B…)……)…………+…+…„þ………+…+…+………:…0…0…6„ú……,…@…,…J…J…C…“†‡‘‹`›(åìè¼£%ˆå†)…Å…f…f…H…H…A…-…-…-……#…7…#……………3……3……………………)……4………#………#…„û…7……#…-…-…A…-…8…$…$…L……B….….…Q…y…ç‡'‹2š–äØÏÔ’Z‡j…î…Š…I…I…I…5…………
+…
+…
+……„þ…:………&…:……&…„ü…„ü…)……………#„û………A……#…#…„û………………$…8…$…$…….…….…)…Q…«†sˆîŽÊ™Ä‡â…Ú…b…N…!…!……!………2……
+…
+… … …&…:………:…&……&……$…$……)……)………7……#…#„û…#…#……-…7………-…#…K…………………$…8…3…G…e…É†P‡‡þ†æ…Ð…X…D…0…?…+…?…+…
+……………
+……„þ…&…0………0……„ò……$……)„í…)…)…E……#……7………7………#…#…-…-„û…#…………….….……$…3…G…=…Q…t…Ä…Î…¦…€…0…0………+…………
+…
+…2…2…………:………0…0„ô…&…&…………$…)……)……E……#…#…
+……(……„û……7……„ö„ö…………)….….……$…)…=……)…B…B…t…L…X…0…&…&……5………#………#…(…(……„ù…5……„ù…!…!………)„÷„÷….……$„ü…'…………
+………(…„û…#…#…2…
+…
+…
+……3……)…………L…)…=…)…=…B…B…8…`…0…0…:…:…5……!…!……#…#„ç………(… …!…………!…!…!…5………„÷………$…$„ÿ…#…#………
+……………#…#…2…2…2…
+………)……8…$………3…………B…B….….…&…N…:…:…+……+…?……A………… …<…(……+………+………+………………8……„ÿ…#…„û……
+…………-…#…#……………………)……$….….…3………….…V…B……:…:…:…b…?…+………A…A…-………(„ì…(…………+…+……+……)…………$„ü…….………&…&…?……+………………$……$„ü…+…+…I…5…„ô…0…………3………)…………F…d…<……………………#……„ì… ……!…!…!………5………3……………….………&…&…+……+……)…)…)……8„ü„ü…$………!………0…………3………)………[…
+…
+…(…(…#…#…………„û…………(……„ù…5…………!…!…………3….…….….…………„ù…!…!………=……3……8…$…$……+…5…!………0…0…………………=……F…2…2…
+…7„û…………-……… … ……
+…I……+…………!……………)………….……0……0…!…!……!…)…)…„÷………$…$…+………!………………………)…)…………
+………#…7………………7…………2…!……+……?……„ù…)…)……)….……….…………………!…!……………………$…&………&…0……&„þ…$…$…$…$………….…#…#……-……… ……F…………#…7…#…#…+…„ù…!……+„ù…!…………)………)…)….…!……5…!…!…!…!…G………….……$……&……&……0……&…&……8……8…………B…#…#…………<…… ………(…(„û……#…#…?……………+……5……………)…)……………5……5…!…!………G…3……………„þ………0……&………$…8…8…8….….„ü…8………#…7…F…… …… …(…2…2………………+…!…5………!……„÷…)…………………………!………!……………….……8…:…&…………&………$……8…8….….…8…$…#…#……#…
+…2…(……(…(…
+…2……„û…#…+………!………!…5……………=……G…3……B…………………….…………8……$…-………-…………#…2……<…(……………&……&…&……?…!……!……+…+…&……D……0……………&………B………$…)……„÷…'…………………3……„ò….………$…8…-„ñ……-…-………#……
+…(…<………
+…
+…&………………!………!………&…………0„ô…&„þ……&…………V…$………………'…………)…=…)……$……$…$…….………„û…-…-………-…A…
+……2……<…(……………0„ô…„ù……!…5…5…+…+„þ…&……:„þ„þ…0………………$…$…$…$…………3…………B…)…………$……$…$…….……„û…………………-……
+…2………(…
+…
+……0……0…5…!…!…5…!…!……„þ…&…&…&…&„þ……0……………$…$…$…$…3………………….…………….…B…………………(………(…7„û…#„û…<… ……
+……-…„ç………0………&…&…„þ…&………………+…5…5……………………8….……3……3…G…"…V….……„í…)……….….……)…=………(………(…#…………(……2…F……-…#„û………………&…&……&„þ…………+……?…!…!……………………………„÷…………$….……………)……….……)…)……… …(„ö…2…-…-„û…7…(…(…<…<…#……-…„þ……………&…„ô…………&……!…!…!…!…!…5…!…0…………$…….………………"„ü….…B…3……)…„ò….…….…)……3…………
+………„û…7………………#…-……&…:………&……………„ê…&…!…5„ù„ù…5…5…!………0………$…8….……)…)„÷………1…1………,……6„û„û……#…(………(…………1…,……………-…7…K………F…
+…………„ñ……-…A…#…#…#„û…#…K…………B…j…B…8…$„ü…$………&…„ù……+…?…)…1……	……,…"…"……7…7„û……(…(……	…1……	…,……………-……#…2…2……2…-……………………#…#„û…#……………….…j…B…8…$„ü…$……„þ………!…?……)……	…1…"……,……#…K…#…7……
+…(…(…1…1„õ„õ…"………@…7…#…#…… …(……………7…„û……#…#…-…-…………7………8……L…8…$…$…………„þ…„ù…!…I…!…)…1………"…………#„û…„û…2…… …(………	…	…"…6…,………#……#…(…(………#…K…………#…#…#…A…………#„û…7…7„ü…$…$…8…8…8…$„ü„þ„þ…:…&…I…I…!…I…=…@……,…………,……(„ö…
+…#…#…„ñ…,…,……,…………,…-…-…………-………(……
+…2…(…(… … …A…-…………-……-…$…$„ü……………………+…+……0………)………,…T…,…,……… „ö…2…#…#………@……,……,…,…,…,……-………-…-…-…-…(………………………-………-……-……$„ü……$……………+………+……0………=……"…"………6………(…
+…
+…………………"…"……"…"…"……„û………-…7…#…
+…………(……(……#……-…-„û…#………………$…$…$…8…$………!…!………0……)…,……6……„ú…"…(…………-……-………,………6…"…"…"………#…………#…7……
+…
+…
+…(………(„ç…#…………„ç…7………$………„ü…………!…!…………D…                                                                                                                                                                                                                                                                                                                                                                                                                                                                XTENSION= 'IMAGE   '           / IMAGE extension                                BITPIX  =                   16 / number of bits per data pixel                  NAXIS   =                    2 / number of data axes                            NAXIS1  =                   64 / length of data axis 1                          NAXIS2  =                   64 / length of data axis 2                          PCOUNT  =                    0 / required keyword; must = 0                     GCOUNT  =                    1 / required keyword; must = 1                     BZERO   =                32768 / offset data range to that of unsigned short    BSCALE  =                    1 / default scaling factor                         CRTS_ID = 'CSS150429:100757+691446'                                             HIERARCH RA_(J2000) = 151.98629                                                 HIERARCH DEC_(J2000) = 69.24623                                                 N_IMAGES=                   12                                                  UT_DATE =          20150429.17                                                  MAG     =                12.98                                                  HIERARCH CSS_IMAGES = 1504291690214116397                                       SDSS    = 'yes     '                                                            OTHERS  =                11639                                                  FOLLOWED= 'no      '                                                            LAST    = '2016-03-16'                                                          LC      =                11639                                                  FC      = 'yes     '                                                            CLASS   = 'HPM LHS_2222'                                                        END                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             ŠIŠ5ŠHŠHŠ*Š>ŠRŠRŠ4Š4Š4ŠpŠHŠ4ŠHŠ ŠRŠRŠ^Š^Š^Š6ŠŠ1Š'Š;ŠŠ*ŠRŠ>ŠŠWŠCŠWŠŠYŠEŠYŠŠYŠ1Š1ŠLŠ8Š$Š8Š[Š3ŠGŠ3Š„Š4Š*Š>Š Š4Š4Š4Š@Š@Š,Š@Š"ŠJŠ!Š5ŠHŠ ŠRŠ>Š*Š*Š4Š4Š Š\Š4ŠHŠ4Š4Š>ŠfŠ^Š^Š^ŠŠ1ŠEŠ;Š'ŠfŠRŠ>ŠRŠCŠWŠCŠ/Š1ŠEŠmŠ1Š1ŠEŠYŠ1Š`Š$Š$Š8ŠGŠŠ3ŠGŠ4Š4ŠfŠRŠHŠŠ4Š4Š@Š@ŠTŠhŠJŠJŠFŠ2Š-Š-Š7Š#ŠPŠdŠPŠ(Š\Š4Š*ŠŠ%Š9Š%Š9ŠŠŠOŠ'Š'ŠŠYŠYŠrŠ6Š^Š6ŠŠOŠ;Š;Š3Š3Š3ŠŠoŠ[Š=Š=Š3ŠGŠ3ŠŠ$Š8Š`Š8Š/ŠCŠ9ŠaŠ9Š9Š/ŠCŠŠCŠCŠŠCŠCŠFŠ2ŠAŠAŠ#Š7Š(Š<Š<Š<ŠHŠHŠ>ŠfŠ9ŠuŠ9Š%ŠE‰õŠOŠ'ŠŠOŠYŠYŠ6ŠJŠrŠ"ŠwŠ;Š;ŠŠGŠŠŠŠGŠ[Š=Š=Š3ŠŠGŠ3Š8Š$Š8Š8ŠWŠCŠaŠŠ%Š%ŠWŠCŠ/ŠWŠWŠ/ŠkŠCŠFŠ
+ŠAŠAŠ-ŠAŠ(Š(ŠdŠ(ŠHŠ4Š4Š4ŠŠ/ŠCŠkŠ1ŠEŠEŠŠ1ŠYŠOŠcŠŠ,ŠJŠ6Š1ŠYŠOŠ'ŠGŠŠ3ŠGŠ)Š)Š[ŠGŠQŠ=ŠQŠ=Š$Š`ŠŠ8ŠaŠaŠMŠ%ŠkŠ/ŠWŠ/ŠCŠCŠŠCŠWŠ/ŠFŠ2ŠUŠ-Š-ŠAŠ(ŠPŠ(Š<ŠHŠ\Š ŠHŠ/Š/Š/ŠWŠEŠ1ŠEŠŠEŠEŠOŠ;Š@ŠTŠŠJŠ1Š1Š'‰ÿŠ3Š3ŠŠGŠ)Š)Š3ŠGŠQŠ=Š=ŠQŠLŠ8Š8Š8Š9ŠaŠMŠMŠkŠ/Š/Š/ŠCŠŠCŠCŠ/ŠWŠ<ŠPŠŠAŠUŠAŠAŠ}ŠKŠKŠMŠMŠCŠWŠ Š\ŠfŠ>Š6Š6Š6Š6Š"Š6Š^Š"ŠOŠcŠEŠEŠŠEŠ;ŠOŠ$Š8ŠBŠ.ŠLŠLŠLŠLŠ[Š3ŠŠeŠ3ŠGŠ3ŠGŠfŠ>ŠHŠ\Š4ŠHŠŠHŠ„Š4Š>ŠRŠ/ŠCŠ<ŠPŠŠiŠUŠŠiŠUŠKŠKŠ%ŠMŠ/ŠCŠ4ŠHŠ>ŠfŠJŠ"Š^ŠŠ6Š"Š6ŠJŠOŠcŠŠEŠEŠEŠOŠŠ8ŠLŠŠjŠ8Š8ŠtŠLŠ[Š3Š)ŠŠGŠ3Š3ŠŠ*ŠRŠ Š4Š4ŠHŠ4ŠHŠ\Š4Š*Š>ŠŠWŠFŠ2ŠAŠiŠKŠKŠ7Š7ŠUŠ-Š9ŠMŠ/ŠŠ4ŠHŠ>Š>Š@ŠTŠTŠ,ŠTŠhŠ6ŠJŠEŠEŠEŠŠOŠOŠcŠOŠBŠjŠ8Š$ŠjŠVŠtŠØŠƒŠ3Š[Š[Š)ŠQŠ[ŠGŠ4ŠHŠ\ŠHŠ*Š>ŠfŠŠ>Š>Š Š4Š9Š%ŠZŠFŠ-Š-Š_Š7ŠŠ7ŠUŠ-ŠMŠ9ŠkŠkŠŠ Š>Š>Š@Š,Š,ŠTŠ,Š@ŠŠJŠŠEŠmŠEŠ;ŠcŠOŠ;ŠVŠVŠ`ŠLŠjŠVŠœŠØŠoŠGŠ[Š3ŠeŠ=Š[ŠGŠ Š4Š\ŠHŠ>Š*ŠRŠ>Š*Š*ŠHŠ4Š9ŠMŠSŠSŠbŠŠNŠNŠŠŠNŠ&ŠAŠUŠ#Š_ŠKŠKŠŠ7ŠŠ$Š$Š8Š=Š=Š3Š3ŠŠŠ‰òŠGŠGŠ)ŠQŠ8ŠLŠ$Š8Š.ŠjŠ~Š¦Š0ŠDŠDŠDŠ?ŠŠ5Š5Š/Š/ŠMŠ9ŠŠkŠ/ŠŠ#ŠKŠ_ŠKŠ7Š7ŠgŠ?ŠNŠNŠ&‰þŠXŠŠbŠ:ŠUŠAŠKŠ_ŠŠ_Š7Š7ŠLŠ`ŠLŠ8Š)ŠQŠŠŠVŠ.ŠBŠVŠGŠGŠQŠ)Š$Š8Š8ŠLŠBŠ.ŠVŠVŠXŠDŠXŠ0ŠgŠ?Š!Š!Š/Š/Š%Š9Š/ŠWŠ/ŠŠ7Š7ŠKŠ7Š7ŠŠ5Š5ŠDŠ0Š&Š:Š:ŠbŠXŠ0ŠAŠ-ŠKŠ#Š7ŠŠ-ŠiŠ8ŠLŠ8Š8ŠQŠ=Š=Š)ŠBŠŠ8Š`Š=Š=ŠGŠ3ŠBŠŠŠLŠ.ŠŠLŠ$ŠvŠ:ŠNŠ:Š?Š?Š]Š5ŠCŠŠŠWŠ9Š9ŠCŠ/ŠKŠ_ŠKŠKŠUŠAŠ5Š5Š0ŠDŠNŠ:ŠNŠ&ŠDŠŠ-ŠAŠ7Š7ŠKŠ#ŠAŠ-ŠLŠ8ŠLŠLŠeŠQŠ=ŠQŠBŠjŠ8Š`ŠŠŠGŠ[ŠBŠBŠ8ŠLŠ.ŠBŠLŠ$ŠNŠ:ŠbŠNŠSŠSŠIŠIŠCŠCŠWŠCŠMŠ%ŠCŠWŠKŠ7ŠKŠKŠiŠ-Š+ŠgŠNŠNŠ:ŠNŠNŠ:Š:ŠNŠPŠ<Š<ŠPŠdŠPŠdŠ<Š=Š=ŠeŠ=Š$Š$ŠLŠŠQŠ=Š=Š=ŠBŠVŠ.ŠVŠ=Š)ŠGŠGŠ)ŠeŠ[Š3Š0Š0Š&Š&Š]Š!Š!ŠIŠkŠ/Š%ŠuŠCŠŠCŠŠPŠdŠdŠ<Š
+ŠFŠ+ŠŠ:Š:Š:ŠNŠ&Š:ŠNŠ:Š(Š<Š<Š(ŠPŠdŠ(ŠPŠ=Š=ŠŠeŠLŠ$Š$Š8ŠQŠ=Š)ŠQŠ.ŠBŠBŠBŠ=ŠQŠ[Š3ŠŠ)ŠŠGŠDŠŠ&ŠNŠ5Š!ŠIŠ!ŠCŠ/ŠMŠ%Š/Š/ŠCŠŠ<Š(ŠPŠ(ŠZ‰öŠŠ+ŠXŠDŠDŠDŠNŠŠDŠŠPŠ<Š
+ŠZŠ Š<ŠFŠFŠ=Š=Š[ŠGŠBŠBŠ8ŠŠ=ŠQŠ=Š=Š.ŠjŠ$Š`ŠŠ)Š3Š[ŠŠŠ)ŠŠDŠDŠ0ŠDŠ?ŠSŠ5Š5Š%ŠaŠ%Š%ŠCŠCŠ%ŠMŠ<ŠPŠ<Š(Š(Š<Š+Š?Š0ŠŠDŠŠ:‰þŠDŠ0ŠPŠŠ
+Š2ŠŠPŠ2Š2ŠQŠQŠ[ŠGŠVŠ.Š8Š8ŠQŠŠ)Š)ŠBŠ.Š8ŠLŠ=ŠŠGŠŠ3Š3ŠQŠ=ŠŠDŠDŠ0Š+Š?‰ùŠIŠŠ%Š%ŠMŠWŠ/ŠMŠMŠ(Š<ŠPŠ<Š<ŠPŠBŠ.ŠoŠ3ŠŠGŠŠ.ŠtŠ`ŠAŠUŠ#Š#ŠUŠŠ7Š#ŠGŠ3ŠGŠGŠ[Š[Š[ŠGŠQŠQŠ[Š3ŠGŠ3ŠGŠGŠŠ1ŠmŠŠŠ1ŠEŠŠbŠ:‰þŠNŠŠ+ŠŠ‰ûŠ#ŠAŠUŠ
+ŠŠ<Š ŠŠ(ŠŠZŠ<ŠxŠBŠVŠGŠ3Š3Š[ŠVŠBŠŠ$ŠAŠ-Š#ŠKŠŠUŠ#Š7ŠŠ3ŠGŠGŠGŠGŠŠGŠŠQŠGŠ‰÷Š[Š3ŠŠEŠ1Š1ŠYŠ1ŠŠ1Š	ŠNŠNŠ:Š:ŠŠ+Š?Š?Š7Š7ŠAŠ-Š
+ŠFŠ<ŠPŠŠ(Š2ŠŠ(ŠdŠ8ŠLŠ3Š[ŠGŠ3Š.Š.Š.ŠBŠ#Š#Š7Š_ŠAŠAŠŠKŠ=Š)Š3ŠGŠoŠGŠ)Š=Š3ŠGŠGŠŠ=ŠQŠGŠ3ŠŠŠOŠ'ŠŠ1Š;Š'Š:Š&Š:ŠŠ+Š?ŠSŠ?ŠŠAŠ7Š#ŠZŠ2ŠFŠ2Š2‰âŠŠ
+Š(Š<Š8Š$Š3Š3ŠŠ3Š‰òŠŠŠ7ŠŠ_Š7ŠAŠAŠŠ#Š=Š)ŠŠGŠŠ3ŠŠ)ŠGŠ3ŠŠŠeŠQŠŠŠYŠ1Š'Š'ŠEŠ1Š'Š;ŠŠNŠ:ŠŠ+ŠŠ?ŠŠŠŠ#Š7Š2Š2‰öŠ2ŠŠŠŠ
+Š<ŠPŠŠ8ŠŠŠŠŠ8Š$ŠŠBŠŠPŠ2Š‰ñŠ-Š‰ûŠBŠ.ŠŠ.ŠŠ3ŠeŠ=ŠŠŠŠŠBŠBŠŠŠ'Š'ŠEŠŠ,Š,ŠŠ6Š&‰þŠŠDŠ5Š5ŠŠ?Š(Š(Š
+ŠŠ2Š2Š(ŠŠ2Š2ŠZŠŠAŠAŠ$Š$ŠŠŠŠŠLŠ8Š‰òŠ(Š<ŠZŠŠ-ŠŠ#Š7Š‰òŠŠŠŠGŠ)ŠQŠŠ.ŠVŠBŠŠBŠ.ŠVŠŠ;ŠŠEŠ,Š,Š"ŠJŠ:Š:ŠŠŠ!ŠIŠ+Š+Š(Š(ŠŠ2ŠŠŠ<ŠP‰öŠŠ2ŠŠ-Š-Š$ŠLŠ.ŠBŠ.ŠBŠŠ.ŠLŠ8Š2ŠŠ<ŠŠKŠ‰ñŠAŠ8Š8Š8Š8Š)Š)Š3ŠŠ8Š$Š.ŠŠVŠ.Š.ŠŠ'ŠOŠEŠ1Š"Š‰úŠ6Š:Š:ŠŠŠ+ŠŠ5Š!ŠFŠFŠ
+ŠŠ2ŠŠ<Š(ŠŠ<ŠPŠ(ŠA‰ÝŠ8ŠŠjŠ.ŠŠBŠ.ŠBŠ8ŠLŠZŠFŠ(Š(Š‰ûŠŠŠ$Š$ŠL‰üŠ=Š=Š3ŠŠ8ŠLŠŠ.Š.Š.ŠBŠ.Š'Š'ŠŠYŠJŠ6ŠŠ"Š&Š&ŠŠŠŠ?Š!Š5ŠŠŠŠZŠŠ
+Š(ŠŠ<‰ìŠ(Š(Š-ŠŠ)Š)Š%Š‰ýŠ%ŠŠMŠ9ŠŠ6ŠJŠJŠ6ŠŠŠŠ'Š)Š=Š=Š=Š)ŠeŠGŠGŠŠ?Š5Š!ŠNŠbŠvŠNŠ9ŠaŠCŠkŠWŠŠŠ9Š"Š"Š,Š,ŠŠOŠEŠ1Š=Š=ŠŠ)ŠŠŠ)ŠŠŠŠ,ŠTŠ"Š6ŠQŠŠMŠ9ŠMŠMŠaŠMŠMŠMŠJŠ6Š6ŠrŠYŠYŠwŠcŠŠ)Š=ŠŠQŠeŠ[Š3Š?ŠŠ™Š…Š²ŠîŠvŠNŠaŠ9ŠWŠ/ŠCŠWŠuŠ%Š6Š^ŠhŠ@ŠwŠŠYŠŠQŠ)Š)Š)ŠGŠ3ŠQŠ=ŠTŠ,ŠTŠTŠJŠŠ[Š3ŠŠ/ŠMŠMŠ/ŠCŠWŠ/Š"ŠJŠ|Š,Š;ŠcŠOŠ;ŠŠ3Š3ŠŠGŠŠQŠeŠ­ŠÁŠéŠý‹‹ŠÆŠvŠMŠuŠWŠCŠaŠ9ŠCŠCŠ6ŠJŠ,Š,ŠEŠEŠm‰õŠŠ)ŠŠ=ŠŠŠ=ŠQŠ^ŠJŠŠ@Š6ŠJŠ[Š3ŠWŠWŠ9ŠaŠ/ŠCŠCŠCŠ"ŠJŠ,Š,ŠOŠ'ŠcŠOŠŠ3Š[ŠoŠGŠGŠeŠ¡‹‹u‹ÙŒµŒâ‹Ž‹Š‰ŠaŠŠCŠMŠMŠCŠCŠ6ŠJŠ,ŠTŠ1Š1Š1ŠYŠQŠ=Š=Š‰÷ŠGŠ=Š)Š6ŠJŠŠ@Š6ŠJŠGŠŠ\Š Š*Š>ŠŠ9Š9Š%Š6Š6Š,ŠTŠŠ	ŠOŠOŠBŠ~ŠVŠBŠ~ŠVŠVŠº‹»Œû“O™&—
+Ž¸‹HŠ¢ŠfŠ\Š\ŠCŠCŠ%ŠMŠhŠ,Š6Š6Š'ŠŠEŠ	ŠBŠ.Š.ŠVŠŠGŠ)ŠŠ"ŠŠ6Š6ŠOŠ;Š[Š[Š\ŠHŠ*ŠŠ‰Š9ŠaŠMŠ^Š^ŠTŠ,ŠEŠ1ŠOŠOŠVŠBŠVŠjŠ~Š~Š¦‹
+ŒŽO“cªÚ&ÅJ—<ŒœŠÞŠ¢ŠpŠpŠWŠ/Š9ŠaŠ@ŠTŠJŠJŠOŠ;ŠEŠ1Š.ŠŠVŠŠ3Š3ŠŠŠ"Š6Š"ŠJŠOŠŠQŠ=Š>ŠfŠ\Š4ŠaŠMŠWŠCŠ6Š^ŠTŠhŠwŠŠOŠOŠ.Š~Š~ŠVŠVŠ’ŠÄ‹PŒeŽù•¼£ãâžîæ‹tŠÔŠŽŠfŠŠŠaŠaŠJŠ"ŠJŠ"ŠEŠŠEŠEŠŠŠ.Š.Š)Š=Š=ŠŠJŠJŠ"ŠJŠ;Š;Š=ŠQŠRŠRŠHŠHŠaŠMŠ/ŠCŠ6Š^Š@ŠTŠcŠOŠcŠ;Š.ŠVŠVŠVŠjŠVŠt‹ ‹Ž	“³±ïâ °È’ZŒj‹Š˜ŠfŠfŠŠWŠMŠuŠ6Š^Š6Š6ŠŠEŠEŠEŠVŠVŠBŠŠŠ)Š)ŠQŠ"Š"ŠJŠ"ŠOŠOŠ3Š3Š<ŠxŠPŠdŠPŠ<Š(ŠdŠKŠ7ŠUŠAŠPŠ<ŠPŠŒŠtŠ`Š.ŠVŠ`Š`ŠjŠ¦‹4Œtv—‚ Q“1Œ¿‹ŠŒŠxŠxŠdŠAŠAŠAŠAŠ7ŠKŠŠŠ_ŠKŠsŠŠ$Š`Š$Š8ŠeŠ=ŠŠ[Š6Š6ŠŠŠŠTŠŠ3ŠŠ(ŠŠ(‰ìŠ ŠŠ(ŠŠ#Š‰ÝŠ(ŠŠPŠ‰üŠ8ŠŠŠŠ8ŠŠ~Š¨Šø‹¶ŒâA‹ÙŠ·Š?Š(Š<Š<Š ŠŠŠŠ‰ûŠŠ-Š-Š‰û‰ûŠŠ‰üŠ$Š8Š)‰Ù‰÷ŠŠŠ6ŠŠŠŠ@ŠŠŠ‰ìŠŠ<ŠŠZŠ<ŠŠ#ŠŠŠ7ŠFŠFŠ ‰ìŠŠ.ŠŠŠŠ8Š$Š$ŠŠ€ŠŠŠžŠóŠ·ŠgŠSŠ(ŠP‰öŠ2ŠAŠ‰ûŠ#Š#Š7Š#‰ûŠŠŠŠŠ$‰üŠ.ŠŠ)ŠŠ)ŠŠ6Š"ŠŠ,Š6ŠŠŠ)Š(Š Š(Š Š2ŠFŠ<ŠŠ#Š7Š#‰ûŠ
+Š2Š(Š<ŠŠ.ŠŠ.Š8ŠŠ8ŠŠŠXŠNŠbŠ+Š?ŠSŠŠŠŠ
+ŠŠUŠŠ7ŠŠ7‰ûŠŠ‰ûŠ#Š‰ÝŠL‰ü‰òŠŠŠ=Š=Š)Š"ŠŠ@ŠŠ6Š‰üŠ8Š-Š-Š‰çŠ2‰âŠŠPŠ2ŠŠ<Š Š
+ŠŠ<Š<ŠŠ.ŠŠŠŠ$Š.Š.ŠŠ&Š&Š:ŠSŠ?Š5ŠIŠFŠ2Š
+Š2Š(ŠŠŠ<Š(ŠPŠŠ<Š#Š#‰ûŠŠŠŠ)ŠŠŠŠ$ŠŠŠŠŠŠŠ1‰üŠŠ-Š-Š#Š#Š
+Š2ŠŠ(Š2ŠŠ(‰ìŠ2ŠFŠ<Š<Š.ŠBŠŠ.ŠLŠŠ.Š.Š&Š:Š:ŠNŠ?Š+ŠIŠ5ŠnŠ
+ŠFŠŠ(ŠŠ(Š(ŠŠŠ(Š(Š#‰ûŠ‰ûŠŠ‰í‰íŠŠŠ8Š$‰úŠ"ŠŠŠ1ŠŠ8Š‰ûŠ7Š-ŠŠFŠ2ŠFŠŠ2ŠŠ(Š<ŠŠ(ŠŠ
+ŠŠŠŠ8ŠŠŠ8Š8‰ôŠŠŠŠIŠŠ5Š5ŠŒŠ<‰öŠŠ Š(ŠŠŠŠ Š2Š
+ŠŠŠ7ŠŠ=Š=ŠŠ3Š.ŠŠ$‰üŠŠŠŠJ‰á‰õŠŠŠ#Š7‰ÉŠŠŠ2ŠŠFŠ
+‰ö‰ØŠŠŠPŠ
+ŠŠŠŠ`‰èŠŠ.Š$ŠLŠŠŠDŠŠŠ!Š!ŠIŠ(Š(Š
+Š
+Š<ŠŠ
+Š
+Š ŠŠŠŠAŠAŠ7ŠŠŠ)ŠŠŠ.ŠŠ$‰üŠ,ŠŠ"‰æŠ1ŠŠŠŠŠŠPŠ ‰ìŠŠ
+Š
+ŠŠ‰þŠ&‰þŠ:Š‰þŠ,ŠŠŠŠŠ1Š	ŠŠŠeŠŠŠLŠ$Š.Š‰Ê‰ò‰ü‰èŠŠŠŠ)ŠŠ?Š+Š+Š&ŠŠDŠŠ&Š&Š&Š&ŠŠŠŠSŠ(Š Š<‰ìŠŠŠGŠŠFŠŠ<ŠŠ Š ‰ö‰ö‰êŠŠ:Š:ŠbŠ&ŠŠ&ŠŠ,ŠŠŠ	ŠŠ1ŠŠŠŠŠ‰ÔŠ$ŠŠŠŠ‰èŠ$‰÷Š‰íŠŠ?Š+ŠŠŠ:‰þŠ‰ôŠ:ŠŠ:ŠŠ+Š+ŠŠŠŠ<ŠŠ<ŠŠ-ŠGŠ3Š‰ö‰öŠ2Š‰öŠ(Š Š&Š:ŠŠ:Š0ŠŠŠŠ"Š6Š"Š"Š1Š1ŠŠ'ŠŠ=Š3‰÷Š$Š8ŠBŠBŠ$ŠŠŠŠŠŠŠ3ŠŠ!Š!‰ùŠŠ‰ôŠŠŠ&Š&Š&Š+Š‰ÛŠŠŠŠŠ
+Š-ŠŠ3ŠŠ2Š
+‰öŠ2Š2Š2Š(Š(‰êŠ&Š:ŠŠŠŠ:Š:ŠŠ"ŠŠŠ	Š	ŠŠ'ŠŠŠ3ŠŠ‰ÔŠBŠŠŠ$ŠŠŠŠŠ3ŠGŠIŠŠŠŠ0ŠDŠŠŠ&ŠŠŠŠ?Š+Š?Š?Š<Š<ŠŠ
+Š-ŠŠŠ)‰ûŠ#Š#Š7‰ñŠŠŠŠŠŠŠŠŠŠŠŠ@Š@‰ð‰ðŠ1ŠŠ'Š'ŠBŠ.Š$ŠŠŠ.‰òŠBŠ=Š)ŠŠ3ŠBŠ.Š8ŠŠŠ+ŠŠŠ0ŠŠŠŠ?Š+‰ùŠ!ŠŠ?ŠŠ+Š#‰çŠ#Š#ŠŠ‰íŠŠK‰ûŠKŠ7Š-Š-ŠŠAŠŠŠŠŠŠŠ:Š:ŠŠŠ,Š,Š	ŠŠŠ;ŠBŠ.Š8Š$ŠŠ.ŠŠŠŠQ‰÷ŠŠŠ.Š8ŠŠ+ŠŠŠŠŠDŠŠŠ+ŠŠ!‰ùŠ+ŠŠ+Š+‰ûŠŠŠŠŠŠG‰÷ŠUŠ-ŠŠ#ŠŠKŠ#Š#Š+ŠŠŠŠŠ0Š&‰êŠŠŠŠŠ‰ÿŠ'ŠcŠ.ŠBŠ.ŠB‰èŠ$Š.ŠBŠ)ŠŠŠŠ$‰üŠBŠ.ŠŠ?Š!ŠŠ:‰þ‰ôŠDŠŠ!Š!Š!Š!Š!ŠŠŠ#Š#‰ñŠ-Š
+Š2ŠŠŠAŠAŠ7Š#Š#ŠŠ#Š#ŠŠSŠ+Š+‰ôŠ0Š:Š&Š@Š,Š@ŠTŠ'Š;Š'Š;Š.ŠjŠBŠŠ$Š`Š.ŠBŠŠ=Š3ŠGŠ8Š8ŠVŠBŠSŠ?Š5Š!ŠŠ&ŠŠŠ5ŠIŠ5Š]ŠIŠ!Š?Š?ŠKŠKŠ-ŠAŠŠFŠ?ŠgŠZŠFŠFŠFŠFŠZŠPŠxŠdŠPŠFŠFŠ7Š7ŠUŠ-ŠŠEŠ;Š'ŠšŠJŠJŠJŠOŠOŠEŠ1ŠYŠYŠOŠwŠtŠLŠLŠ`ŠjŠ.ŠBŠBŠ&ŠbŠvŠ&Š5Š]ŠqŠ]ŠFŠ2ŠFŠZŠnŠFŠFŠŠPŠ(ŠnŠ2Š_Š7ŠSŠSŠFŠ2ŠŠFŠnŠZŠxŠPŠdŠPŠŠŠ_Š7ŠAŠAŠEŠEŠ;Š'ŠJŠJŠšŠ"ŠOŠ'ŠYŠEŠYŠ1Š'Š'ŠLŠLŠLŠ8ŠBŠVŠVŠVŠvŠbŠ:Š:Š]Š5Š5ŠqŠFŠZŠFŠ2Š2Š‚ŠŠFŠdŠdŠFŠZŠ_Š_Š]Š]ŠdŠ(ŠFŠZŠŠ2ŠZŠ2Š<ŠPŠ<ŠPŠAŠiŠKŠKŠ'Š;Š;ŠwŠ|Š@Š,Š@ŠOŠOŠOŠ;ŠYŠYŠEŠYŠVŠŠjŠVŠ8Š8ŠVŠVŠvŠ:ŠŠDŠ5ŠIŠ?ŠŠPŠ<ŠPŠŠFŠ2ŠPŠŠPŠPŠnŠFŠ-Š-ŠqŠqŠPŠdŠZŠŠZŠŠZŠZŠPŠ<Š<ŠPŠUŠUŠKŠ#ŠOŠ;ŠcŠOŠ,ŠhŠhŠTŠOŠOŠOŠcŠmŠEŠYŠEŠVŠjŠVŠBŠ8Š8ŠBŠBŠ:ŠNŠDŠDŠ5Š!Š?Š?Š<ŠPŠ(Š<ŠZŠFŠPŠŠ<ŠdŠFŠFŠ}Š-Š€Š0ŠsŠ7Š_ŠKŠŒŠŠZŠ2Š7ŠKŠKŠKŠ_Š7ŠKŠKŠJŠ6Š@Š,Š@ŠhŠ,ŠhŠ@Š@Š6Š6Š^ŠrŠJŠ^ŠŠBŠjŠ.ŠGŠ3ŠeŠQŠSŠ?Š]Š5Š!Š]ŠŠSŠ(ŠŠFŠZŠ}ŠUŠŠŠnŠZŠxŠ<Š(Š(Š0ŠXŠKŠ_Š_ŠKŠxŠxŠ2Š2ŠKŠ7ŠKŠsŠK‰ûŠ7Š7ŠJŠ6Š,ŠŠ,ŠTŠTŠhŠ,ŠTŠrŠrŠ6Š"Š^ŠJŠ.ŠVŠ.ŠjŠ3ŠGŠ)Š=Š{Š?Š]Š]Š]ŠIŠ?ŠSŠdŠPŠFŠZŠAŠiŠUŠŠZŠFŠ(ŠdŠPŠ(Š:ŠNŠ_ŠKŠ_ŠKŠZŠ2ŠFŠ‚Š7Š7ŠUŠUŠKŠ‡ŠKŠ7Š,Š@Š@Š@ŠhŠ@Š^Š^ŠrŠJŠJŠJŠTŠ@Š^Š6ŠBŠŠ8Š`ŠGŠoŠ=ŠQŠgŠgŠ?ŠSŠ?Š?Š+Š{ŠZŠFŠdŠ<Š_ŠKŠŠUŠ2ŠFŠ<ŠPŠZŠFŠNŠ:ŠKŠ7Š7ŠKŠFŠFŠFŠZŠ7Š7Š-ŠUŠ7ŠKŠ_ŠKŠ|Š@ŠTŠTŠ@ŠŠ^Š6Š†Š†ŠJŠJŠTŠ@Š6Š†ŠjŠjŠ$Š$Š[Š[ŠeŠQŠŠ?Š+ŠgŠ+ŠSŠSŠ{ŠÒŠnŠPŠPŠ7Š#ŠUŠAŠZŠŠ<ŠPŠFŠZŠPŠ<Š+ŠSŠ5ŠIŠNŠ:ŠDŠŠ0Š0ŠvŠNŠ:Š:Š:Š:ŠLŠ$ŠLŠLŠGŠoŠGŠ[Š[ŠoŠQŠQŠ=Š=ŠQŠ)ŠVŠ.ŠBŠVŠLŠLŠLŠLŠBŠ.ŠVŠŠ)ŠŠ[Š[Š¹ŠUŠUŠAŠUŠ-ŠAŠ-ŠxŠPŠxŠ<Š(Š<Š<ŠPŠ+ŠSŠŠIŠ&Š:Š0ŠDŠlŠDŠNŠ&Š:Š:Š&ŠNŠ`Š`Š`Š`ŠGŠŠƒŠŠ3ŠGŠ=Š=Š)ŠQŠ)ŠQŠ.ŠVŠVŠBŠŠ8Š`Š`ŠBŠVŠ.ŠBŠ)Š=Š[Š[ŠUŠAŠAŠUŠAŠAŠiŠ-Š<Š<ŠPŠ<ŠPŠ<Š<ŠŠ+Š?Š5ŠIŠXŠŠ:ŠNŠ0ŠDŠ0ŠDŠ:Š&ŠDŠDŠBŠBŠBŠ.Š=Š)ŠeŠ)ŠoŠGŠQŠ=Š3ŠŠ)ŠQŠjŠ.ŠŠBŠ.ŠBŠŠŠ`Š$ŠŠ.Š=ŠŠQŠŠAŠUŠ7ŠŠAŠŠAŠ-Š<ŠdŠ<Š<Š(Š<Š(Š(ŠŠ+Š!Š5ŠDŠ0ŠŠ&‰ôŠŠŠŠ‰þŠŠŠBŠŠBŠŠŠ)ŠŠ)Š3Š3Š=Š)ŠŠŠ=ŠŠŠBŠŠŠŠŠŠ8Š8Š$ŠŠŠŠQ‰íŠ)ŠŠŠ7ŠŠ-ŠŠŠŠ(Š ‰ØŠ(Š(‰ìŠK‰ûŠŠŠŠŠŠŠ5Š5Šl‰ô‰þ‰þŠŠNŠŠ&ŠBŠŠVŠBŠ)‰íŠŠŠ)Š)ŠŠŠLŠ$‰üŠLŠ=ŠŠŠŠŠŠŠŠŠŠŠŠŠŠGŠŠ2Š2Š2Š
+Š(ŠŠ(Š<ŠŠ Š(Š Š
+Š2ŠKŠKŠDŠŠDŠ0ŠŠ+Š!ŠIŠŠDŠ&Š&ŠŠ&Š:Š&ŠŠBŠBŠ.ŠŠ=ŠGŠ3ŠŠŠŠGŠ$Š$Š$‰üŠQŠ=Š)ŠŠŠŠŠŠ=‰íŠ)ŠŠ3ŠŠŠŠ2Š
+Š2Š2ŠŠPŠ<Š(Š(ŠŠ<‰ìŠ‰ö                                                                                                                                                                                                                                                                                                                                                                                                                                                                XTENSION= 'IMAGE   '           / IMAGE extension                                BITPIX  =                   16 / number of bits per data pixel                  NAXIS   =                    2 / number of data axes                            NAXIS1  =                   64 / length of data axis 1                          NAXIS2  =                   64 / length of data axis 2                          PCOUNT  =                    0 / required keyword; must = 0                     GCOUNT  =                    1 / required keyword; must = 1                     BZERO   =                32768 / offset data range to that of unsigned short    BSCALE  =                    1 / default scaling factor                         CRTS_ID = 'CSS150429:100757+691446'                                             HIERARCH RA_(J2000) = 151.98629                                                 HIERARCH DEC_(J2000) = 69.24623                                                 N_IMAGES=                   12                                                  UT_DATE =          20150429.17                                                  MAG     =                12.98                                                  HIERARCH CSS_IMAGES = 1504291690214116397                                       SDSS    = 'yes     '                                                            OTHERS  =                11639                                                  FOLLOWED= 'no      '                                                            LAST    = '2016-03-16'                                                          LC      =                11639                                                  FC      = 'yes     '                                                            CLASS   = 'HPM LHS_2222'                                                        END                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             Š‰ïŠŠŠŠ‰ñŠŠŠŠ ‰ì‰îŠŠŠ‰ó‰ó‰ý‰ÕŠŠ ‰ØŠ ŠŠ ‰öŠ
+‰ö‰âŠ‰öŠ
+Š‰öŠ‰ìŠ ‰öŠ‰û‰ûŠ‰çŠŠŠ‰óŠ‰ý‰ËŠCŠ‰÷ŠŠ)‰÷‰ãŠ‰íŠ‰÷‰÷‰÷Š!‰ùŠŠ‰ñŠŠAŠ‰öŠ
+Š ‰ì‰ÚŠŠ‰ø‰ÕŠ‰ý‰é‰Ø‰ìŠ
+Š
+Š ŠŠ
+‰â‰öŠ
+‰ì‰ì‰ØŠ ‰ØŠ ‰âŠ
+‰âŠ
+ŠŠ‰ÝŠ-‰ý‰éŠŠŠŠ‰ýŠM‰í‰Ù‰ã‰÷‰÷‰ãŠ‰ãŠŠ‰íŠŠ5ŠŠ‰ïŠŠ‰ÝŠ‰â‰öŠ ‰ìŠŠ‰øŠŠ‰ý‰ýŠŠ ‰ìŠ
+Š
+ŠŠ ‰ö‰öŠ2‰Î‰ìŠŠŠ‰ì‰ÄŠ
+Š
+‰öŠ‰û‰ûŠ‰Ý‰Õ‰éŠŠ‰ßŠŠŠŠŠ)Š‰÷ŠŠ‰ã‰ã‰Ù‰í‰íŠ‰ýŠ‰óŠŠŠ+Š!‰ù‰åŠ!‰ïŠŠŠ ‰ö‰ö‰û‰çŠŠ#‰÷Š3Š‰ÅŠŠŠ‰è‰ðŠ‰ð‰ð‰ú‰æ‰æ‰æŠŠ‰ã‰ãŠŠŠ‰íŠŠ‰ãŠ‰÷ŠŠŠ‰ó‰ó‰ýŠ%‰øŠ ‰î‰îŠ‰ßŠŠŠ‰ÕŠ‰ßŠ‰ïŠ!‰ùŠ!ŠŠŠŠ ‰ì‰öŠ‰ûŠ‰ûŠŠ‰ãŠ‰íŠŠ‰üŠ$‰ðŠ‰ð‰ðŠ‰ú‰æ‰¾‰÷ŠŠŠŠ‰ã‰í‰Ù‰÷ŠŠŠ‰÷ŠŠŠ‰ó‰óŠŠŠ4ŠŠ‰î‰óŠŠŠ‰éŠŠ‰éŠ+Š‰Ç‰ï‰ù‰ùŠ‰Û‰âŠŠ
+Š
+‰Ý‰ñŠŠŠŠ‰í‰ÙŠŠŠŠ‰æ‰úŠ‰ú‰ðŠ‰æ‰–‰÷‰ÏŠŠ‰ãŠŠŠ‰Ï‰÷‰÷Š‰ãŠ‰ã‰÷‰ý‰éŠ‰ý‰î‰îŠŠ‰é‰ýŠ‰ß‰ýŠ%ŠŠŠŠŠ‰ï‰Ñ‰ù‰ïŠŠ
+‰ö‰âŠ
+‰ñŠ-‰Ý‰ñ‰Ù‰í‰íŠ‰Þ‰Þ‰òŠ‰æ‰ú‰ú‰æŠ‰Ü‰æŠ‰÷ŠŠŠŠ‰÷‰ã‰÷‰ã‰ãŠ‰÷‰ÏŠ‰÷Š3‰ý‰éŠŠ%‰î‰î‰î‰Ú‰ý‰éŠŠŠ‰é‰é‰ý‰êŠ&‰ê‰ÖŠŠ‰å‰åŠŠ ‰âŠ
+‰öŠ
+ŠŠ
+‰÷‰÷‰íŠŠŠ‰ã‰÷ŠŠ‰æŠ‰õŠŠŠ	Š.ŠŠ$Š$ŠŠ`Š$‰è‰ÏŠŠ‰íŠ‰í‰Ù‰íŠ‰ý‰éŠ‰ýŠŠ‰ý‰î‰ÚŠ‰øŠŠ‰é‰ý‰þŠŠ&‰êŠŠŠŠŠ ŠŠ
+Š2Š
+‰öŠŠ2‰ãŠŠŠŠŠ‰÷ŠŠ6ŠŠŠŠ	Š	‰õŠ	‰òŠŠŠ8ŠˆŠ°Š$ŠŠ‰ã‰Ù‰Å‰ÙŠ‰Ù‰íŠ‰ý‰é‰éŠ‰ýŠ‰ý‰îŠŠ‰øŠ/‰ßŠ‰ó‰Â‰þŠŠŠ‰ÛŠ‰åŠ
+‰öŠ Š‰Î‰â‰ìŠ(‰íŠ‰ÙŠ‰÷Š‰÷‰÷‰ðŠŠŠŠ‰ëŠ‰ëŠŠ‰üŠ$ŠtŠLŠ‰Þ‰÷‰÷Š)Š=ŠŠŠ‰÷Š‰ß‰ó‰ß‰ýŠ‰ó‰ó‰î‰Æ‰îŠ*ŠŠŠ‰ó‰þŠŠ‰ôŠ‰ïŠŠŠ‰âŠ‰ØŠŠ
+Š ‰ì‰íŠŠ‰í‰÷‰÷‰÷ŠŠŠŠŠ‰ë‰ëŠ'‰ÿ‰Ô‰ü‰üŠ$ŠŠŠ‰Þ‰÷ŠŠ‰ÙŠ‰í‰÷Š‰ó‰ó‰óŠŠ‰Õ‰Ë‰óŠ>ŠŠ‰Ú‰óŠŠ9‰ýŠŠ‰ý‰Õ‰ßŠ‰é‰ý‰ÕŠ‰ýŠ‰óŠ‰é‰é‰ô‰ôŠ‰ÌŠDŠ‰þ‰þŠŠ‰ù‰åŠŠ‰þŠŠŠ‰òŠ‰è‰üŠŠ.‰ß‰ß‰ýŠ%Š/‰óŠŠ‰ó‰ßŠ‰ó‰øŠ ‰øŠ‰øŠ4Š ŠŠŠ‰ýŠŠŠŠ%‰ýŠŠ/Š‰ý‰é‰ýŠ‰ýŠ‰ó‰éŠŠ‰ô‰ô‰àŠŠŠ&‰ÖŠŠ‰åŠ!‰ôŠŠ&‰êŠ.Š‰òŠŠ‰üŠ.ŠB‰ó‰óŠ9Š9ŠŠŠŠŠŠ/ŠŠ‰ø‰øŠ‰øŠ‰ø‰ø‰ä‰éŠŠŠ‰ýŠŠ‰ý‰ß‰óŠŠ‰Ë‰ó‰ýŠ%‰ÕŠ%‰ý‰é‰þŠ:Š‰êŠŠŠŠ‰ïŠŠ‰ï‰ô‰ôŠ‰þ‰òŠ‰ü‰üŠ‰Þ‰ü‰è‰éŠ‰ß‰ó‰ýŠ%‰ÕŠ‰éŠ‰ß‰óŠŠ‰ÚŠŠ‰î‰îŠŠ‰é‰óŠ‰é‰ÕŠ%‰é‰ó‰ßŠŠ‰óŠCŠ%‰ýŠŠ‰Õ‰é‰ê‰þŠ&‰þŠŠŠ‰ê‰ï‰ÛŠŠ‰ô‰ÌŠ‰ÖŠŠ‰ÀŠ‰ÞŠŠ$ŠŠŠŠ‰ó‰éŠŠ%Š‰éŠŠ/‰óŠ‰äŠ*‰îŠŠ‰îŠ‰îŠŠ ŠŠ‰ø‰¼Š ŠŠŠŠŠŠ‰äŠŠŠŠŠ‰àŠŠŠ‰Û‰Û‰Ñ‰ù‰à‰Ì‰Ì‰à‰êŠ&‰þ‰ê‰ò‰ò‰ÔŠŠŠŠŠŠŠ‰ý‰Õ‰ø‰ø‰øŠ4‰îŠ*Š‰Ú‰ÐŠ ‰äŠ‰ý‰ýŠŠ‰îŠ*‰ä‰ø‰ø‰ä‰ÐŠŠ*ŠŠ ‰ø‰Ú‰î‰ø‰ø‰î‰î‰ÚŠ‰à‰àŠŠŠŠŠ‰åŠ‰ôŠŠ‰ÖŠ‰Ö‰êŠŠŠ$‰è‰ã‰÷‰÷‰÷‰Ë‰Ë‰ýŠ%ŠŠ‰Ð‰äŠ‰Æ‰ÚŠ‰ø‰øŠŠ‰ý‰ý‰ßŠ‰ÚŠ‰ø‰ø‰øŠŠŠŠŠ‰øŠŠŠ‰ä‰ø‰äŠ‰ÆŠ‰Ö‰þ‰êŠŠ+‰ï‰ù‰åŠ‰à‰Ì‰ô‰ô‰ÌŠ‰þŠ‰ÔŠ$‰ü‰ã‰÷‰÷ŠŠ‰ó‰é‰ýŠ‰î‰ø‰¼‰äŠ‰Ú‰Ú‰ø‰äŠŠŠ%Š‰é‰ýŠ‰Ú‰øŠ ‰ø‰¼ŠŠŠŠ‰äŠ ŠŠ‰Ð‰ä‰ø‰øŠŠ‰ê‰êŠ‰êŠŠŠ!Š5‰ôŠŠŠŠŠ0‰Ö‰Â‰è‰Ô‰è‰è‰Ï‰ãŠŠ‰óŠŠ‰ýŠŠ‰ø‰ä‰äŠŠ‰ÚŠ‰øŠ‰î‰é‰ý‰ýŠ‰åŠ!ŠŠ]Š"‰ú‰ðŠ‰æ‰ú‰ð‰ð‰ãŠŠŠ)‰÷‰÷ŠŠŠ‰îŠŠ*ŠŠŠŠ*ŠŠ‰ÜŠŠŠ	‰õŠ	Š‰í‰÷‰÷Š‰üŠ8‰èŠŠ‰ú‰úŠ'‰×ŠO‰ë‰ûŠ#‰ñŠ‰ØŠ‰ö‰ö‰õ‰õ‰õŠŠ!Š‰ùŠ!‰ú‰úŠ‰ðŠ‰úŠŠ‰ãŠŠŠŠ‰÷ŠŠŠ‰ÆŠŠ‰ä‰äŠŠŠŠŠŠŠŠ	Š1ŠŠŠŠŠ‰ü‰è‰ü‰üŠŠ‰ú‰ú‰ÿŠ'‰×ŠŠ‰ç‰ÝŠ‰ÄŠ Š
+Š
+‰áŠ	ŠYŠY‰ïŠ‰ù‰å‰ú‰ú‰ð‰Ü‰ÒŠ‰æ‰ú‰ãŠ‰÷‰÷ŠŠŠ)ŠŠ‰î‰ä‰äŠŠŠ‰î‰ú‰úŠ,‰ðŠŠŠŠ;ŠŠ)‰ãŠŠ.Š‰ÞŠ‰È‰ð‰ÜŠŠ	‰õŠ	‰áŠ‰É‰Ó‰çŠ ‰ØŠ
+Š
+‰õŠ	‰ë‰ÿŠ+‰Û‰ù‰åŠ‰æŠ‰ðŠ"Š‰æ‰ú‰÷‰Ï‰÷‰÷‰Ù‰Ù‰í‰í‰îŠ‰ø‰øŠŠ‰îŠŠŠŠŠŠŠ‰ÿ‰ÿ‰í‰í‰÷ŠŠŠ‰Þ‰ò‰ÜŠ,‰È‰ðŠ‰áŠ‰õ‰Ý‰ñ‰ûŠ‰ì‰ìŠŠ‰áŠ‰ë‰×‰þ‰êŠ‰ôŠŠ'ŠŠŠ	Š	ŠŠŠŠ‰í‰í‰òŠ.Š‰ò‰ø‰ä‰îŠ‰î‰î‰ä‰ø‰õ‰õŠŠ'‰õ‰õŠ	Š1‰Ô‰ü‰ü‰ü‰÷ŠŠŠ‰ë‰ëŠ‰õ‰ðŠ‰úŠ‰É‰ÝŠŠ-‰ö‰Î‰ìŠŠ;‰ÿ‰ëŠ'Š‰þŠŠ‰ë‰ÿ‰ë‰ëŠ	Š	‰ÿ‰ÿ‰í‰Ù‰ÙŠ‰ò‰ÞŠŠ‰ä‰øŠŠ‰î‰ÆŠŠ ‰áŠ	‰ÿŠŠ‰õ‰áŠ	Š$Š$‰èŠŠ‰÷Š3Š‰ë‰Ã‰á‰á‰ðŠ‰æ‰ú‰Ý‰ñ‰ñ‰ñŠ
+Š
+‰ÄŠ‰ë‰ÿŠ'ŠŠ‰àŠ‰à‰ÿ‰ÿŠŠ	‰×‰ë‰ë‰ë‰íŠ‰íŠŠŠ‰Ô‰ü‰î‰îŠŠ4Š*ŠŠŠŠ'ŠOŠŠ	Š	Š	Š	‰õŠŠ$‰ò‰Ê‰ãŠŠŠ‰ÍŠ‰áŠ‰úŠ"ŠŠŠ-‰ÉŠŠ#Š‰âŠ‰öŠ	‰Í‰õ‰õŠ‰ô‰ô‰ô‰ÿ‰×‰õ‰áŠ'‰ë‰ÿ‰ÿŠ)ŠŠŠ‰ü‰ü‰ü‰Ô‰ÚŠŠŠ‰î‰îŠŠŠ;ŠŠEŠ1ŠŠE‰õŠ	‰ü‰ÀŠ‰òŠ‰÷‰í‰íŠ‰õ‰õŠ	‰Ò‰úŠŠ‰ñ‰µŠ#‰ç‰öŠ
+Š
+‰â‰Í‰á‰á‰á‰þ‰þ‰ê‰þŠŠŠŠ‰ÈŠŠ‰æ‰õ‰õŠ	Š	‰ëŠ'‰ë‰Ã‰ó‰óŠŠŠ Š Š*Š*Š#ŠsŠ}ŠiŠAŠŠŠ‰èŠ‰èŠ‰è‰Ô‰Þ‰Þ‰ÛŠŠŠŠŠŠ!Š!‰ñŠ‰ç‰çŠŠ‰û‰û‰ä‰äŠŠ‰þ‰þ‰ê‰þŠ@‰ÜŠ‰ð‰ð‰ÜŠŠ‰õ‰õ‰õŠŠ'ŠŠŠŠŠŠŠŠ4Š\Š¶Š¶‹‹c‹•‹YŠ‘ŠiŠŠ7‰ÔŠ$‰Ô‰ü‰èŠ$ŠŠŠŠŠ‰ï‰Û‰Û‰ù‰ù‰Ý‰ñ‰Ó‰Ó‰ñŠ‰Ó‰ûŠ‰¼Š‰¼Š‰þ‰ôŠ‰æŠ‰ð‰ð‰ÒŠ"Š‰úŠ	ŠŠŠ	ŠŠ‰õ‰õ‰é‰ÁŠŠŠfŠÊ‹ˆŒŒkc‘ó#‹ÇŠsŠiŠŠŠŠŠŠ‰ü‰ò‰òŠ‰ù‰å‰ù‰ù‰ù‰ù‰ù‰ûŠŠ‰ÝŠ‰Ý‰ç‰ç‰îŠ‰øŠ ‰þŠ‰ô‰ôŠŠ‰ÜŠŠŠŠŠ"‰õ‰á‰á‰õ‰ÿŠ'‰õ‰õ‰éŠ9Š/ŠŠRŠÞŒ •'¨¯¹óŸcŽŠÿŠ‘ŠAŠŠŠ‰ÞŠ8‰üŠ‰ò‰ù‰åŠ‰ÑŠ‰åŠŠ‰ç‰û‰ñŠŠŠŠŠŠ‰î‰ä‰äŠ‰à‰àŠŠŠ‰ðŠ‰æŠ6Š‰ðŠŠ	Š'‰ëŠ"‰úŠ"ŠJ‰øŠ4ŠRŠŽŠ±‹Q;‘_Ÿ^áŠäF¿ò‘ó‹ŸŠ¯Š_Š3Š[ŠQŠŠŠ)Š)Š‰þŠ&ŠŠŠŠŠŠ+‰öŠ‰â‰â‰ç‰ç‰ç‰ç‰øŠ ŠŠŠ‰Ì‰ÌŠ‰ú‰úŠ,ŠŠŠ‰ÜŠ‰áŠŠ‰ÿ‰æŠŠŠ6ŠŠHŠ>Š*Š‰‹)ŒÃ¿’âfäZ¦¶K‹OŠ¯Š_Š3Š3ŠŠ=ŠŠ‰íŠ)Š&‰Ö‰à‰ô‰ïŠŠ‰ïŠ‰ö‰ö‰ÎŠ‰çŠ7‰çŠŠŠŠ‰ô‰ôŠ&‰þŠŠ‰úŠ"ŠŠ‰úŠ‰ÿ‰ë‰ëŠ‰ú‰æ‰ðŠŠŠ Š4Š Š/Š»‹ÉŽI”P®,«Þ‘:‹ïŠ›ŠAŠŠŠŠŠŠŠŠŠŠ‰àŠ‰àŠ+‰Û‰ù‰åŠ ŠŠ
+‰ö‰û‰û‰ç‰Ó‰äŠ‰î‰îŠŠŠŠŠŠ‰ú‰úŠ‰ð‰úŠŠ‰×Š;‰ëŠ‰úŠ‰ð‰ä‰øŠ ŠŠ/ŠkŠÅ‹eHÜŽº‹ÖŠ‡ŠKŠ-Š‰ãŠ‰÷Š3‰í‰í‰íŠŠ‰ô‰ô‰ôŠŠŠ‰ùŠ ‰Ä‰ö‰âŠŠ‰ç‰û‰äŠŠŠŠ4Š Š‰îŠ‰ô‰ô‰¸Š&Š&Š‰ô‰É‰ñŠŠ‰ç‰ûŠ‰û‰¿ŠŠ‰ÉŠŠ-Š-Š}Š¾‹^‹"ŠnŠ2Š2ŠŠ‰ç‰ûŠ‰ç‰ûŠ#Š‰ñŠŠŠŠ3Š‰ò‰èŠŠ‰î‰îŠ‰ø‰ÐŠŠ‰äŠŠŠŠŠ ‰î‰ÚŠ‰ôŠ‰ôŠŠ‰ÌŠ‰ñŠ‰ÉŠ-Š‰ûŠ#‰çŠŠŠ‰ñŠŠŠŠAŠFŠFŠFŠ2ŠFŠŠ Š Š‰ûŠŠŠŠŠŠ‰ÙŠŠŠŠ‰Þ‰èŠ‰îŠ‰îŠ‰ø‰ø‰ÚŠŠ ‰Ð‰ÆŠŠŠ‰øŠŠ‰ôŠŠ‰Ì‰ô‰Ö‰ê‰Ó‰ûŠŠ‰û‰û‰ñŠ‰ûŠ‰Ý‰ñŠ‰ûŠŠ-Š(Š ŠFŠŠ(ŠŠŠ‰û‰ûŠ‰û‰ç‰ûŠ‰ûŠ‰Ï‰ÅŠ‰ÞŠ‰è‰è‰î‰î‰äŠ‰øŠŠ‰øŠ‰ä‰ø‰ÐŠŠŠ‰øŠ‰ôŠ‰àŠ‰ô‰Â‰þŠ‰ç‰ÝŠ‰û‰ûŠŠ‰ûŠŠ-‰ñ‰ûŠŠ-‰ñŠ(Š(ŠFŠ‰ìŠ(Š
+Š
+‰çŠ‰ûŠŠ‰û‰ûŠ‰÷‰ãŠŠ‰Þ‰Þ‰üŠ$Š‰î‰ø‰øŠ‰ø‰ä‰øŠ‰äŠŠŠŠ/ŠŠ‰ù‰ù‰Ç‰ÛŠ!‰å‰å‰Ñ‰ñ‰ñ‰Ó‰û‰öŠ‰ìŠ‰â‰ö‰ìŠŠ<Š Š
+‰ºŠ2‰öŠ(Š(Š(ŠPŠ2Š‰â‰öŠŠ‰û‰ç‰ñ‰ñŠ‰ò‰Þ‰Ê‰ÙŠŠŠ‰ý‰ýŠŠ/‰ó‰óŠ%‰ÕŠ‰î‰ø‰ÐŠ‰Ë‰óŠ‰ùŠ!‰ïŠ+‰ù‰å‰ùŠ‰ñŠ‰çŠ‰ö‰öŠ‰ì‰öŠ
+‰ìŠŠŠ ‰Î‰ö‰öŠ2Š Š Š ŠP‰öŠ
+‰ö‰âŠ
+Š
+‰ÓŠŠ‰ñŠ‰òŠ.‰òŠŠŠ‰í‰éŠ‰ËŠŠŠ‰ý‰Õ‰Ú‰îŠH‰ø‰óŠŠŠ‰Û‰ï‰ù‰å‰Û‰Û‰å‰ùŠŠŠŠ‰ìŠ(‰ìŠ‰ìŠŠ ‰ìŠ
+Š
+‰Ø‰ì‰ìŠ Š‰ÄŠ ŠŠ
+‰Î‰ìŠ Š(Š‰ñŠ-‰ûŠ7ŠŠŠ.ŠŠ‰í‰í‰í‰é‰ý‰ý‰ý‰ý‰Õ‰ý‰ý‰øŠ‰ÚŠ‰ó‰óŠ%‰Õ‰ïŠ+‰ùŠ‰ï‰ï‰ù‰åŠŠŠ#‰ûŠŠ Š Š(‰ìŠŠ ‰ì‰ö‰ö‰ì‰Ø‰ìŠ ŠŠ<ŠŠ ŠŠ
+‰ìŠ Š ‰ì‰ñ‰Ý‰ç‰û‰ò‰Þ‰Þ‰ò‰í‰í‰í‰í‰ýŠ‰Õ‰ý‰Õ‰ý‰é‰éŠ‰¨‰ÚŠŠ
+Š
+ŠŠ ‰ûŠ‰ç‰çŠ2‰ö‰ö‰ö‰ì‰Ø‰ì‰ì‰ö‰ö‰ì‰Ø‰å‰ù‰ÑŠŠ‰þŠ‰êŠ‰þ‰àŠ‰åŠŠ+Š+‰ü‰ÔŠ8‰üŠ‰íŠ‰ÙŠŠŠ‰ò‰ãŠ‰Ï‰÷‰Í‰õŠ‰×ŠŠ‰ÒŠ‰ò‰ò‰Þ‰òŠ‰öŠŠ(Š#‰ç‰ç‰çŠ
+‰ö‰ö‰ö‰ìŠ ŠŠŠ2Š
+‰Ø‰ì‰ù‰å‰ùŠŠ&Š‰ê‰ê‰ê‰þ‰ÌŠ‰å‰åŠŠ‰èŠŠŠ$‰Å‰íŠŠŠ‰Ê‰ò‰òŠŠ‰Ï‰Ï‰õŠ‰ë‰ÿ‰ÜŠ‰úŠŠ‰Þ‰ÞŠŠ‰âŠ
+Š
+Š#‰Ó‰ÉŠ‰ö‰â‰öŠ
+ŠŠ(Š Š‰âŠ
+‰ìŠ ŠŠŠ‰å‰ô‰ô‰ê‰þŠ‰ôŠŠŠŠ!‰ùŠ!‰ò‰ò‰ò‰Þ‰Ï‰÷‰ã‰÷ŠŠ‰ü‰ü‰ã‰»Š‰Ù‰ëŠ'‰á‰õ‰ðŠ‰Ü‰È‰Ô‰è‰òŠ‰Î‰âŠ‰öŠ‰çŠ‰Ý‰â‰öŠ
+‰öŠ‰°Š‰ØŠ2‰âŠ Š‰ïŠ‰ù‰ùŠ‰ô‰þ‰ê‰à‰ô‰ô‰à‰ùŠŠŠŠŠ‰ò‰Þ‰÷‰÷Š‰÷ŠŠŠ‰èŠ‰ÏŠŠ‰ë‰ÿŠ	ŠŠ‰ð‰Ü‰ðŠ‰Ô‰ÞŠ‰ÝŠ‰ñ‰ñŠŠ Š‰º‰öŠŠ Š(‰ñ‰ÝŠŠŠ
+Š
+Š‰ìŠŠŠ0‰ô‰ôŠŠ:‰êŠ‰ôŠ‰þŠ‰ô‰à‰ô‰Ï‰÷Š‰í‰÷Š‰í‰í‰òŠŠ‰ò‰Þ‰òŠ‰ò‰ð‰ð‰¾‰æ‰Ü‰Ü‰Ò‰æ‰ü‰Ô‰Þ‰òŠŠ-Š‰ñ‰ìŠ Š
+‰ö‰âŠ2Š Š Š‰ñ‰ñŠ‰â‰â‰ØŠ ‰þ‰þ‰à‰ô‰àŠŠŠŠ‰ô‰ê‰þ‰àŠŠ‰à‰÷‰÷‰ÙŠŠŠŠŠ‰Þ‰ò‰ò‰Þ‰ÞŠŠŠ.‰ÈŠ‰úŠ"ŠŠŠ‰ú‰Ô‰ü‰Þ‰òŠ‰çŠŠŠ Š‰ö‰öŠ
+‰öŠ Š ŠŠŠŠŠ Š Š2‰âŠ‰àŠŠ‰þ‰ê‰êŠ‰þ‰Ö‰ôŠŠ‰ôŠ‰à‰ã‰ã‰÷‰ã‰÷Š‰íŠ‰òŠ‰ü‰è‰è‰è‰Þ‰ò‰úŠŠ‰æ‰¾Š‰´ŠŠ‰òŠ‰ò‰çŠŠAŠ‰ì‰Ø‰â‰âŠ
+‰ö‰ìŠ‰û‰ûŠ‰Ý‰ì‰ì‰ö‰ÎŠŠŠŠŠ&‰êŠ‰êŠŠ:Š‰ô‰ôŠŠŠŠŠŠ3‰÷‰÷Š‰íŠ‰ò‰ò‰Ô‰è‰è‰èŠ‰Þ‰æ‰úŠ‰æ‰ÒŠ"Š‰Ü‰òŠ‰òŠŠŠ)‰ÅŠ‰úŠ6‰æ‰ú‰æ‰æŠ"Š"‰ú‰ú‰æŠ‰ÒŠ"‰¾‰ÒŠ#‰û‰ÝŠ-‰ç‰ÓŠ‰ñ‰ë‰ÿŠŠŠŠŠ‰ÜŠŠ Š Š ‰ØŠ Š‰ö‰Ý‰ñ‰û‰ûŠ#Š‰ç‰ç‰Á‰ýŠ‰é‰ýŠ‰ý‰ýŠ‰ø‰ÐŠ ŠŠ)‰íŠ‰úŠ‰æŠ"‰æ‰æ‰æ‰æŠ‰æŠ"‰ú‰æŠŠ‰úŠŠŠŠ‰ç‰ûŠŠ‰ÿ‰ëŠ	‰áŠŠŠ‰Ü‰Ø‰ì‰ØŠ ‰ÄŠ‰ö‰Î‰ñŠ‰û‰û‰ÓŠ‰ç‰ç‰Õ‰é‰Á‰é‰Á‰Õ‰ý‰ýŠ ‰ä‰ø‰øŠŠ‰íŠŠ‰ð‰æ‰ú‰ðŠ,‰ÈŠŠ‰ðŠ‰ú‰ð‰ðŠ"‰ú‰çŠŠŠ‰ñŠ‰Ý‰ñ‰õ‰Í‰ëŠ‰úŠŠ‰ðŠ(‰ì‰â‰¦Š Š Š
+‰öŠŠ‰ñ‰ñ‰ç‰ûŠ‰ñ‰ß‰ß‰ß‰óŠ‰ýŠŠ/‰ø‰ø‰ä‰øŠŠ‰íŠ‰Ü‰ð‰¾Š"Š‰ðŠŠ‰ð‰Ü‰æ‰ú‰ð‰È‰ú‰ÒŠ#‰û‰ç‰¿‰ñ‰ÝŠŠ‰õ‰Í‰ë‰ëŠ"Š‰ð‰ÜŠŠ Š
+‰ö‰ØŠ(‰ö‰â‰û‰ûŠŠ‰û‰çŠ‰Ý‰ó‰óŠ‰ó‰é‰Õ‰ó‰ó‰ø‰øŠ‰ÐŠŠ‰Ù‰í‰ú‰úŠŠ@‰õŠ	ŠŠ‰õŠ‰ÿ‰ëŠ‰Ü‰æ‰úŠ
+Š
+‰ÎŠŠŠ(Š‰ö‰õŠ	‰õŠ	‰ú‰ú‰æ‰ú‰ìŠ(‰â‰ö‰Ä‰ì‰ö‰öŠŠ‰ñ‰ÝŠŠ
+‰öŠ
+‰ÚŠ‰Ð‰äŠ‰Ú‰ä‰øŠŠ‰é‰ýŠŠ)ŠŠ)Š"‰úŠ‰ðŠ	‰õ‰ë‰ëŠ	Š	‰ë‰ÿŠŠŠ‰ÒŠ
+‰âŠ
+Š2‰ìŠ Š
+Š
+Š	‰õ‰á‰õŠŠŠ‰úŠŠ ‰öŠ
+Š Š ŠF‰öŠŠŠ‰ñŠŠZŠ2ŠŠŠ‰øŠ4‰îŠ‰ä‰ø‰·Š‰éŠ%Š=Š)‰÷ŠŠŠŠ‰æ‰õ‰õ‰ÿ‰ëŠ'‰ë‰×‰ë‰æ‰æŠ‰ðŠ
+‰ö‰ÎŠ
+Š(Š ŠZ‰ö‰õ‰õ‰×‰ÿ‰úŠ"ŠŠŠ‰Ø‰Î‰â‰ö‰âŠ(Š ŠŠ‰çŠ#Š(ŠdŠ<Š(‰äŠ ŠŠŠ‰øŠ‰äŠ‰ó‰ËŠ‰íŠ‰ãŠ‰ðŠ‰úŠ"Š	Š	‰ÿŠ‰ë‰ÿ‰ÿ‰ë‰Ò‰Ò‰ðŠ‰öŠ
+‰öŠ
+ŠŠ‰öŠ
+Š	Š	‰×‰×‰ú‰úŠ‰ÈŠ(‰ì‰âŠ‰ö‰âŠ Š ‰ÝŠ-‰û‰ç‰ìŠPŠŠ ‰øŠŠ‰î‰øŠ‰ø‰øŠ‰Ë‰óŠŠŠ‰Í‰á‰â‰â‰ì‰Ä‰â‰ö‰öŠ
+ŠŠŠC‰ó‰ß‰óŠ‰é‰ý‰ýŠ‰ý‰ä‰ä‰ä‰øŠ‰óŠŠ/‰é‰ý‰ó‰ßŠŠŠŠ*Š%ŠŠ‰ýŠ Š‰ö‰öŠŠ7‰ñŠ‰ß‰ó‰é‰ýŠŠŠŠ‰×Š‰ÿ‰ë‰×‰×Š	ŠŠ‰öŠ ‰ØŠ
+‰öŠ‰â‰ßŠ‰óŠŠ‰ó‰é‰é‰éŠ‰é‰ýŠŠŠ4Š ‰ß‰óŠŠ‰é‰ý‰ó‰ßŠ‰î‰îŠŠ‰ý‰ýŠ‰ìŠ(Š
+Š
+ŠŠŠ‰ñŠŠ‰é‰ý‰îŠ‰äŠ‰ÿ‰ëŠ‰×Š‰ÿ‰õ‰á‰ö‰âŠ
+‰ö‰ì‰Ø‰ö‰âŠ‰ß‰óŠŠ‰ý‰é‰é‰ßŠŠŠŠŠŠ‰Ú‰é‰ý‰ý‰éŠ‰ý‰Õ‰ýŠ‰î‰î‰îŠ‰ýŠŠ‰ÄŠŠ2‰â‰ç‰Ó‰ç‰Ó‰ßŠ‰ó‰ßŠ‰ä‰ø‰ä‰ë‰ëŠ	‰á‰×ŠŠ	Š‰öŠ
+Š
+‰Î‰ìŠ Š
+‰ö‰ó‰óŠ‰ó‰é‰ýŠ%‰ý‰óŠŠŠŠ‰ä‰î‰î‰é‰ý‰Õ‰Á‰é‰ý‰ý‰ýŠŠ‰îŠ‰Á‰ý‰ó‰óŠ ‰Ø‰ö‰Î‰û‰ç‰ûŠ‰ó‰ó‰ó‰ßŠŠŠ Š‰×‰ÿ‰õ‰ÍŠŠŠ‰ÿŠŠŠ
+Š
+ŠŠ ‰ìŠ ‰é‰éŠ%‰ý‰î‰î‰îŠŠ‰é‰éŠ%Š‰ó‰ý‰ýŠŠŠ‰î‰ó‰ó‰ý‰ý‰é‰ýŠ‰óŠ‰ýŠ‰ó‰ìŠ ‰âŠ
+‰Î‰ö‰ØŠ ŠŠ‰Ú‰î‰ý‰ý‰ý‰é‰æ‰Ò‰ð‰Ü                                                                                                                                                                                                                                                                                                                                                                                                                                                                XTENSION= 'IMAGE   '           / IMAGE extension                                BITPIX  =                   16 / number of bits per data pixel                  NAXIS   =                    2 / number of data axes                            NAXIS1  =                   64 / length of data axis 1                          NAXIS2  =                   64 / length of data axis 2                          PCOUNT  =                    0 / required keyword; must = 0                     GCOUNT  =                    1 / required keyword; must = 1                     BZERO   =                32768 / offset data range to that of unsigned short    BSCALE  =                    1 / default scaling factor                         CRTS_ID = 'CSS150429:100757+691446'                                             HIERARCH RA_(J2000) = 151.98629                                                 HIERARCH DEC_(J2000) = 69.24623                                                 N_IMAGES=                   12                                                  UT_DATE =          20150429.17                                                  MAG     =                12.98                                                  HIERARCH CSS_IMAGES = 1504291690214116397                                       SDSS    = 'yes     '                                                            OTHERS  =                11639                                                  FOLLOWED= 'no      '                                                            LAST    = '2016-03-16'                                                          LC      =                11639                                                  FC      = 'yes     '                                                            CLASS   = 'HPM LHS_2222'                                                        END                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             ‰¯‰Å‰Å‰í‰Ù‰Å‰Ù‰‰Ù‰Æ‰î‰Æ‰ÆŠ‰·‰Ë‰·‰¥‰¹‰Í‰Í‰ð‰Ü‰È‰Ü‰²‰Æ‰Æ‰Ú‰ó‰Ë‰Õ‰Õ‰Î‰º‰Ä‰Ä‰ñ‰Ý‰¿‰Ó‰È‰Ü‰Ü‰ð‰Í‰á‰Í‰Í‰×‰Ã‰×‰Ã‰¾‰ª‰¾‰æ‰È‰È‰ÒŠ‰×‰Ã‰×‰á‰Å‰±‰Å‰Å‰Å‰‰í‰Ù‰£‰·‰‰Ë‰Æ‰Ú‰Ð‰¼‰¯‰Ã‰¹‰¥‰¯‰Ã‰¯‰×‰ä‰Ð‰Ð‰¨‰ø‰Ð‰¨‰¨‰Ø‰œ‰ì‰Ä‰Ä‰°‰Ø‰Ä‰È‰Ü‰ ‰Ü‰×‰¯‰Í‰¹‰á‰¹‰õ‰Í‰æ‰¾‰¾‰Ò‰¯‰›‰Ã‰×‰Ã‰Ã‰×‰Í‰Ù‰Å‰±‰Ù‰Ù‰±‰±‰Å‰£‰·‰Ë‰·‰²‰Æ‰Ð‰¼‰›‰¯‰Í‰¹‰×‰Ã‰×‰¯‰Ð‰ä‰Ð‰Ð‰Ð‰Ð‰¼‰¼‰Ä‰Ø‰Ø‰Ø‰°‰Ä‰Ä‰Ø‰È‰Ü‰È‰´‰×‰¯‰¥‰¹‰¹‰¹‰¥‰Í‰¾‰¾‰Ò‰æ‰ë‰×‰›‰ÿ‰¯‰×‰ë‰¯‰í‰Å‰Å‰Å‰Å‰Ù‰Ù‰Ù‰­‰Á‰Õ‰é‰Ð‰¼‰Æ‰Ú‰×‰Ã‰¥‰¹‰×‰›‰Í‰õ‰Æ‰Ú‰²‰Æ‰¼‰ä‰Æ‰Ú‰Ä‰Ø‰â‰Î‰°‰ì‰¦‰Î‰´‰ ‰´‰x‰Ã‰×‰Í‰¹‰×‰×‰Í‰Í‰æ‰¾‰Ò‰Ò‰¯‰ÿ‰Ã‰Ã‰¹‰õ‰¯‰ë‰±‰Ù‰Å‰í‰±‰í‰‰‰Á‰ÕŠ‰­‰Ð‰ä‰Ú‰Æ‰Ã‰×‰Í‰á‰×‰Ã‰á‰¹‰Æ‰²‰Æ‰Ú‰€‰¨‰î‰Ú‰Ä‰Ø‰â‰¦‰Ø‰Ä‰â‰â‰È‰´‰È‰Ü‰¯‰Ã‰Í‰á‰Ã‰Ã‰Í‰¥‰¾‰¾‰–‰¾‰¯‰×‰¯‰×‰‘‰Í‰¯‰Ï‰É‰¡‰¿‰ç‰Î‰Î‰Ø‰Ä‰º‰º‰Î‰â‰«‰¿‰É‰É‰™‰Õ‰·‰£‰ä‰Ð‰Ð‰¼‰¡‰ñ‰Ó‰«‰°‰Ø‰Ø‰ì‰Ç‰Û‰½‰å‰©‰å‰Ñ‰å‰˜‰è‰¬‰À‰Ï‰»‰Ù‰Ù‰Ò‰Ò‰´‰ ‰ë‰¯‰Ã‰Ã‰Ê‰Ê‰Ê‰¶‰Ï‰»‰»‰ã‰É‰ñ‰«‰«‰º‰º‰°‰ì‰Î‰Î‰Î‰º‰¿‰«‰É‰É‰Á‰­‰·‰Ë‰ä‰Ð‰¼‰¨‰É‰¡‰ç‰¿‰Ä‰Ä‰ì‰°‰³‰Ÿ‰å‰å‰Ñ‰å‰Ñ‰å‰À‰è‰Ô‰À‰Ï‰»‰í‰í‰¾‰¾‰ ‰Ü‰Ã‰×‰›‰Ã‰Ê‰Ê‰Ê‰¶‰Ï‰ã‰§‰»‰É‰Ý‰É‰É‰Î‰Î‰º‰Î‰º‰Î‰Ø‰°‰«‰¿‰¡‰¡‰­‰Á‰Ë‰·‰²‰î‰²‰Æ‰Ó‰Ó‰«‰Ó‰Ø‰Ä‰Ä‰Ä‰½‰©‰Ç‰ïŠ‰Ç‰å‰ÑŠ.‰Ê‰Þ‰¶‰»‰ãŠ‰‰Œ‰È‰ ‰È‰¹‰¹‰Ã‰Ã‰À‰À‰À‰À‰ã‰“‰»‰Ï‰Ý‰ñ‰ñ‰É‰Î‰Î‰¦‰â‰Î‰â‰ØŠ ‰«‰¿‰‰µ‰ý‰Á‰ß‰Ë‰²‰ž‰Ú‰Æ‰Ó‰Ó‰«‰«‰°‰Ä‰ì‰œ‰½‰ù‰³‰Û‰Ç‰³‰ÑŠ5ŠV‰ò‰Ê‰Ê‰“‰»‰Å‰±‰È‰Ü‰´‰Œ‰á‰¹‰×‰¯‰˜‰˜‰Ô‰Ô‰»‰»‰»‰Å‰ç‰Ó‰µ‰É‰¦‰¦‰º‰Î‰µ‰É‰É‰‰œ‰°‰â‰â‰Æ‰Æ‰¼‰¼‰²‰Æ‰Ú‰Æ‰ç‰¿‰Ý‰ÝŠ‰Ý‰É‰Ý‰Â‰Ö‰¸‰Ì‰Â‰ê‰þŠ:Š‰Þ‰Ô‰À‰è‰Ô‰¬‰Ô‰Í‰‘‰Ã‰›‰ª‰æ‰´‰ð‰Þ‰ò‰¬‰è‰¬‰¬‰è‰Å‰Ó‰ç‰Ý‰É‰¦‰¦‰º‰Î‰¡‰µ‰É‰µ‰Ä‰Ø‰¦‰¦‰Ú‰Ú‰ä‰ä‰î‰²‰Ú‰Æ‰¿‰¿‰É‰É‰É‰ÉŠ‰É‰Ö‰Â‰ô‰à‰Ö‰®Š‰þ‰Ê‰¢‰À‰Ô‰Ô‰˜‰˜‰À‰¥‰¹‰›‰Ã‰¾‰Ò‰Ü‰È‰¶‰Ê‰Ô‰˜‰Ô‰Ô‰Ô‰Ù‰ñ‰¡‰µ‰µ‰â‰Î‰Î‰¦‰µ‰É‰¡‰É‰°‰Ø‰º‰ö‰Ð‰¨‰¼‰Ð‰¼‰ä‰²‰²‰µ‰Ý‰ç‰¿‰É‰ñ‰Ó‰«‰Ö‰ê‰®‰Â‰ê‰®‰š‰ê‰À‰è‰è‰è‰¶‰¶‰¬‰À‰ë‰×‰Ã‰Ã‰ð‰Ü‰¾‰¾‰è‰À‰¶‰Ê‰¢‰Ê‰À‰±‰É‰ñ‰Ý‰µ‰º‰Î‰º‰â‰É‰Ý‰ñ‰É‰œ‰Ä‰â‰Î‰Ð‰Ð‰Ð‰¼‰¼‰¼‰²‰Ú‰µ‰µ‰¿‰¿‰µ‰µ‰û‰û‰Ö‰š‰Ö‰Â‰®‰Â‰Ö‰Ö‰À‰À‰¬‰Ô‰¶‰Þ‰Ô‰À‰¯‰Ã‰›‰Ã‰ ‰Ü‰Ò‰Ò‰˜‰è‰¶‰¢‰Þ‰¶‰À‰Ò‰ã‰÷‰Å‰Å‰Ô‰À‰Ô‰¬‰«‰¿‰É‰É‰Î‰º‰Î‰º‰¾‰¾‰È‰È‰ÈŠ‰¾‰¾‰æ‰æ‰Ü‰È‰×‰ë‰á‰Í‰¶‰Þ‰À‰À‰í‰Å‰Ï‰Ï‰§‰Ï‰»‰ã‰Þ‰Ê‰ò‰Ê‰æ‰Ò‰–‰¾‰Ã‰¯‰Ã‰Ã‰À‰Ô‰¶‰ò‰À‰Ô‰Ô‰æ‰§‰ã‰Ù‰±‰Ô‰À‰Ô‰¬‰«‰¿‰É‰É‰º‰¦‰ö‰â‰Ò‰ú‰´‰´Š‰´‰Ò‰ª‰¾‰æ‰Ü‰È‰Ã‰×‰¥‰á‰Ê‰Ê‰¬‰Ô‰Å‰Å‰“‰»‰÷‰Ï‰ã‰ã‰Ê‰Ž‰Þ‰Þ‰Ò‰–‰æ‰–‰Ã‰×‰›‰›‰˜‰Ô‰¢‰Þ‰¬‰À‰˜‰Ü‰Å‰±‰±‰‰À‰¬‰¶‰¢‰Ó‰û‰¿‰¿‰Ø‰Ø‰Î‰º‰Ò‰Ò‰¾‰¾‰´‰´‰–‰Ò‰Ò‰Ò‰Ü‰ð‰¹‰¥‰Ã‰›‰è‰À‰¶‰¶‰±‰Å‰Å‰Ù‰Å‰±‰Ù‰Ù‰À‰Ô‰¶‰Ê‰ª‰æ‰¾‰Ò‰×‰¯‰×‰¯‰Ô‰˜‰¶‰Ê‰ò‰Ê‰¶‰Ü‰Å‰±‰Å‰Ù‰è‰Ô‰Þ‰Ê‰¿‰¿Š‰¿‰°‰Ø‰Î‰º‰¾‰¾‰Ò‰Ò‰´‰Ü‰¾‰Ò‰Ò‰Ò‰Ü‰È‰Í‰¹‰Ã‰ë‰˜‰ÀŠ‰¶‰‰±‰±‰Å‰‰±‰í‰‰Ô‰è‰ò‰¶‰Ò‰–‰¾‰ª‰Ã‰Ã‰Ã‰Ã‰¬‰À‰Þ‰¢‰Þ‰Þ‰¢‰¯‰±‰±‰Å‰Ù‰§‰§‰Å‰Ù‰Ä‰°‰º‰Î‰É‰Ý‰«‰ç‰ª‰ª‰´‰ ‰¾‰¾‰ ‰È‰ ‰ð‰Ò‰ú‰È‰È‰¾‰Ò‰“‰Ï‰Å‰Å‰Ê‰¶‰À‰À‰À‰è‰À‰˜‰±‰Ù‰±‰Å‰ ‰ÈŠ‰Ò‰¯‰Ã‰¥‰Í‰Þ‰Ê‰Þ‰¶‰Ê‰Þ‰À‰Ã‰Å‰Å‰Å‰Ù‰»‰»‰Å‰Ù‰œ‰°‰ºŠ‰¡‰µ‰Ó‰¿‰¾‰¾‰È‰´Š‰æ‰Ü‰´‰È‰È‰¾‰–‰ð‰È‰Ò‰æ‰÷‰»‰Å‰Å‰Ê‰Þ‰À‰À‰À‰è‰À‰À‰±‰±‰±‰Å‰´‰Ü‰Ò‰–‰Ã‰×‰¹‰¹‰Ê‰¶‰Ž‰¶‰¢‰Þ‰è‰á‰Ù‰Å‰ã‰‰Å‰Å‰ã‰§‰Ä‰Ä‰º‰ö‰µ‰Ý‰Ó‰Ó‰´‰Ü‰Ü‰È‰´‰È‰È‰È‰ð‰È‰Ò‰Ò‰¾‰¾‰È‰È‰Ù‰Å‰Å‰Å‰¶‰¢‰˜‰À‰Ê‰Þ‰Ê‰Ê‰Ù‰í‰Å‰Ù‰¾‰ª‰¾‰Ò‰Ã‰Ã‰›‰×‰¬‰¬‰¶‰Þ‰À‰˜‰ò‰¹‰Ù‰Å‰ã‰§‰Å‰Å‰÷‰»‰Ä‰Ä‰’‰Î‰µ‰µ‰¿‰¿‰´‰Ü‰ð‰Ü‰È‰Ü‰Ü‰Ü‰È‰È‰¾‰æ‰æ‰æ‰Ü‰Ü‰‰±‰±‰±‰¶‰Ê‰„‰Ô‰¶‰Ê‰¢‰Ê‰±‰‰Å‰±‰–‰Ò‰Ò‰¾‰Ã‰Ã‰ÿ‰Ã‰Ô‰¬‰Ê‰Ê‰¬‰Ô‰Þ‰Ô‰Í‰õ‰×‰×‰Ü‰ð‰–‰¾‰ß‰ß‰·‰·‰¼‰Ð‰Ú‰Ú‰–‰¾‰Ò‰¾‰´‰´‰È‰È‰±Š‰»‰§‰¬‰è‰Ê‰Þ‰Ì‰Ì‰ÌŠ‰ê‰Â‰à‰¸‰¸‰¸‰|‰à‰Ì‰¸‰Ö‰Â‰Ê‰¢‰¬‰˜‰Ï‰Ï‰±‰Ù‰È‰Ü‰ª‰Ò‰´‰´‰È‰¬‰õ‰õ‰›‰Ã‰´‰ ‰ª‰Ò‰ß‰ß‰ß‰·‰Ð‰¼‰Æ‰î‰Ò‰Ò‰Ò‰¾‰´‰´‰È‰È‰±‰Ù‰ã‰Ï‰À‰¬‰Ê‰Þ‰¸‰¸‰à‰Ì‰Â‰Â‰¤‰Ì‰Ì‰ô‰Ì‰¸‰Ì‰à‰Â‰Ö‰Ê‰Ê‰Ô‰À‰»‰»‰Ù‰ÙŠ‰ ‰¾‰¾‰´‰´‰È‰¶‰Í‰õ‰Í‰Í‰ ‰È‰¾‰Ò‰Õ‰Õ‰ß‰£‰¨‰äŠ‰Ú‰ð‰Œ‰´‰Ü‰Ò‰ª‰¾‰Ò‰Ù‰í‰»‰»‰Ô‰¬ŠŠ‰Ì‰¸‰Ì‰¸‰Ì‰¤‰®‰Â‰¤‰¸‰¤‰Ì‰Ì‰Ì‰Ì‰ô‰À‰Ô‰¬‰Ô‰í‰±‰Ï‰Ï‰¾‰ª‰–‰æ‰ ‰È‰ ‰¶‰õ‰õ‰õ‰Í‰Ü‰Ü‰ª‰æ‰ý‰­‰Ë‰ß‰Ð‰”‰²‰²‰È‰Ü‰Ü‰Ü‰–‰æ‰æ‰Ò‰Å‰Ù‰§‰Ï‰è‰è‰Ô‰¬‰ô‰à‰à‰Ì‰à‰à‰Â‰Ö‰à‰¤‰¤‰Ì‰Ì‰Ì‰¤‰Ì‰Ô‰è‰¬‰¬‰±‰í‰“‰ã‰¾‰ª‰ª‰ª‰Ü‰Ü‰ ‰±‰õ‰Í‰Ã‰Ã‰È‰Ü‰´‰ ‰Æ‰Æ‰²‰Ú‰·‰ß‰­‰Õ‰È‰È‰Ü‰ ‰×‰×‰ë‰‡‰í‰í‰Ù‰Ù‰§‰÷‰í‰Ù‰¸‰Ì‰Ö‰®‰å‰Ñ‰å‰Ñ‰ê‰š‰Â‰Â‰Ç‰³‰Ç‰Ç‰Å‰Ù‰í‰Å‰Å‰Å‰Å‰±‰¹‰¥‰á‰Í‰×‰Ã‰Í‰Å‰á‰¹‰Ã‰ë‰´‰È‰Ü‰È‰Ú‰²‰Æ‰ž‰Ë‰Ë‰Á‰Á‰Œ‰Ü‰´‰È‰×‰×‰ë‰¯‰ÙŠ‰Ù‰Ù‰÷‰÷‰Ù‰í‰à‰Ì‰Ö‰Ö‰å‰Ñ‰½‰©‰Ö‰®‰Ö‰Ö‰Û‰Ç‰Ç‰Ç‰‰Ù‰Ù‰±‰‰‰í‰Ù‰Í‰á‰Í‰¹‰Ã‰¯‰Í‰ã‰ÿ‰¯‰¹‰¹‰¾‰¾‰È‰ ‰Æ‰²‰Æ‰²‰·‰ß‰ß‰·‰´‰ð‰¾‰Ò‰¹‰¹‰ë‰Ã‰í‰Ù‰íŠ)ŠŠ[Š‰÷‰ô‰Ì‰à‰Ì‰½Š‰Ÿ‰Ç‰š‰®‰Â‰ê‰Ñ‰©‰Ç‰Û‰‰‰Ù‰‰Ù‰‰“‰ã‰Ã‰×‰¥‰Í‰‡‰¯‰Í‰Ï‰¯‰¯‰Í‰¥‰æ‰æ‰È‰ ‰Ú‰îŠ‰î‰Ë‰Ë‰·‰·‰È‰´‰æ‰ª‰Í‰Í‰ëŠŠQŠeŠŠÉ‹‹7‹7ŠoŠ‰ô‰ô‰à‰ù‰Ñ‰Û‰³‰Â‰Ö‰®‰®‰•‰½‰Û‰ï‰±‰Ù‰Å‰±‰±‰Å‰»‰ã‰¯‰ë‰¥‰¥‰ë‰Ã‰Í‰Ë‰Á‰Á‰Á‰Õ‰Ð‰Ð‰Æ‰Ú‰®‰®‰à‰¸‰Û‰Ç‰³‰Û‰Ç‰ï‰Ç‰Û‰Ñ‰Ñ‰åŠŠ‹§ŒŒñ€¬Žš‹fŠb‰ê‰Ö‰Ö‰½‰Ñ‰½‰ù‰Í‰¥‰¹‰¹‰Ã‰Ã‰á‰‘‰Ð‰¼‰Æ‰ž‰ß‰ß‰é‰Õ‰Â‰š‰à‰‰©‰Ñ‰½‰£‰­‰­‰Õ‰é‰ä‰ä‰î‰Ú‰Ö‰Ö‰àŠ‰Ÿ‰³‰Ç‰ï‰Û‰Û‰ïŠ‰Ñ‰Ñ‰åŠ5ŠËŒƒŽ½”¤è²Dœú¾ŠÚ‰ê‰ê‰Â‰Ñ‰å‰Ñ‰å‰¹‰á‰õ‰Í‰›‰Ã‰¥‰õ‰Ð‰ä‰Š‰²‰ß‰·‰­‰é‰Â‰š‰¸‰¸‰½‰å‰å‰é‰Õ‰Á‰£‰Ë‰Ð‰Ð‰Æ‰Æ‰Ì‰¸‰®‰®‰Ñ‰ÑŠ‰Ç‰½‰©‰ù‰å‰Ç‰ïŠ!Š…‹kÃ‘ ÓàŽå¼”‘ˆ‹„Š€Š:‰êŠŠ‰Û‰Ÿ‰á‰¥‰¹‰Í‰¹‰Í‰¹‰Í‰î‰Ú‰Æ‰²‰Õ‰Õ‰Õ‰Á‰Ö‰ê‰ÌŠ‰Ñ‰Ñ‰å‰Á‰Õ‰é‰£‰Ë‰¨‰Ð‰Æ‰Æ‰¤‰¸‰Â‰ê‰Ñ‰Ñ‰Û‰ï‰½‰Ñ‰ù‰åŠŠ?ŠŠq‹s‘G¡¯ã®å*¨0¼‹HŠlŠ:Š‰ï‰ïŠ‰ï‰Í‰á‰Í‰¹‰á‰Í‰¹‰Í‰î‰²‰Ú‰Æ‰­‰Õ‰™‰­‰Ö‰š‰¤‰à‰Ñ‰Ñ‰½‰Ð‰¼‰ä‰²‰Æ‰î‰ž‰²‰Ú‰Ñ‰©‰Û‰Ç‰ô‰Ì‰à‰¸‰Â‰Ö‰Ö‰Ö‰Ö‰Ö‰þŠ:Š”‹ÀŽ|–tºU²­’#‹§ŠbŠ&‰þ‰Ö‰ê‰ê‰Ì‰Ì‰Ã‰×‰Ã‰×‰æ‰¾‰¾‰¾‰ý‰­‰Õ‰é‰î‰Ú‰ž‰²‰à‰Ì‰®‰Ö‰Ñ‰½‰Ÿ‰¼‰¼‰¼‰Ú‰Æ‰Ú‰²‰Æ‰Æ‰Ñ‰ù‰³‰Ÿ‰‰¸‰Ì‰ô‰®‰ê‰Ö‰Ö‰Â‰Â‰ÖŠŠ0Š¼‹„Ž,‘­‹ãŠ?‰þ‰êŠ‰ê‰Â‰Â‰Ì‰¤‰›‰¯‰›‰¯‰Ò‰ú‰¾‰æ‰Á‰Á‰ý‰Á‰²‰Æ‰Ú‰Æ‰¸‰Ì‰®‰®‰Ñ‰½‰³‰Ð‰Š‰Æ‰Æ‰Æ‰Ú‰Ú‰ø‰¨‰Ç‰Û‰Ñ‰Ñ‰ô‰Ì‰Â‰Ö‰®‰Ö‰ô‰¸‰Ö‰Ö‰Ö‰Â‰ô‰àŠNŠÆ‹/‹ŠŠ?‰ê‰Ö‰Ö‰Ö‰®‰†‰¤‰¤‰¹‰á‰¹‰á‰æ‰Ò‰´‰È‰Á‰Õ‰Õ‰é‰Ú‰²‰²‰Ú‰ô‰à‰Ì‰Š‰³‰å‰Ð‰Æ‰Ú‰Æ‰ž‰²‰²‰ø‰Ð‰³‰Ç‰½‰½‰à‰¸‰ê‰Ö‰Â‰Â‰Ì‰¸‰š‰Â‰Ö‰ê‰à‰ôŠŠbŠ?Š?‰ï‰Ç‰Â‰Ö‰š‰Â‰®‰®‰Ì‰Ì‰Í‰õ‰¹‰¹‰æ‰ªŠ‰È‰Á‰Õ‰ý‰Á‰²‰²‰²Š‰à‰ô‰à‰Ì‰Û‰³‰•‰ß‰²‰Æ‰Æ‰Æ‰Ð‰Ð‰Ð‰¨‰æ‰ª‰Ò‰Ò‰¥‰¥‰Í‰Í‰í‰±‰ã‰ã‰÷‰÷‰»‰»‰è‰À‰ü‰èŠ‰í‰ã‰÷‰Ô‰À‰Ô‰Ô‰Ê‰Ê‰Þ‰Þ‰Æ‰î‰¼‰ä‰Ú‰Æ‰”‰¼‰Â‰Â‰à‰¤‰Ç‰Ÿ‰Û‰Ç‰Û‰³‰³‰Û‰Ñ‰©‰Ñ‰ß‰Ú‰î‰ž‰Æ‰¨‰Ð‰¼‰”‰¾‰Ò‰Ò‰Ò‰}‰õ‰¥‰Í‰í‰±‰Ï‰‰Ï‰÷‰÷‰Ï‰Ô‰Ô‰À‰ÔŠŠ‰Ï‰ã‰è‰Ô‰è‰À‰Þ‰¶‰¶‰Þ‰Ú‰Ú‰Ð‰¨‰²‰Æ‰¨‰¨‰š‰Â‰¸‰¤‰Ç‰Ÿ‰Ÿ‰‹‰‹‰³‰³‰³‰½‰½‰©‰ß‰Æ‰ž‰Æ‰Æ‰Ð‰ä‰€‰ä‰æ‰¾‰Ò‰Ò‰Í‰á‰×‰Ã‰±‰Å‰Å‰±‰»‰÷‰Å‰±‰Ê‰¶‰Ô‰üŠ‰Ù‰Ù‰ÅŠ$Š‰À‰¬‰¢‰Þ‰Ô‰ü‰¨Š‰ž‰ž‰Æ‰Ú‰¨‰¼‰Ö‰Â‰Ì‰¤‰Ÿ‰Û‰•‰‰å‰½‰Ç‰Ÿ‰Ç‰Ÿ‰Û‰Ë‰Ú‰Ú‰Æ‰Æ‰ä‰Ð‰¼‰¨‰Ò‰Ò‰¾‰¾‰¥‰á‰Ã‰×‰í‰±‰Ù‰í‰ã‰§‰Ù‰Å‰¢‰¶‰˜‰˜‰í‰Å‰Ù‰í‰ü‰è‰¬‰À‰Ê‰¶‰è‰À‰¼‰Ð‰²Š‰Ú‰Æ‰ä‰Ð‰®‰Â‰¸‰‰³‰Ç‰å‰©‰½‰•‰Ç‰Ÿ‰Ÿ‰Ç‰Ç‰Á‰é‰Á‰Õ‰Á‰î‰²‰²‰Æ‰´‰´‰È‰È‰á‰¹‰Ã‰×‰‰Å‰Å‰Ù‰ã‰»‰»‰ã‰Å‰Ù‰Ù‰Å‰Ï‰÷‰Ù‰ÙŠ‰è‰è‰è‰Ï‰§‰Å‰±‰Ë‰Ë‰Ë‰ß‰Š‰²‰Ð‰Ð‰®‰Ö‰Ì‰¤‰®‰ê‰®‰Ö‰Ì‰Ì‰š‰Ö‰ê‰Â‰ê‰é‰Õ‰Õ‰é‰Õ‰Ú‰Æ‰î‰Ú‰È‰È‰´‰Ü‰¥‰Í‰×‰ë‰±‰Ù‰Å‰±‰Ï‰§‰»‰»‰Å‰Ù‰Å‰±‰Ï‰÷‰Å‰‰¬‰¬‰è‰è‰Ï‰Ï‰Å‰±‰Ë‰Ë‰ß‰£‰²‰²‰Ð‰Ð‰Â‰Â‰¤‰Ì‰®‰Â‰®‰Ö‰à‰¸‰Â‰Ö‰Ö‰®‰Ö‰·‰Á‰Õ‰Õ‰­‰Ð‰”‰ž‰Æ‰¾‰ú‰¾‰ª‰¹‰¥‰Í‰á‰í‰í‰Å‰Ù‰»‰»‰Ï‰ã‰Å‰Å‰‰í‰Å‰Å‰»‰÷‰¢‰¶‰Ê‰¶‰ã‰»‰±‰±‰·‰·‰Á‰Á‰Æ‰Ú‰Æ‰î‰þ‰®‰Â‰ê‰Ì‰Ì‰¸‰¸‰Â‰Â‰ê‰Â‰à‰ô‰Ì‰ß‰Õ‰Á‰­‰ý‰¼‰Ð‰î‰î‰¾‰ª‰¾‰Ò‰Í‰‘‰¥‰¹‰Ù‰Ù‰Ù‰‰ã‰ã‰Ï‰»‰Å‰Å‰‰Å‰‰Å‰»‰÷‰¢‰¶‰¶‰Ê‰Ï‰Ï‰±‰±‰ßŠ‰Á‰Á‰²‰Æ‰²‰²‰Â‰Â‰Ö‰†‰¤‰¤‰¸‰¸‰š‰š‰Â‰Â‰Ì‰à‰¤‰Ç‰Ü‰È‰Ò‰Ò‰È‰È‰¾‰¾‰Ç‰Ÿ‰å‰Ñ‰Š‰Â‰Â‰Ö‰®‰Ì‰¸‰Ì‰Ì‰¸‰ô‰Ç‰Ÿ‰Û‰³‰Ñ‰½‰Û‰³‰³‰³‰Ñ‰Ñ‰®‰®‰Ì‰à‰¦‰â‰¦‰’‰º‰¦‰’‰Î‰Â‰Â‰¤‰¤‰®‰Ö‰®‰Â‰Æ‰ž‰¼‰¨‰Æ‰Æ‰ä‰Û‰È‰Ü‰æ‰æ‰´‰´‰¾‰¾‰³‰Û‰Ñ‰•‰¸‰¸‰Ö‰Ö‰þ‰®‰Ì‰¸‰Ì‰ô‰¸‰Ì‰Ç‰Ÿ‰Û‰³‰½‰©‰Û‰³‰ï‰Ç‰Ñ‰©‰Â‰š‰ô‰¸‰º‰Î‰º‰¦‰Î‰â‰º‰Î‰®‰Ö‰Ì‰¤‰Ö‰®‰Â‰®‰Ú‰²‰¼‰¨‰ž‰Æ‰¼‰³‰¾‰¾‰¾‰Ò‰¾‰¾‰¾‰Ò‰ù‰©‰Ñ‰Ñ‰¸‰¸‰Â‰®‰š‰®‰Â‰Ö‰Â‰®‰Ì‰à‰³‰Û‰Ñ‰½‰Û‰Ÿ‰Û‰Û‰³‰‹‰©‰©‰¤‰¸‰Ì‰Ì‰Î‰¦‰°‰Ø‰°‰ˆ‰º‰Î‰®‰Ö‰à‰à‰®‰ê‰‰‰ä‰¼‰Ð‰Ð‰²‰²‰Ð‰Ç‰‚‰Ò‰Ò‰æ‰Ò‰Ò‰æ‰ª‰½‰½‰å‰½‰à‰¸‰®‰Â‰Â‰Ö‰Â‰®‰Ö‰ê‰ô‰¸‰Û‰³‰½‰Ñ‰Ç‰Û‰ÛŠ‰Ÿ‰Ç‰å‰½‰¸‰Ì‰Ì‰Ì‰¦‰¦‰Ø‰Ø‰Ä‰Ä‰’‰Î‰®‰Ö‰à‰¸‰Â‰Ö‰à‰¸‰”‰”‰¼‰”‰Æ‰Æ‰Ð‰½‰Ü‰´‰È‰´‰æ‰Ò‰ð‰È‰³‰³‰Û‰³‰Ç‰Ç‰Ç‰Û‰©‰Ñ‰³‰ÇŠ‰Ì‰Â‰Ö‰¤‰Ì‰®‰Â‰©‰Ñ‰å‰½‰½‰Ñ‰³‰ï‰å‰©‰å‰©‰Î‰Î‰Ø‰Ä‰¿‰¿‰É‰É‰š‰š‰¤‰¤‰½‰Ñ‰Ç‰Û‰Á‰Á‰Õ‰Õ‰Æ‰Æ‰Æ‰Ñ‰È‰È‰È‰´‰ª‰¾‰ ‰È‰³‰³‰³‰³‰Ç‰Ÿ‰Û‰ï‰©‰Ñ‰Ç‰³‰¸‰ô‰Â‰Ö‰¸‰¸‰†‰ê‰Ñ‰Ñ‰å‰•‰å‰©‰Ç‰Û‰Ñ‰å‰©‰½‰â‰º‰Ø‰Ä‰¿‰ç‰É‰É‰š‰š‰ô‰Ì‰½‰©‰Û‰Ç‰Á‰Á‰é‰Á‰Ú‰Ú‰Ú‰Ÿ‰ª‰¾‰´‰´‰È‰´‰È‰È‰½‰©‰³‰³‰Û‰Ÿ‰Ñ‰å‰Ñ‰ù‰Û‰Ç‰®‰Â‰¤‰ô‰Ì‰¸‰®‰Ö‰³‰³‰Û‰ï‰ÇŠ‰Ñ‰½‰Ÿ‰Ç‰Ç‰Û‰~‰¦‰œ‰œ‰É‰É‰û‰«‰à‰¤‰¤‰¤‰Ñ‰©‰©‰½‰·‰·‰Ë‰Ë‰²‰Æ‰Æ‰Ç‰Ò‰¾‰´‰´‰´‰È‰Ü‰Ü‰©‰½‰Û‰³‰³‰ï‰•‰©‰Ñ‰©‰³‰ï‰Â‰®‰¸‰à‰Ì‰¸‰Â‰Â‰Û‰³‰Ç‰³‰Ç‰³‰Ñ‰½‰ï‰Ç‰³‰Ç‰Î‰Î‰Ä‰Ä‰Ý‰µ‰¿‰¿‰Ì‰à‰Ì‰Ì‰ù‰Ñ‰½‰Ñ‰·‰·‰·‰ß‰²‰Æ‰Ú‰Ô‰±‰Ù‰Ï‰§‰¶‰Ž‰À‰Ô‰Ö‰Ö‰Ì‰à‰³‰³‰Ç‰³‰®‰Ö‰þ‰Ö‰¸‰¸‰Š‰Â‰†‰Â‰Ö‰Ç‰Ç‰Ñ‰Ñ‰Â‰Â‰®‰®‰³‰Ç‰Ç‰Û‰²‰ž‰Š‰î‰­‰™‰Õ‰éŠ
+‰¦‰°‰Ø‰ì‰°‰°‰°‰°‰°‰ˆ‰°‰Î‰â‰ì‰Ô‰Ù‰±‰»‰»‰¶‰Þ‰˜‰Ô‰Â‰Â‰à‰Ì‰Û‰‹‰Û‰Ç‰®‰Ö‰Â‰Â‰¸‰à‰¤‰Ì‰š‰®‰Â‰Ö‰³‰³‰ù‰Ñ‰®‰®‰Ö‰®‰Û‰Ç‰Ç‰³‰Æ‰²‰²‰Æ‰Õ‰Á‰Á‰…‰â‰Î‰Ø‰Ø‰œ‰Ø‰Ø‰Ø‰Ä‰Ä‰Ø‰°‰â‰Î‰œ‰Ô‰Ï‰»‰Ï‰»‰À‰Ô‰Ê‰Ê‰à‰Ì‰Â‰Â‰³‰³‰Ç‰³‰ê‰Ö‰Â‰ê‰š‰Ö‰¤‰à‰¸‰¸‰ô‰ô‰Ÿ‰Û‰³‰³‰®‰®‰¤‰¤‰Ñ‰½‰‰½‰¨‰Ð‰Ð‰¼‰·‰ó‰·‰‰Ä‰Ä‰Ø‰Ø‰°‰Ø‰°‰ì‰°‰°‰â‰º‰º‰Î‰°‰Ô‰Ï‰»‰§‰»‰Ô‰À‰¢‰Ê‰‰ô‰®‰Ö‰³‰³‰Ç‰‹‰®‰š‰Ö‰Ö‰Ö‰Â‰Ì‰¸‰¸‰à‰ô‰Ì‰Û‰Ç‰Û‰³‰®‰Ö‰¸‰à‰½‰©‰©‰½‰Ð‰¨‰Ð‰¼‰ß‰Ë‰ß‰·Š ‰Ø‰Ä‰ÄŠ ‰Ø‰Ä‰°‰Ä‰Ä‰Î‰¦‰’‰¦‰Ä‰±‰Ê‰Þ‰¶‰¶‰À‰À‰¢‰¢‰Ç‰Ç‰Û‰Û‰š‰þ‰à‰Ì‰¤‰¤‰ê‰®‰‹‰ï‰å‰å‰å‰å‰ï‰Ç‰¸‰‰¸‰¤‰Ç‰³‰‹‰ï‰Ö‰®‰®‰®‰­‰Õ‰­‰Õ‰Õ‰Á‰Õ‰ÕŠ#Š‰Ý‰µ‰Ó‰Ó‰¿‰«‰Ä‰Ä‰Ä‰Ø‰Ý‰µ‰«‰±‰¶‰¢‰¢‰ò‰Ô‰¬‰¶‰Þ‰³‰‹‰³‰³‰Â‰®‰‰Ì‰Ì‰¤‰Ö‰Â‰Ç‰Û‰©‰Ñ‰½‰½‰Û‰Û‰¤‰¤‰¸‰ô‰Û‰Ç‰Ç‰Û‰š‰Â‰þ‰Ö‰­‰Õ‰Á‰Á‰Á‰­‰Õ‰ÕŠ#‰¿‰µ‰µ‰¿‰¿‰—‰Ó‰Ä‰ì‰°‰œ‰¡‰y‰Ó‰Ï‰À‰¬‰À‰À‰¶‰¢‰¬‰À‰Ÿ‰Ç‰Ç‰Û‰Â‰®‰¸‰¤‰Ì‰Ì‰¸‰¤‰½‰Ñ‰½‰½‰³‰³‰Ç‰Ÿ‰Ö‰š‰Â‰Â‰½‰ÑŠ‰Ç‰Ì‰Ì‰¤‰¤‰Á‰Õ‰…‰Á‰Ë‰Ë‰ó‰ß‰ç‰Ó‰«‰Ó‰É‰ñ‰«‰—‰¦Š
+‰¦‰Î‰É‰µ‰¿‰Ï‰À‰Ô‰À‰À‰Þ‰Ê‰À‰ü‰Ç‰ï‰³‰Ç‰Ö‰Â‰Ì‰à‰¸‰¸‰à‰¤‰½‰Ñ‰Ñ‰©‰Ç‰Ç‰Ç‰ï‰Â‰®‰Ö‰®‰½‰Ñ‰Û‰Ç‰¸‰¸‰¸‰¸‰Õ‰é‰ýŠ‰ß‰ß‰·‰Ë‰«‰¿‰«‰Ó‰Ý‰µ‰«‰¿‰~‰’‰º‰â‰µ‰É‰¿‰¸‰Ö‰®‰¸‰¸‰Ö‰Â‰¸‰¤‰Ç‰Ç‰ï‰ï‰®‰Â‰Â‰ê‰Ì‰à‰¸‰¸‰©‰•‰Ñ‰½‰±‰‰±‰Å‰Ï‰ã‰Å‰Ù‰§‰Ï‰Ù‰Ù‰»‰»‰Å‰±‰¼‰¨‰ä‰¼‰ß‰Ë‰Á‰Á‰ë‰¯‰¯‰¯‰¹‰Í‰Ã‰ë‰Ð‰¼‰¼‰Ð‰Õ‰é‰Ë‰Ì‰®‰®‰¤‰Ì‰ê‰Ö‰¸‰Ì‰Ç‰Ç‰Ç‰Ç‰Â‰Ö‰Â‰Â‰¸‰ô‰Ì‰Ì‰Ñ‰å‰½‰©‰±‰í‰Ù‰Å‰Ï‰»‰Ù‰‰§‰Ï‰í‰Å‰÷‰§‰‰±‰ä‰Ð‰Ð‰¨‰£‰·‰Õ‰­‰Ã‰×‰Ã‰›‰Í‰¹‰¯‰¯‰¨‰ä‰¨‰ä‰Á‰Õ‰£‰¸‰ô‰¸‰¤‰Ì‰¸‰Ì‰Ì‰Ì‰½‰Ñ‰å‰å‰®‰ê‰Ì‰à‰Ì‰ô‰à‰‰©‰å‰å‰©‰§‰“‰Ï‰»‰»‰ã‰Ï‰Ï‰Å‰Å‰»‰§‰»‰»‰“‰“‰Æ‰²‰Æ‰ž‰Ë‰Ë‰ó‰Ë‰Ã‰Ã‰×‰›‰¥‰Í‰Ã‰×‰¨‰”‰Æ‰Ú‰Á‰­‰Á                                                                                                                                                                                                                                                                                                                                                                                                                                                                XTENSION= 'IMAGE   '           / IMAGE extension                                BITPIX  =                   16 / number of bits per data pixel                  NAXIS   =                    2 / number of data axes                            NAXIS1  =                   64 / length of data axis 1                          NAXIS2  =                   64 / length of data axis 2                          PCOUNT  =                    0 / required keyword; must = 0                     GCOUNT  =                    1 / required keyword; must = 1                     BZERO   =                32768 / offset data range to that of unsigned short    BSCALE  =                    1 / default scaling factor                         CRTS_ID = 'CSS150429:100757+691446'                                             HIERARCH RA_(J2000) = 151.98629                                                 HIERARCH DEC_(J2000) = 69.24623                                                 N_IMAGES=                   12                                                  UT_DATE =          20150429.17                                                  MAG     =                12.98                                                  HIERARCH CSS_IMAGES = 1504291690214116397                                       SDSS    = 'yes     '                                                            OTHERS  =                11639                                                  FOLLOWED= 'no      '                                                            LAST    = '2016-03-16'                                                          LC      =                11639                                                  FC      = 'yes     '                                                            CLASS   = 'HPM LHS_2222'                                                        END                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             ‰À‰è‰á‰Í‰×‰ë‰Ò‰ú‰¾‰Ò‰Å‰Ù‰Ï‰ã‰Ù‰Å‰Å‰Ù‰â‰ö‰â‰Î‰Ø‰Ä‰Ø‰Ä‰Õ‰ÕŠ‰ß‰Õ‰Õ‰Õ‰Á‰Ë‰ß‰é‰Õ‰Ë‰ß‰Õ‰é‰À‰è‰Ê‰ÊŠ‰‰Ï‰ã‰Û‰Û‰å‰½‰å‰½‰½‰å‰š‰Ö‰Ì‰Ì‰Ñ‰Ñ‰è‰ü‰ë‰Ã‰¯‰Ã‰æ‰æ‰Ü‰È‰Ù‰Å‰ÅŠ‰»‰÷‰ã‰»‰ì‰Ø‰Î‰âŠ
+‰Î‰ºŠ
+‰Õ‰™‰Á‰ý‰£‰Ë‰ó‰Ë‰Õ‰Á‰ÕŠ‰ß‰Ë‰ý‰Á‰Ô‰À‰Þ‰Ê‰»‰Ï‰Ï‰»‰³‰Û‰Ç‰Ç‰Û‰Ç‰ï‰Û‰Ì‰à‰Ö‰ê‰Û‰Ç‰è‰Ô‰ë‰ë‰ë‰×‰ú‰Ò‰È‰Ü‰í‰±Š‰Å‰Ï‰ã‰÷‰Ï‰Ø‰ì‰’‰Î‰Î‰â‰ö‰Î‰™‰Õ‰Õ‰é‰ó‰Ë‰ß‰·‰ý‰Á‰Õ‰é‰ó‰ß‰Õ‰Á‰è‰ÔŠ‰Þ‰ã‰Ï‰Ï‰»‰Û‰Û‰Ç‰ï‰Û‰ï‰Ç‰Û‰¸‰ô‰Â‰Ö‰Ÿ‰Û‰Ï‰ã‰ð‰È‰È‰È‰ú‰¾‰ð‰ÜŠ‰Å‰Ï‰Ï‰Ô‰Ô‰¬‰Ô‰âŠ
+‰Ø‰ØŠ
+‰â‰Ä‰Ø‰ø‰Ð‰¼‰¼‰¼‰Ð‰ÚŠ‰¨‰ä‰Ú‰Æ‰ÐŠ‰¼‰¼‰Ï‰»‰±‰Å‰¶‰¶‰Þ‰Þ‰©‰Ñ‰å‰Ñ‰ù‰½‰Ç‰Ç‰Ö‰Ö‰ê‰Â‰½‰Ñ‰Ï‰»‰È‰ð‰È‰ð‰ª‰æ‰Ü‰ð‰í‰Å‰Ï‰Ï‰ü‰Ô‰À‰è‰Î‰Î‰Ä‰Ä‰â‰â‰Ä‰Ø‰Ð‰Ð‰ä‰ä‰¼‰Ð‰Æ‰Æ‰Ð‰”‰Æ‰Ú‰Ð‰¼‰¼‰ä‰»‰÷‰±‰‰Ê‰ò‰Þ‰ÞŠ‰å‰Ñ‰½‰ù‰½‰ï‰Ç‰êŠ‰Â‰ê‰½‰Ñ‰Å‰±‰ð‰ð‰ª‰Ò‰Ü‰Ü‰Ü‰Ü‰Ï‰ã‰í‰Å‰¶‰Þ‰Ê‰Þ‰º‰ö‰ì‰Ä‰ì‰ì‰ÎŠ
+‰¼‰ä‰Ð‰Ð‰ž‰Ú‰²‰Æ‰ä‰¼‰¼‰Ð‰Ð‰ø‰Ú‰Ú‰Ï‰Ï‰±‰Ù‰Þ‰Ê‰Ô‰¬‰Û‰³‰Û‰ï‰Ç‰ÛŠ‰ÛŠ‰¸‰¤‰à‰Ç‰Ç‰Ù‰Å‰È‰È‰æ‰æ‰È‰ð‰È‰ð‰»‰÷‰Ù‰Ù‰¢‰Ê‰Ê‰Þ‰¦‰â‰°‰Ø‰Ø‰Ø‰â‰ö‰Ð‰Ð‰¼‰¼‰Ú‰Æ‰Ú‰Æ‰ä‰¼‰Ð‰ä‰ä‰ä‰²‰Ú‰ã‰ã‰Å‰í‰Þ‰Ê‰À‰À‰Ç‰ïŠ‰ï‰Ç‰Û‰Û‰³‰¤‰Ì‰à‰Ì‰Ç‰Ç‰õ‰á‰æ‰æ‰´‰ð‰´‰Ü‰æ‰Ò‰Ï‰Ï‰Ù‰Ù‰Å‰Ù‰Å‰Å‰Ö‰ê‰¸‰¸‰Ì‰Ì‰ê‰êŠ
+‰â‰º‰º‰Ý‰É‰Ó‰ç‰ö‰Î‰ì‰ì‰°‰ØŠF‰ö‰Í‰õ‰õ‰á‰×‰ë‰Ã‰Ã‰ê‰Ö‰ô‰¤‰š‰Ö‰¸‰¤‰Ô‰À‰Þ‰Þ‰¬‰è‰õ‰¹‰¾‰¾‰Ü‰È‰È‰ð‰Ò‰¾‰Ï‰Ï‰Ù‰Ù‰Å‰±‰Å‰Å‰š‰Ö‰Ì‰Ì‰¸‰¸‰ê‰ê‰ö‰Î‰¦‰Î‰É‰µ‰ç‰Ó‰Î‰Î‰Ø‰Ø‰ì‰ìŠZŠ‚‰õ‰Í‰ÍŠ	‰ë‰¯‰ë‰Ã‰Â‰Ö‰à‰¸‰Ö‰Â‰à‰Ì‰ü‰À‰Ê‰Ê‰Ô‰À‰ÿ‰ë‰ú‰¾‰È‰È‰Ü‰ð‰È‰ð‰»‰Ï‰ã‰ã‰Ù‰Ù‰Ù‰Ù‰ê‰ê‰Â‰ê‰Ö‰ê‰Ö‰Â‰°‰Ø‰°‰°‰Ý‰É‰É‰ñ‰Ø‰ì‰Î‰Î‰ì‰ìŠPŠ(‰ÿ‰›‰õ‰Í‰×‰×‰×‰Ã‰Ö‰®‰Ì‰Ì‰Â‰Ö‰ê‰þ‰À‰¬‰Ô‰À‰¶‰Ê‰¯‰Ã‰¾‰Ò‰Ü‰Ü‰Ü‰ð‰´‰Ü‰Ï‰ã‰ã‰»‰Ù‰Ù‰Å‰í‰®‰®‰Â‰ê‰Â‰Ö‰Ö‰ê‰ì‰Ä‰Ä‰ì‰Ý‰ñ‰É‰ñ‰ì‰Ø‰ºŠ
+Š ‰ØŠ Š ‰¯‰ë‰Í‰Í‰×‰×‰Ã‰×‰Â‰Â‰‰¸‰Â‰Ö‰Ö‰Â‰¬‰è‰À‰¬‰¶‰Ê‰Ã‰ë‰È‰´‰Ò‰Ò‰×‰Ã‰á‰Í‰í‰±‰í‰±‰Å‰Ù‰»‰Ï‰Ç‰Ç‰Û‰ï‰ÌŠ‰®‰Ö‰ì‰°‰â‰â‰ç‰Ó‰Ý‰Ý‰Ø‰Ø‰ì‰Ä‰Ó‰¿‰Ó‰ÓŠ‰È‰Ò‰úŠ	‰¹‰¥‰õ‰å‰å‰Ç‰Û‰®‰Â‰à‰à‰¶‰Ê‰¬‰À‰Ô‰Ô‰¯‰×‰ ‰Ü‰¾‰æ‰ÿ‰Ã‰Í‰á‰‰Ù‰í‰Ù‰Ù‰Å‰Ï‰»‰³‰Û‰Ç‰Û‰à‰Ì‰Â‰Â‰Ä‰Ø‰º‰º‰Ó‰¿Š‰µ‰Ø‰Ø‰ì‰Ä‰ç‰Ó‰ç‰ç‰ ‰Ü‰¾‰¾‰á‰¹‰¹‰¹‰©‰Ñ‰Ç‰³‰Ö‰ê‰Ì‰Ì‰ò‰¶‰è‰¬‰ü‰Ô‰Í‰Í‰È‰È‰Ü‰Ü‰¹‰¹‰á‰õ‰Å‰ÙŠ‰í‰Ï‰ã‰í‰í‰Û‰Ÿ‰å‰©‰Ì‰à‰ê‰Â‰Ø‰°‰Ø‰ì‰µ‰É‰ç‰ç‰Ø‰°‰Î‰Î‰É‰Ý‰É‰¡‰Ò‰Ò‰È‰´Š‰õ‰Í‰Í‰Ñ‰½‰Ÿ‰Ç‰à‰Ì‰ô‰Ì‰¢‰Þ‰ò‰¢‰è‰Ô‰Í‰Í‰ÜŠ‰Ü‰Ü‰¹‰á‰õ‰á‰Ù‰í‰Ù‰‰§‰ã‰±‰Ù‰Û‰Ç‰•‰©‰¸‰Ì‰Â‰ê‰Ä‰ÄŠ ‰ì‰Ý‰ñ‰û‰û‰ì‰ì‰Î‰ö‰ñ‰µ‰É‰ñ‰–‰æŠ‰ ‰õ‰Í‰á‰¹‰Ñ‰½‰Ç‰Ç‰à‰ô‰ô‰¤‰Ê‰¶‰ò‰¢‰Ô‰À‰Å‰Ù‰Ä‰°‰â‰â‰â‰Î‰ì‰ì‰û‰ç‰¡‰ñ‰É‰ñ‰¿‰ç‰ç‰¿‰É‰Ý‰Ä‰Ä‰º‰â‰½‰½‰å‰•‰Ñ‰Ñ‰³‰Û‰Ò‰¾‰Ò‰æ‰Í‰á‰×‰ë‰°‰Ø‰Ä‰Ä‰Î‰º‰ö‰Î‰ó‰£‰·‰Ë‰¼‰ä‰ä‰ä‰»‰»‰Ï‰ã‰ò‰Ê‰Ù‰Å‰Ø‰ì‰ö‰Î‰º‰Î‰Ø‰°‰¿‰Ó‰ñ‰ñ‰µ‰Ý‰ç‰ç‰Ó‰«‰É‰Ý‰Ä‰Ä‰ö‰Î‰©‰Ñ‰å‰å‰©‰ù‰Û‰Û‰¾‰ª‰æ‰Ò‰¹‰Í‰×‰›‰Ø‰Ø‰Ø‰Ø‰â‰Î‰º‰º‰£‰ó‰Ë‰ß‰ø‰ø‰¨‰ø‰Ï‰÷‰»‰÷‰¢‰Ê‰Ù‰Å‰Ä‰Ä‰Î‰º‰Î‰â‰Î‰Î‰ç‰Ó‰µ‰ÉŠ‰—‰µ‰ñ‰Ó‰ç‰Ý‰É‰â‰âŠ ‰Ø‰å‰½‰Ç‰ï‰©‰½‰Ç‰Ç‰Ü‰Ü‰ÈŠ‰Í‰á‰¯‰›‰â‰º‰Ä‰°Š ‰Ä‰Î‰â‰­‰é‰ó‰ß‰î‰î‰Æ‰Æ‰ã‰»‰í‰Å‰è‰è‰Å‰Ù‰Ä‰Ä‰Î‰º‰ÎŠ
+‰Î‰ö‰Ó‰¿‰µ‰É‰¿‰ç‰µ‰É‰Ó‰¿‰Ý‰¡‰ö‰Î‰Ø‰Ø‰½‰å‰Ç‰Ç‰½‰Ñ‰Û‰Û‰ð‰ð‰Ü‰È‰Í‰á‰Ã‰¯‰Î‰Î‰ì‰Ø‰Ä‰Ø‰â‰Î‰Õ‰Á‰Ë‰ß‰Æ‰Æ‰Ú‰Ú‰§‰Ï‰Å‰Å‰ÀŠ‰¶‰Ê‰ö‰Î‰Ø‰Ä‰ì‰Ø‰Î‰º‰Ý‰Ý‰É‰É‰µ‰Ý‰µ‰ÝŠ ‰ì‰Ø‰ì‰«‰ç‰Ó‰ç‰à‰à‰Ö‰Ö‰Ñ‰Ñ‰Ñ‰å‰¾‰æ‰È‰È‰×‰Ã‰¯‰Ã‰É‰Ý‰¿‰Ó‰Ó‰Ó‰ñ‰É‰Õ‰Á‰·‰Ë‰¼‰¼‰Ú‰Ú‰À‰üŠ‰Þ‰Ï‰ã‰Þ‰Ê‰º‰º‰ì‰Ø‰Ä‰°‰ö‰âŠ‰µ‰É‰É‰Ý‰µ‰µ‰Ý‰ì‰°‰Ä‰Ø‰Ó‰ç‰û‰ç‰¸‰¸‰†‰Ö‰Ñ‰ù‰½‰Ñ‰¾‰æ‰Ü‰Ü‰×‰Ã‰×‰Ã‰ñ‰Ý‰¿‰«‰Ó‰«‰É‰É‰Õ‰é‰ß‰ó‰Ð‰ø‰Æ‰Æ‰ü‰è‰Ê‰Ê‰÷Š‰Ô‰Ô‰â‰ö‰Î‰º‰°‰Ä‰Ø‰ì‰ç‰ç‰¿‰Ó‰ç‰ç‰û‰¿‰Ø‰Ø‰Ø‰Ø‰Ó‰¿‰É‰É‰Â‰Â‰Â‰®‰³‰³‰Ç‰ï‰æ‰Ò‰Ü‰È‰×‰¯‰á‰¹Š‰µ‰Ó‰—‰Ý‰É‰ç‰Ó‰ó‰ß‰Ë‰ß‰ä‰Ð‰Ú‰²‰¶‰Ê‰Ê‰Ê‰Å‰í‰Ô‰Ô‰¦‰âŠ
+‰¦‰Ø‰Ä‰Ø‰ì‰«‰«‰¿‰Ó‰Ó‰«‰Ó‰¿‰ÄŠ‰Ø‰Ø‰«‰¿‰ñ‰É‰Ö‰®‰Ö‰ê‰Û‰Û‰Ç‰Ç‰Ò‰¾Š‰ð‰¯‰¯‰á‰á‰Ý‰Ý‰Ó‰¿‰Ý‰É‰ç‰Ó‰·Š‰·‰ó‰¼‰ø‰Æ‰Æ‰¶‰Ê‰Ê‰Ê‰Å‰í‰å‰å‰¼‰ä‰Æ‰Æ‰²‰²‰Ð‰ø‰·‰·‰Á‰Á‰ß‰Ë‰é‰­‰î‰²‰Ú‰ÆŠ‰Ú‰Ð‰ä‰Û‰ïŠ‰ï‰Û‰Û‰å‰ù‰Ê‰Þ‰è‰ü‰§‰§‰±‰Å‰æ‰ú‰Ü‰È‰ë‰Ã‰Ã‰¯‰Ë‰ß‰Ë‰ó‰²‰Æ‰²‰Æ‰ï‰Ç‰½‰Ñ‰Â‰Ö‰½‰½‰¼‰ä‰î‰î‰Ú‰²‰¼‰ä‰·‰·‰Õ‰­‰Ë‰·‰Õ‰Á‰Æ‰²‰Ú‰Æ‰Æ‰Æ‰¼‰ÐŠ‰ï‰Ç‰ï‰Û‰Û‰½‰ù‰Ê‰¶‰À‰Ô‰Ï‰Ï‰±‰Å‰Ò‰¾‰ð‰´‰ë‰Ã‰×‰Ã‰·‰ó‰Ë‰Ë‰î‰²‰î‰Ú‰Û‰³‰©‰å‰ê‰Ö‰Ç‰³‰Ð‰ä‰î‰î‰¨‰Ð‰Ð‰ÐŠ‰é‰Õ‰Õ‰ý‰­‰Õ‰Á‰ä‰¼‰¼‰Ð‰¼‰ä‰î‰Æ‰Û‰Ç‰ï‰ÛŠ‰ù‰å‰å‰ÞŠ‰è‰è‰Ï‰ÏŠ‰Å‰–‰¾‰ª‰¾‰¯‰ë‰Í‰Í‰ó‰ß‰ß‰ó‰ä‰Ð‰Ú‰²‰å‰©Š!‰½‰Ì‰àŠ‰Ç‰¨‰¼‰Ú‰Ú‰ä‰ä‰Ð‰ø‰­‰­‰­‰Õ‰Õ‰ý‰Õ‰Á‰Ð‰ø‰ä‰Ð‰ø‰Ð‰î‰î‰ï‰Û‰ïŠ‰å‰ù‰Ñ‰Ñ‰Ê‰Ê‰è‰À‰ã‰»‰‰Ù‰¾‰¾‰¾‰Ò‰Ã‰×‰Í‰Í‰Ë‰ß‰ß‰Ë‰Ð‰¼‰Ú‰²‰½‰Ñ‰•‰Ñ‰Ì‰à‰Ì‰Ì‰Õ‰Á‰Ë‰ß‰ä‰Ð‰Æ‰î‰­‰Á‰é‰Õ‰î‰Ú‰Ð‰¼‰é‰Á‰é‰Õ‰ÆŠŠ ‰ä‰ùŠŠ5Š!ŠXŠl‰þ‰Ö‰è‰À‰Þ‰Ê‰Ù‰Ù‰í‰Å‰ª‰æ‰ð‰´‰ÿ‰ÿ‰ë‰×‰î‰Æ‰Æ‰Æ‰£Š‰­‰Á‰³‰Ÿ‰½‰Ñ‰‰Ì‰ô‰Ì‰Õ‰ÁŠ‰Ë‰¼‰Ð‰²‰Ú‰Á‰Õ‰ý‰Á‰Ú‰Æ‰ø‰¼‰™‰é‰é‰Õ‰îŠ‰äŠ ŠIŠ…Š™‹%‹H‹Š:Š‰è‰è‰ò‰Þ‰í‰íŠ‰±‰ª‰¾‰È‰´‰×‰×‰Ã‰×‰Ú‰Ú‰²Š‰·‰Ë‰Õ‰é‰Û‰ï‰½‰Ñ‰¤‰à‰Ì‰à‰é‰é‰ýŠ‰Æ‰Ú‰Æ‰²‰ß‰Ë‰ó‰ß‰Æ‰î‰Ð‰ä‰é‰ý‰Ë‰ß‰îŠŠ Š¬‹Œ#+ÐŒ‹Š:Š‰ò‰¶‰Þ‰‰ÅŠ‰Å‰¾‰¾‰´‰´‰Ã‰×‰Í‰¹‰Ð‰¼‰Æ‰Ú‰é‰Õ‰Ë‰Ë‰³‰ï‰Ç‰³‰ô‰¤‰¸‰Ì‰Á‰é‰ý‰Á‰î‰²‰Ú‰î‰ß‰Ë‰ó‰·‰Ú‰²‰ø‰¼‰é‰ýŠ‰ËŠ‰îŠ ‹$ŒyŽù”£¤C« —ŒŒâŠžŠ‰Þ‰Ê‰ò‰í‰Å‰Ù‰í‰Ò‰ª‰Ü‰Ü‰ë‰ÿ‰Í‰á‰¼‰ø‰Ú‰î‰é‰­‰Ë‰ó‰Û‰Ç‰Û‰ï‰ô‰ô‰ó‰ß‰™‰Á‰­‰™‰ß‰ß‰£‰·‰Í‰¹‰Í‰á‰Í‰á‰õ‰áŠ‰ÆŠŠ4ŠŠ>ŠÊ‹¦ä‘à¤dãèç°¼ì‹<Š|Š,‰æ‰æ‰×‰×‰á‰õ‰Ô‰è‰Ê‰Ê‰Þ‰Ê‰Þ‰Ê‰Ü‰È‰æ‰Ò‰æ‰Ò‰ ‰ð‰ó‰ó‰Õ‰Á‰Ú‰Æ‰Ë‰ß‰Á‰Á‰­‰Á‰£‰Ë‰Ë‰·‰õ‰á‰õ‰á‰á‰Í‰Í‰áŠŠ‰¼ŠŠŠŠz‹Vø“©Üåðç§„8‹PŠ|Š,ŠŠ‰ÿ‰×‰á‰Í‰ü‰À‰ò‰Ê‰Þ‰Ê‰ÊŠ‰ð‰Ü‰Ò‰–‰¾‰Ò‰Ü‰Ü‰ó‰Ë‰é‰Õ‰Ú‰Æ‰ß‰ó‰ó‰Ë‰é‰Á‰Á‰Õ‰·‰ß‰×‰ë‰×‰ë‰×‰Ã‰õ‰õ‰ä‰ø‰Ð‰äŠŠŠ>Š¶Œ^ö›¤Ê ±Ž‘Ö‹ðŠˆŠŠ"‰æ‰Ò‰×‰×‰ë‰ë‰ò‰Þ‰Ê‰¶‰Ô‰ü‰Ê‰Ê‰Ò‰æ‰´‰È‰æ‰ª‰–‰æ‰­‰­‰­‰Á‰Æ‰Æ‰ß‰Ë‰·‰·‰Á‰™‰Õ‰Á‰Ë‰Ë‰×‰Ã‰ë‰×‰ÿ‰ë‰á‰á‰ä‰Ð‰ø‰¼‰Ú‰îŠŠf‹2ŒšÄ”ˆ–ŒŠL‰ü‰ú‰æ‰¾‰Ò‰ÿ‰×‰Ã‰ë‰Þ‰ò‰¢‰¶‰Ô‰Ô‰Ê‰ò‰æ‰Ò‰ð‰´‰–‰ª‰Ò‰Ò‰­‰­‰Õ‰Á‰Æ‰Æ‰Õ‰é‰Ð‰ä‰Æ‰Ú‰¼‰Ð‰Æ‰Æ‰Ã‰¯‰ë‰×‰Í‰á‰Í‰¹‰Ð‰¼‰ä‰ø‰é‰ý‰ýŠ%Š=Š¡‹i‹¹‹FŠ’Š‰òŠ"‰Ò‰ú‰æŠ‰È‰Ü‰È‰ã‰Ï‰ã‰»‰ü‰À‰ÞŠ‰×‰×‰¹‰¹‰Í‰á‰Í‰á‰¨Š‰Ð‰Ð‰Æ‰ž‰Á‰­‰¼‰¨‰²‰Æ‰¼‰ø‰²‰Ú‰×‰Ã‰ë‰¯‰¹‰Í‰¹‰Í‰¼‰Ð‰ø‰ä‰é‰Õ‰ý‰ýŠŠ)ŠeŠ=ŠjŠ.‰ò‰ò‰æ‰æ‰æ‰ÒŠ‰ð‰È‰Ü‰»‰Ï‰Ï‰Ï‰Ô‰À‰Þ‰¶‰ë‰Ã‰õ‰Í‰Í‰¹‰Í‰¹‰Ð‰ä‰¼‰¼‰Æ‰Æ‰­‰Á‰Æ‰Æ‰î‰Æ‰Æ‰²‰Æ‰²‰×‰×‰¹‰¹‰¯‰¯Š	‰õ‰Ú‰Æ‰ä‰¼‰Õ‰ý‰ó‰ß‰íŠŠŠ3Š$Š‰ü‰Ô‰ð‰È‰ú‰Ò‰æ‰Ò‰Ò‰¾‰»‰ã‰Ï‰Ï‰è‰Ô‰Þ‰Ê‰Ã‰ÿ‰Ã‰ë‰Ã‰¯‰¯‰›‰¨‰ä‰Ð‰ä‰¼‰Ð‰Õ‰Á‰²‰Ú‰Ú‰Ú‰Ú‰ž‰²‰ž‰Ã‰Ã‰á‰á‰ë‰Ã‰ÍŠ	‰Ú‰Æ‰¼‰ä‰Õ‰Õ‰ß‰ó‰í‰ÅŠ‰ã‰üŠ‰ü‰ÔŠ‰ð‰Ò‰ú‰ÒŠ‰æ‰ú‰ã‰»‰Ï‰Ï‰Ô‰À‰¶‰Ê‰ë‰×‰ë‰Ã‰ÿ‰ë‰×‰ë‰¼‰Ð‰¼‰¨‰ä‰ÐŠ‰´‰ð‰È‰´‰È‰Ü‰È‰È‰Ü‰Å‰±‰±‰Ù‰Š‰Ï‰Ï‰ú‰ú‰Ò‰æ‰ð‰Ü‰È‰ÈŠ‰Ã‰×‰×‰Ü‰ð‰ðŠŠ‰ä‰Ú‰î‰²‰î‰ø‰Ð‰á‰¥‰¥‰á‰¹‰á‰×‰Ã‰Ù‰‰Ï‰ã‰ò‰Ê‰Þ‰Þ‰î‰Æ‰Æ‰Æ‰Á‰­‰´‰´‰È‰ ‰È‰´‰È‰´‰Ü‰È‰±‰Å‰í‰Å‰±‰Å‰Ï‰÷‰æ‰¾‰Ò‰æ‰È‰Ü‰´‰Ü‰¯‰ÿ‰Ã‰ÃŠ‰ðŠŠ‰¼‰ä‰î‰Ú‰Ú‰Æ‰¼‰¼‰Í‰¹‰Í‰á‰Í‰Í‰ë‰×‰Ù‰Å‰§‰ã‰Þ‰¶‰Þ‰Þ‰²‰Ú‰Æ‰Æ‰­‰Á‰æ‰Ò‰È‰È‰´‰È‰Ò‰ú‰´‰È‰±‰Ù‰Ï‰ã‰ã‰»‰Å‰í‰ð‰ð‰æ‰ªŠ‰Ü‰ú‰Ò‰×‰×‰õ‰Í‰´‰ÈŠ‰È‰î‰Ú‰¼‰ä‰Ð‰¼‰ä‰¼‰ë‰Ã‰×‰Ã‰×‰×‰á‰õ‰»‰»Š‰Å‰Ê‰ò‰Ô‰À‰Ð‰ä‰²‰Ú‰Õ‰Õ‰¾‰ª‰ð‰È‰Ü‰È‰æ‰¾‰ð‰Ü‰Ù‰Ù‰÷‰ã‰Ï‰÷‰í‰Å‰È‰ ‰¾‰Ò‰´‰´‰ú‰Ò‰ë‰Ã‰Í‰Í‰È‰Ü‰ð‰È‰Ú‰î‰Ð‰Ð‰Ð‰ä‰¼‰ä‰Ã‰›‰ë‰¯‰ë‰Ã‰á‰Í‰»‰»‰Å‰ÙŠ‰Þ‰Ô‰À‰Ð‰ä‰²Š‰Á‰Á‰Ò‰Ò‰á‰Í‰á‰¹‰á‰Í‰×‰ë‰¶‰Þ‰¶‰Ê‰Å‰Å‰±‰±‰¯‰Ã‰×‰×‰æŠŠ"‰Ò‰æ‰Ò‰Ò‰Ò‰Í‰Í‰á‰á‰²‰î‰¼‰Ð‰Á‰Õ‰Ë‰Ë‰á‰õ‰Ã‰›‰Í‰Í‰×‰ë‰Ô‰À‰¬‰ü‰Þ‰Ê‰¢‰Ê‰Ú‰Æ‰Ú‰Ú‰Ú‰Š‰¾‰¾‰¹‰õ‰õ‰Í‰á‰Í‰Ã‰¯‰Þ‰¶‰Ê‰Þ‰Ù‰Ù‰Å‰í‰Ã‰×‰Ã‰ë‰Ò‰ª‰¾‰æ‰æ‰Ò‰Ò‰Ò‰á‰á‰á‰¹‰Ú‰î‰Ð‰¼‰Õ‰Á‰·‰ß‰Í‰á‰ë‰ë‰Í‰Í‰›‰¯‰Ô‰À‰è‰˜‰Ê‰¶‰Þ‰¶‰Æ‰Ú‰Ú‰²‰Æ‰î‰Ò‰Ò‰õ‰¥‰×‰×‰ë‰¯‰á‰áŠ‰Þ‰¶‰¶‰Ù‰í‰ã‰»‰¯‰Ã‰ë‰×‰Ò‰Ò‰Ü‰Ü‰È‰Ü‰¾‰Ò‰×‰ë‰ÍŠ‰¨‰¼‰ø‰Ð‰Á‰Á‰Á‰é‰¹‰Í‰Ã‰×‰Ã‰×‰¯‰ë‰è‰¬‰è‰Ô‰Ê‰Þ‰Ô‰Ô‰Æ‰Ú‰Ð‰ä‰ø‰ä‰Ò‰ª‰Í‰¥‰×‰×‰Ã‰×‰Í‰Í‰Ê‰Ê‰Þ‰Þ‰Å‰±‰Ï‰§‰ÿ‰Ã‰Ã‰¯‰¾‰¾‰Ü‰´‰È‰´‰Ò‰æ‰Ã‰×‰á‰á‰ä‰Ð‰¼‰ä‰Õ‰­‰Õ‰Õ‰Í‰¹‰‡‰ë‰ë‰×‰ë‰ÿ‰Ô‰À‰Ô‰è‰¶‰Ê‰Ô‰Ô‰Ú‰Æ‰¼‰Ð‰Ð‰¼‰Ù‰±‰ ‰Ü‰ª‰ª‰Ã‰×‰á‰Í‰Â‰®‰à‰¸‰Ñ‰Ñ‰³‰Ç‰Ú‰Æ‰ä‰¨‰ž‰î‰²‰Ú‰î‰Æ‰Æ‰ž‰Æ‰Ú‰¼‰¼‰›‰×‰Í‰á‰Í‰Í‰¥‰á‰¹‰õ‰õ‰Í‰Í‰¥‰×‰ÿ‰Å‰í‰Ù‰í‰Þ‰Ê‰Þ‰Þ‰Â‰Â‰¸‰¸‰ê‰Ö‰Å‰Å‰È‰´‰Ò‰Ò‰×‰Ã‰á‰õ‰Ö‰ê‰à‰à‰©‰©‰Ÿ‰Û‰Æ‰²‰Ð‰ä‰Ú‰²‰î‰î‰Ú‰Ú‰Ú‰Ú‰Æ‰Ú‰¼‰¼‰Ã‰¯‰¹‰õ‰¹‰¹‰á‰¥Š	‰Í‰Í‰Í‰¹‰¹‰Ã‰Ã‰Å‰í‰‰ÙŠ‰ò‰Þ‰¶‰ÂŠ‰¸‰¸‰Â‰Ö‰“‰»‰¾‰Ò‰¾‰¾‰¹‰¥‰¹‰Í‰Â‰ê‰à‰¤‰Ÿ‰³‰Ñ‰½‰Ð‰ø‰Ð‰¨‰Ú‰²‰Ð‰ä‰ä‰¨‰Ú‰Ú‰ä‰¨‰¼‰Ð‰×‰ë‰á‰á‰¹‰Í‰á‰Í‰Í‰á‰¹‰Í‰×‰×‰Í‰Í‰ã‰ã‰Ù‰Å‰Ô‰À‰À‰è‰Â‰Ö‰¸‰¤‰Ì‰¸‰»‰»‰Ò‰æ‰ú‰Ò‰õ‰á‰Í‰á‰Â‰ê‰à‰Ì‰Û‰ï‰Ñ‰½‰¼‰ä‰Ð‰ø‰î‰Æ‰ø‰”‰¼‰ø‰²‰Ú‰¼‰Ð‰Ð‰¼‰×‰ë‰Í‰Í‰Í‰¹‰¹‰¥‰á‰Í‰á‰Í‰Ã‰Ã‰¹‰¹‰Ï‰Ï‰Å‰Ù‰Ô‰è‰Ô‰Ô‰Ö‰Â‰Ì‰à‰à‰Ì‰Ï‰ÏŠ‰ðŠ‰æ‰ë‰×‰›‰¯‰Â‰Ö‰Ì‰ô‰¸‰¸‰Ì‰Ì‰Ú‰²‰ä‰ä‰Ë‰ó‰ß‰Ë‰·‰·‰ß‰ß‰·‰ß‰ÁŠ‰×‰×‰¥‰Í‰Ü‰Ü‰¾‰ª‰Í‰á‰Í‰Í‰ð‰ð‰È‰È‰»‰ã‰Å‰Å‰¢‰Ê‰¶‰¶‰Ö‰Â‰Â‰ê‰Ì‰¸‰Ï‰Ï‰´‰È‰ªŠ"‰›‰×‰×‰ë‰Ö‰ê‰Ì‰ô‰Ì‰Ì‰¸‰¸‰Ú‰²‰¼‰¼‰ß‰ß‰·‰ó‰Ë‰ó‰Ë‰ó‰·‰ß‰™‰Á‰¯‰×‰¹‰¹‰È‰È‰æ‰ª‰Í‰á‰á‰á‰Ü‰Ü‰´Š‰ã‰ã‰±‰Ù‰Þ‰¶‰Ê‰ò‰š‰®Š&‰®‰à‰ô‰»‰Ï‰Ò‰æ‰¾‰¾‰Ã‰¯‰Í‰¹‰Â‰Â‰àŠ‰Ì‰ôŠ‰Ì‰¼‰ä‰Ú‰Ú‰ß‰·‰·‰Ë‰é‰é‰­‰Á‰ß‰·‰·‰Ë‰Ã‰×‰á‰á‰¾‰Ò‰¾‰æ‰á‰Í‰á‰Í‰Ò‰æ‰¾‰¾‰ã‰»‰ã‰Ï‰¶‰Ê‰Ô‰Ô‰Ö‰®‰®‰ê‰à‰à‰Ï‰ã‰¾‰Ò‰Ò‰ª‰×‰ë‰õ‰á‰Ö‰Ö‰à‰à‰¤‰Ì‰¸‰à‰ä‰ä‰²‰Ú‰Ë‰£‰ó‰·Š‰é‰Á‰­‰·‰·‰ß‰ó‰Ã‰×‰¥‰Í‰Ò‰æ‰Ò‰Ò‰á‰õ‰á‰õ‰ú‰¾‰¾‰æ‰÷‰Ï‰÷‰»‰¶‰Ê‰À‰À‰Ö‰Ö‰Ö‰Â‰ô‰Ì‰š‰Â‰Ê‰¶‰¶‰Þ‰Þ‰Þ‰¶‰Þ‰½‰½‰å‰ù‰ô‰Ì‰Ì‰Ì‰Ý‰É‰«‰Ó‰â‰º‰Ø‰Ä‰æ‰¾‰æ‰¾‰È‰Ü‰Ò‰¾‰×‰Ã‰ë‰×‰Ü‰´‰¾‰ª‰é‰Á‰Õ‰Á‰Ð‰Ð‰ø‰ø‰ë‰ÿ‰õ‰Í‰¾‰Ò‰¾‰ú‰Î‰â‰Ä‰Ø‰Î‰¦‰Â‰Â‰ò‰¶‰¶‰Þ‰Þ‰¶‰¶‰¶‰Ñ‰Ñ‰©‰½‰¤‰Ì‰ô‰ô‰É‰µ‰Ó‰Ó‰â‰º‰ÄŠ ‰ú‰ú‰¾‰¾‰È‰Ü‰ÒŠ‰Ã‰¯‰Ã‰×‰´‰Ü‰ú‰¾‰é‰Á‰Õ‰Á‰ä‰ä‰ø‰Ð‰×‰Ã‰¹‰á‰¾‰Ò‰Ò‰–‰â‰¦Š ‰ì‰º‰º‰¤‰¸‰Ê‰Þ‰Ê‰Þ‰¬‰è‰À‰À‰Ñ‰ù‰½‰©‰à‰¸‰Ì‰ô‰É‰Ý‰É‰É‰º‰Î‰â‰âŠ‰æ‰¾‰ú‰Ü‰Ü‰ª‰¾‰×‰Ã‰á‰Í‰æ‰Ò‰ð‰Ü‰é‰Õ‰Ë‰Ë‰î‰î‰ÐŠ Š'‰ë‰õ‰¥‰È‰È‰¾‰Ò‰Ø‰Ø‰Ø‰Ø‰ÄŠ‰à‰¤‰ò‰Þ‰¶‰Ê‰Ô‰è‰Ô‰¬‰½‰½‰½‰©‰Ì‰¤‰à‰¸‰É‰µ‰ñ‰¡‰º‰Î‰º‰º‰ú‰ú‰–‰‚‰È‰È‰–‰Ò‰×‰Ã‰¥‰á‰¾‰ú‰Ü‰È‰Õ‰Á‰Ë‰Ë‰î‰î‰äŠ4‰Ã‰¯‰Í‰õ‰´‰´‰ú‰¾Š ‰°‰°Š ‰Ø‰Ø‰à‰Ì‰ò‰¶‰Ê‰Þ‰ã‰§‰ã‰§‰¤‰à‰Â‰Â‰Â‰®‰Â‰Ö‰¿‰¿‰É‰Ý‰Ó‰¿‰É‰É‰Ü‰Ü‰ ‰È‰Ã‰¯‰ÍŠ	‰¾‰¾‰ÜŠ‰á‰õ‰×‰ë‰Ú‰Æ‰¨‰¼‰¼‰¨‰Ú‰Æ‰´‰Ü‰¾‰æ‰æ‰ú‰¾‰æ‰Ø‰Ä‰Ø‰Ä‰Ä‰ì‰à‰Ì‰¶‰Ê‰Ê‰¶‰Ï‰»‰»‰§‰¸‰¤‰þ‰Ö‰þ‰Â‰Â‰®‰«‰Ó‰¡‰µ‰Ó‰¿‰µŠ‰ ‰È‰È‰ð‰ë‰ÿ‰Í‰á‰æ‰¾‰È‰È‰¥‰á‰›‰×‰Æ‰²‰ä‰Ð‰ø‰ä‰Ú‰Æ‰È‰È‰æ‰æ‰æ‰ú‰ú‰ª‰°‰Ä‰ì‰Ø‰Ä‰Ä‰Ì‰à‰Þ‰¢‰À‰Ô‰ã‰÷‰ã‰ã‰þ‰Ö‰Â‰Â‰®‰ÂŠ‰à‰Ý‰¡‰¡‰Ý‰«‰¿‰É‰ñ‰´‰Ü‰Ò‰æ‰á‰Í‰¹‰Í‰æ‰æ‰ª‰Ò‰Í‰¹‰×‰¯‰Æ‰î‰¼‰Ð‰ä‰¼‰Ú‰î‰¾‰Ò‰¾‰Ò‰¾‰æ‰Ò‰æ‰º‰Î‰¦‰Î‰Î‰Î‰¸‰Ì‰¶‰Ê‰À‰¬‰Ï‰»‰§‰Ï‰Ö‰Ö‰Ö‰®‰®‰Â‰à‰à‰É‰Ý‰Ý‰É‰¿‰Ó‰µ‰µ‰Ü‰Ü‰æ‰ª‰õ‰¹‰õ‰¹‰Ò‰Ò‰¾‰æ‰á‰Í‰ë‰›‰Ú‰Ú‰¼‰ÐŠ ‰Ð‰Æ‰²‰ú‰¾‰æ‰Ò‰æ‰æ‰¾‰Ò‰º‰¦‰º‰º‰â‰â‰ð‰Ü‰å‰½‰Û‰Ç‰Â‰Ö‰¸‰à‰Ð‰ä‰Æ‰Æ‰·‰·‰ß‰ß‰µ‰µ‰É‰¡‰Î‰â‰â‰Î‰³‰Û‰ï‰Û‰ô‰Ì‰Ö‰Ö‰Ê‰¢‰Ô‰À‰Ï‰Ï‰Å‰±‰¬‰è‰¬‰èŠ3‰§‰»‰ã‰Ì‰Ì‰à‰¤‰Ì‰¤‰ô‰¸‰Æ‰î‰î‰Ú‰Æ‰Æ                                                                                                                                                                                                                                                                                                                                                                                                                                                                
